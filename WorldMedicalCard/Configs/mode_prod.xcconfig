@@ -1,0 +1,17 @@
+#include "base.xcconfig"
+
+MODE_SUFFIX =
+
+PRODUCT_BUNDLE_IDENTIFIER = com.wmc-card.app1
+APP_DISPLAY_NAME = World Medical Card
+
+GOOGLE_PLIST_PATH = $(TARGET_NAME)/GoogleService-Info.plist
+
+CODE_SIGN_ENTITLEMENTS = $(TARGET_NAME)/WorldMedicalCard.entitlements
+
+API_BASE_URL = https:/$()/wmc-prod-mobile-client-api.azurewebsites.net/
+
+FIR_URL_SCHEME = com.googleusercontent.apps.693992819935-nsllva5mnjjedhk4h6gpshehhgo3s7d6
+
+
+LOKALISE_TYPE = release

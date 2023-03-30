@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="SF-Pro-Display-Bold.ttf">
+            <string>SFProDisplay-Bold</string>
+        </array>
+        <array key="SF-Pro-Display-Regular.ttf">
+            <string>SFProDisplay-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" rowHeight="150" id="KGk-i7-Jjw" customClass="TranslateCell" customModule="WorldMedicalCard" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="150"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="150"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6Vo-kg-Lsb">
+                        <rect key="frame" x="16" y="24" width="288" height="20.5"/>
+                        <fontDescription key="fontDescription" name="SFProDisplay-Bold" family="SF Pro Display" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="TtF-di-dPo">
+                        <rect key="frame" x="16" y="53.5" width="288" height="87.5"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Qnb-0P-Lnb">
+                                <rect key="frame" x="12" y="12" width="264" height="39.5"/>
+                                <fontDescription key="fontDescription" name="SFProDisplay-Bold" family="SF Pro Display" pointSize="17"/>
+                                <color key="textColor" red="0.25882352941176467" green="0.59999999999999998" blue="0.88235294117647056" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gp4-hn-iVo">
+                                <rect key="frame" x="12" y="58.5" width="34.5" height="18"/>
+                                <fontDescription key="fontDescription" name="SFProDisplay-Regular" family="SF Pro Display" pointSize="15"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="Qnb-0P-Lnb" secondAttribute="trailing" constant="12" id="Bob-uf-3WO"/>
+                            <constraint firstItem="Qnb-0P-Lnb" firstAttribute="top" secondItem="TtF-di-dPo" secondAttribute="top" constant="12" id="GcX-Bg-spW"/>
+                            <constraint firstAttribute="bottom" secondItem="gp4-hn-iVo" secondAttribute="bottom" constant="11" id="KCh-nh-W8B"/>
+                            <constraint firstItem="Qnb-0P-Lnb" firstAttribute="leading" secondItem="TtF-di-dPo" secondAttribute="leading" constant="12" id="clw-M8-Zrj"/>
+                            <constraint firstItem="gp4-hn-iVo" firstAttribute="leading" secondItem="Qnb-0P-Lnb" secondAttribute="leading" id="eWi-vT-ySf"/>
+                            <constraint firstItem="gp4-hn-iVo" firstAttribute="top" secondItem="Qnb-0P-Lnb" secondAttribute="bottom" constant="7" id="gGW-pp-m2c"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="13"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" name="backgroundColor"/>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="TtF-di-dPo" secondAttribute="trailing" constant="16" id="9BP-Ih-zHc"/>
+                    <constraint firstItem="TtF-di-dPo" firstAttribute="top" secondItem="6Vo-kg-Lsb" secondAttribute="bottom" constant="9" id="Bbo-IU-iwg"/>
+                    <constraint firstItem="TtF-di-dPo" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="16" id="GUW-D1-TCX"/>
+                    <constraint firstItem="6Vo-kg-Lsb" firstAttribute="leading" secondItem="TtF-di-dPo" secondAttribute="leading" id="LWD-sr-7Bj"/>
+                    <constraint firstAttribute="bottom" secondItem="TtF-di-dPo" secondAttribute="bottom" constant="9" id="e4p-Aj-ZSt"/>
+                    <constraint firstItem="6Vo-kg-Lsb" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="24" id="oRO-wz-oEq"/>
+                    <constraint firstItem="6Vo-kg-Lsb" firstAttribute="trailing" secondItem="TtF-di-dPo" secondAttribute="trailing" id="uTl-gW-RAi"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="codeLabel" destination="gp4-hn-iVo" id="bR1-Yn-rRr"/>
+                <outlet property="primaryTitleLabel" destination="6Vo-kg-Lsb" id="bCU-4M-obv"/>
+                <outlet property="secondaryTitleLabel" destination="Qnb-0P-Lnb" id="maA-28-qhk"/>
+            </connections>
+            <point key="canvasLocation" x="137.68115942028987" y="139.28571428571428"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <namedColor name="backgroundColor">
+            <color red="0.89800000190734863" green="0.89800000190734863" blue="0.89800000190734863" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>

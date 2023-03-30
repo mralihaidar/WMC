@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Stack View standard spacing" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="DashboardHeaderView" customModule="WorldMedicalCard" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="658" height="52"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="GAs-3D-jMT">
+                    <rect key="frame" x="0.0" y="0.0" width="658" height="40"/>
+                    <subviews>
+                        <stackView opaque="NO" contentMode="scaleToFill" spacingType="standard" translatesAutoresizingMaskIntoConstraints="NO" id="Ura-Ot-xn8">
+                            <rect key="frame" x="0.0" y="0.0" width="658" height="66"/>
+                            <subviews>
+                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="rzM-wF-F0Y">
+                                    <rect key="frame" x="16" y="32" width="30" height="0.0"/>
+                                    <constraints>
+                                        <constraint firstAttribute="width" constant="30" id="qpO-af-e6I"/>
+                                    </constraints>
+                                </imageView>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Allergies" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="geq-8e-TwO">
+                                    <rect key="frame" x="54" y="32" width="552" height="0.0"/>
+                                    <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="20"/>
+                                    <nil key="textColor"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="chevron-up" translatesAutoresizingMaskIntoConstraints="NO" id="273-gx-7fD">
+                                    <rect key="frame" x="614" y="32" width="40" height="0.0"/>
+                                    <constraints>
+                                        <constraint firstAttribute="width" constant="40" id="Ndd-6N-oCE"/>
+                                    </constraints>
+                                </imageView>
+                            </subviews>
+                            <edgeInsets key="layoutMargins" top="0.0" left="16" bottom="0.0" right="4"/>
+                        </stackView>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1zE-6X-e09">
+                            <rect key="frame" x="0.0" y="0.0" width="658" height="66"/>
+                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            <connections>
+                                <action selector="sectionHeaderTapped:" destination="iN0-l3-epB" eventType="touchUpInside" id="dNm-Cf-TfD"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" name="backgroundColor"/>
+                    <constraints>
+                        <constraint firstAttribute="bottom" secondItem="Ura-Ot-xn8" secondAttribute="bottom" id="3pZ-De-XkA"/>
+                        <constraint firstAttribute="trailing" secondItem="1zE-6X-e09" secondAttribute="trailing" id="8du-hP-rKm"/>
+                        <constraint firstItem="1zE-6X-e09" firstAttribute="top" secondItem="GAs-3D-jMT" secondAttribute="top" id="V66-3B-Jrx"/>
+                        <constraint firstAttribute="trailing" secondItem="Ura-Ot-xn8" secondAttribute="trailing" id="Zss-hy-kek"/>
+                        <constraint firstItem="1zE-6X-e09" firstAttribute="leading" secondItem="GAs-3D-jMT" secondAttribute="leading" id="ljE-ty-Ke1"/>
+                        <constraint firstItem="Ura-Ot-xn8" firstAttribute="leading" secondItem="GAs-3D-jMT" secondAttribute="leading" id="mMD-wl-8c2"/>
+                        <constraint firstItem="Ura-Ot-xn8" firstAttribute="top" secondItem="GAs-3D-jMT" secondAttribute="top" id="ugD-VP-r2T"/>
+                        <constraint firstAttribute="bottom" secondItem="1zE-6X-e09" secondAttribute="bottom" id="wOH-5Y-UXA"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <constraints>
+                <constraint firstItem="GAs-3D-jMT" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="7Cw-cG-V5A"/>
+                <constraint firstAttribute="bottom" secondItem="GAs-3D-jMT" secondAttribute="bottom" priority="999" id="Epv-T3-yPY"/>
+                <constraint firstItem="GAs-3D-jMT" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="12" id="pXP-33-UOb"/>
+                <constraint firstAttribute="trailing" secondItem="GAs-3D-jMT" secondAttribute="trailing" id="qrU-Lg-IDd"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="arrowImageView" destination="273-gx-7fD" id="qSR-Km-6G5"/>
+                <outlet property="itemImageView" destination="rzM-wF-F0Y" id="6ed-tg-Ilo"/>
+                <outlet property="itemTitleLabel" destination="geq-8e-TwO" id="CvQ-zy-ZdG"/>
+                <outlet property="mainContentView" destination="GAs-3D-jMT" id="G2n-qZ-ohi"/>
+                <outlet property="sectionHeaderButton" destination="1zE-6X-e09" id="WGJ-HS-N7r"/>
+            </connections>
+            <point key="canvasLocation" x="311.59420289855075" y="-112.83482142857142"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="chevron-up" width="40" height="40"/>
+        <namedColor name="backgroundColor">
+            <color red="0.89800000190734863" green="0.89800000190734863" blue="0.89800000190734863" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>

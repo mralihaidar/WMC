@@ -1,0 +1,842 @@
+"landing_login_button" = "Anmeldung";
+"landing_register_button" = "Registrieren";
+"world_medical_card_r" = "World Medical Card®";
+"your_personal_medical_record_n_always_available" = "Ihre persönliche Krankenakte \n immer verfügbar";
+"button_next" = "Weiter";
+"button_skip_tour" = "Tour überspringen";
+"intro_number_of_pages" = "3";
+"intro_content_image_1" = "intro_image_1";
+"intro_content_image_2" = "intro_image_2";
+"intro_content_image_3" = "intro_image_3";
+"intro_content_title_1" = "Füllen Sie Ihre Informationen aus";
+"intro_content_title_2" = "Sorgenfrei reisen";
+"intro_content_title_3" = "Teilen Sie Ihre Informationen";
+"intro_content_description_1" = "Ihre medizinischen Informationen werden gemäß den globalen Standards der Weltgesundheitsorganisation (ICD-10, ATC) kodiert, um sicherzustellen, dass Ihr Gesundheitszustand und Ihre Anforderungen von medizinischem Fachpersonal und pharmazeutischem Personal auf der ganzen Welt verstanden werden.";
+"intro_content_description_2" = "Sie haben Ihr eigenes persönliches Profil, auf das Sie per App oder Browser zugreifen können. Es gibt eine eingebaute Übersetzungsfunktion für 19 Sprachen, die die Kommunikation in relevanten lokalen Begriffen erleichtert.";
+"intro_content_description_3" = "Sie können Ihr Profil mit Verwandten, Reisepartnern oder anderen Personen teilen, denen Sie vertrauen, damit diese Sie in erster Linie unterstützen können.";
+"i_accept_the_terms_and_conditions" = "Ich akzeptiere die allgemeinen Geschäftsbedingungen";
+"terms_and_conditions_title" = "Geschäftsbedingungen";
+"terms_text" = "Terms & amp; Bedingungen\
+ Aktualisiert am 01.01.2022 \
+\
+ Allgemeine Bedingungen\
+ Indem Sie auf zugreifen und eine Bestellung bei aufgeben, bestätigen Sie, dass Sie mit den in den unten aufgeführten Allgemeinen Geschäftsbedingungen enthaltenen Nutzungsbedingungen einverstanden sind und an diese gebunden sind. Diese Bedingungen gelten für die gesamte Website und jede E-Mail oder andere Art der Kommunikation zwischen Ihnen und World Medical Card. \
+\
+ Team haftet unter keinen Umständen für direkte, indirekte, besondere, zufällige oder Folgeschäden, einschließlich, aber nicht beschränkt auf Daten- oder Gewinnverluste, die sich aus der Nutzung oder der Unmöglichkeit der Nutzung der Materialien auf dieser Website ergeben , auch wenn team oder ein bevollmächtigter Vertreter auf die Möglichkeit solcher Schäden hingewiesen wurde. Wenn Ihre Nutzung von Materialien dieser Website dazu führt, dass Geräte oder Daten gewartet, repariert oder korrigiert werden müssen, übernehmen Sie alle Kosten dafür. \
+\
+ World Medical Card übernimmt keine Verantwortung für Folgen, die im Laufe der Nutzung unserer Ressourcen auftreten können. Wir behalten uns das Recht vor, Preise zu ändern und die Ressourcennutzungsrichtlinie jederzeit zu überarbeiten. \
+\
+ Lizenz\
+ World Medical Card gewährt Ihnen eine widerrufliche, nicht ausschließliche, nicht übertragbare, beschränkte Lizenz zum Herunterladen, Installieren und Verwenden unseres Dienstes in strikter Übereinstimmung mit den Bedingungen dieser Vereinbarung. \
+\
+ Diese Allgemeinen Geschäftsbedingungen sind ein Vertrag zwischen Ihnen und World Medical Card (in diesen Allgemeinen Geschäftsbedingungen als „World Medical Card“, „uns“, „wir“ oder „unser“ bezeichnet), dem Anbieter der World Medical Card-Website und die Dienste, auf die über die World Medical Card-Website zugegriffen werden kann (die in diesen Allgemeinen Geschäftsbedingungen zusammenfassend als „World Medical Card-Dienst“ bezeichnet werden). \
+\
+ Sie stimmen zu, an diese Allgemeinen Geschäftsbedingungen gebunden zu sein. Wenn Sie diesen Allgemeinen Geschäftsbedingungen nicht zustimmen, nutzen Sie den Dienst bitte nicht. In diesen Allgemeinen Geschäftsbedingungen bezieht sich „Sie“ sowohl auf Sie als Einzelperson als auch auf die juristische Person, die Sie vertreten. Wenn Sie gegen eine dieser Allgemeinen Geschäftsbedingungen verstoßen, behalten wir uns das Recht vor, Ihr Konto ohne Vorankündigung zu kündigen oder den Zugriff auf Ihr Konto zu sperren. \
+\
+ Definitionen und Schlüsselbegriffe\
+ Für diese Allgemeinen Geschäftsbedingungen: \
+\
+ • Cookie: kleine Datenmenge, die von einer Website generiert und von Ihrem Webbrowser gespeichert wird. Es wird verwendet, um Ihren Browser zu identifizieren, Analysen bereitzustellen und Informationen über Sie zu speichern, wie z. B. Ihre Spracheinstellung oder Anmeldeinformationen. \
+\
+ • Unternehmen: Wenn in dieser Richtlinie „Unternehmen“, „wir“, „uns“ oder „unser“ erwähnt wird, bezieht sich dies auf World Medical Card, Gamlehaugvegen 20, 5231 Paradis, das gemäß dieser Datenschutzrichtlinie für Ihre Daten verantwortlich ist. \
+\
+ • Land: wo World Medical Card oder die Eigentümer/Gründer von World Medical Card ansässig sind, in diesem Fall Norwegen. \
+\
+ • Kunde: bezieht sich auf das Unternehmen, die Organisation oder die Person, die sich zur Nutzung des World Medical Card Service anmeldet, um die Beziehungen zu Ihren Verbrauchern oder Servicebenutzern zu verwalten. \
+\
+ • Gerät: jedes mit dem Internet verbundene Gerät wie Telefon, Tablet, Computer oder jedes andere Gerät, das verwendet werden kann, um World Medical Card zu besuchen und die Dienste zu nutzen. \
+\
+ • IP-Adresse: Jedem mit dem Internet verbundenen Gerät wird eine Nummer zugewiesen, die als Internet Protocol (IP)-Adresse bezeichnet wird. Diese Nummern werden normalerweise in geografischen Blöcken vergeben. Eine IP-Adresse kann häufig verwendet werden, um den Standort zu identifizieren, von dem aus sich ein Gerät mit dem Internet verbindet. \
+\
+ • Personal: bezieht sich auf Personen, die bei World Medical Card angestellt oder unter Vertrag stehen, um im Namen einer der Parteien eine Dienstleistung zu erbringen. \
+\
+ • Personenbezogene Daten: alle Informationen, die direkt, indirekt oder in Verbindung mit anderen Informationen – einschließlich einer persönlichen Identifikationsnummer – die Identifizierung oder Identifizierbarkeit einer natürlichen Person ermöglichen. \
+\
+ • Service: bezieht sich auf den von World Medical Card bereitgestellten Service, wie in den entsprechenden Bedingungen (falls verfügbar) und auf dieser Plattform beschrieben. \
+\
+ • Drittanbieter-Service: bezieht sich auf Werbetreibende, Sponsoren von Wettbewerben, Werbe- und Marketingpartner und andere, die unsere Inhalte bereitstellen oder deren Produkte oder Dienstleistungen Sie unserer Meinung nach interessieren könnten. \
+\
+ • Website: Website von World Medical Card, auf die über diese URL zugegriffen werden kann: https://worldmedicalcard.org \
+\
+ • Sie: eine natürliche oder juristische Person, die bei World Medical Card registriert ist, um die Dienste zu nutzen. \
+\
+ Beschränkungen\
+ Sie stimmen zu, dies nicht zu tun, und Sie werden anderen nicht gestatten: \
+\
+ • Den Service lizenzieren, verkaufen, vermieten, leasen, abtreten, verteilen, übertragen, hosten, auslagern, offenlegen oder anderweitig kommerziell nutzen oder die Plattform Dritten zur Verfügung stellen. \
+\
+ • Teile des Dienstes zu modifizieren, abgeleitete Werke davon zu erstellen, zu disassemblieren, zu entschlüsseln, zurückzukompilieren oder zurückzuentwickeln. \
+\
+ • Entfernen, ändern oder unkenntlich machen von Eigentumshinweisen (einschließlich Urheberrechts- oder Markenhinweisen) von oder seinen verbundenen Unternehmen, Partnern, Lieferanten oder Lizenzgebern des Dienstes. \
+\
+ Rückgabe- und Rückerstattungsrichtlinie\
+ Vielen Dank für Ihren Einkauf bei uns. Wir wissen es zu schätzen, dass Sie die Sachen, die wir bauen, gerne kaufen. Wir möchten auch sicherstellen, dass Sie eine lohnende Erfahrung machen, während Sie unsere Produkte erkunden, bewerten und kaufen. \
+\
+ Wie bei jedem Einkaufserlebnis gibt es Geschäftsbedingungen, die für Transaktionen in unserem Unternehmen gelten. Wir werden uns so kurz fassen, wie es unsere Anwälte zulassen. Das Wichtigste, woran Sie denken sollten, ist, dass Sie durch die Aufgabe einer Bestellung oder einen Kauf bei uns den Bedingungen zusammen mit unserer Datenschutzrichtlinie zustimmen. \
+\
+ Wenn Sie aus irgendeinem Grund mit den von uns angebotenen Waren oder Dienstleistungen nicht vollständig zufrieden sind, zögern Sie nicht, uns zu kontaktieren, und wir werden alle Probleme besprechen, die Sie mit unserem Produkt haben. \
+\
+ Deine Vorschläge\
+ Alle Rückmeldungen, Kommentare, Ideen, Verbesserungen oder Vorschläge (zusammen „Vorschläge“), die Sie uns in Bezug auf den Service zur Verfügung stellen, bleiben unser alleiniges und ausschließliches Eigentum. Es steht uns frei, die Vorschläge für jeden Zweck und in irgendeiner Weise ohne Anerkennung oder Entschädigung an Sie zu verwenden, zu kopieren, zu ändern, zu veröffentlichen oder weiterzuverbreiten. \
+\
+ Ihre Zustimmung\
+ Wir haben unsere Allgemeinen Geschäftsbedingungen aktualisiert, um Ihnen vollständige Transparenz darüber zu bieten, was eingestellt wird, wenn Sie unsere Website besuchen, und wie es verwendet wird. Indem Sie unseren Service nutzen, ein Konto registrieren oder einen Kauf tätigen, stimmen Sie hiermit unseren Allgemeinen Geschäftsbedingungen zu. \
+\
+ Links zu anderen Websites\
+ Unser Service kann Links zu anderen Websites enthalten, die nicht von uns betrieben werden. Wenn Sie auf einen Link eines Drittanbieters klicken, werden Sie auf die Website dieses Drittanbieters weitergeleitet. Wir empfehlen Ihnen dringend, die Allgemeinen Geschäftsbedingungen jeder Website, die Sie besuchen, zu lesen. Wir haben keine Kontrolle über und übernehmen keine Verantwortung für die Inhalte, Geschäftsbedingungen oder Praktiken von Websites oder Diensten Dritter. \
+\
+ Kekse\
+ Wir verwenden „Cookies“, um die Bereiche unserer Website zu identifizieren, die Sie besucht haben. Ein Cookie ist ein kleines Datenelement, das von Ihrem Webbrowser auf Ihrem Computer oder Mobilgerät gespeichert wird. Wir verwenden Cookies, um die Leistung und Funktionalität unseres Dienstes zu verbessern, sind jedoch für ihre Verwendung nicht unbedingt erforderlich. Ohne diese Cookies sind jedoch möglicherweise bestimmte Funktionen wie Videos nicht verfügbar oder Sie müssten bei jedem Besuch unserer Plattform Ihre Anmeldedaten eingeben, da wir uns nicht daran erinnern könnten, dass Sie sich zuvor angemeldet haben. Die meisten Webbrowser können so eingestellt werden, dass sie die Verwendung von Cookies deaktivieren. Wenn Sie Cookies jedoch deaktivieren, können Sie möglicherweise nicht oder nicht richtig auf Funktionen auf unserer Website zugreifen. Wir platzieren niemals personenbezogene Daten in Cookies. \
+\
+ Änderungen unserer Allgemeinen Geschäftsbedingungen\
+ Sie erkennen an und stimmen zu, dass wir die Bereitstellung des Dienstes (oder von Funktionen innerhalb des Dienstes) für Sie oder Benutzer im Allgemeinen nach unserem alleinigen Ermessen und ohne vorherige Benachrichtigung an Sie (dauerhaft oder vorübergehend) einstellen können. Sie können die Nutzung des Dienstes jederzeit beenden. Sie müssen uns nicht ausdrücklich informieren, wenn Sie die Nutzung des Dienstes einstellen. Sie erkennen an und stimmen zu, dass Sie möglicherweise daran gehindert werden, auf den Dienst, Ihre Kontodaten oder auf Dateien oder andere Materialien zuzugreifen, die in Ihrem Konto enthalten sind, wenn wir den Zugriff auf Ihr Konto deaktivieren. Wenn wir uns entscheiden, unsere Allgemeinen Geschäftsbedingungen zu ändern, werden wir diese Änderungen auf dieser Seite veröffentlichen und/oder das Änderungsdatum der Allgemeinen Geschäftsbedingungen unten aktualisieren. \
+\
+ Änderungen an unserem Service\
+ Wir behalten uns das Recht vor, den Dienst oder einen Dienst, mit dem er verbunden ist, mit oder ohne Vorankündigung und ohne Haftung Ihnen gegenüber vorübergehend oder dauerhaft zu ändern, auszusetzen oder einzustellen. \
+\
+ Aktualisierungen unseres Dienstes\
+ Wir können von Zeit zu Zeit Erweiterungen oder Verbesserungen der Merkmale/Funktionalität des Dienstes bereitstellen, die Patches, Fehlerbehebungen, Updates, Upgrades und andere Modifikationen („Updates“) umfassen können. Updates können bestimmte Merkmale und/oder Funktionalitäten des Dienstes ändern oder löschen. Sie stimmen zu, dass wir nicht verpflichtet sind, (i) Updates bereitzustellen oder (ii) weiterhin bestimmte Merkmale und/oder Funktionalitäten des Dienstes für Sie bereitzustellen oder zu aktivieren. Sie stimmen ferner zu, dass alle Updates (i) als integraler Bestandteil des Dienstes betrachtet werden und (ii) den Bedingungen dieser Vereinbarung unterliegen. \
+\
+ Dienste von Drittanbietern\
+ Wir können Inhalte von Drittanbietern (einschließlich Daten, Informationen, Anwendungen und anderen Produktdiensten) anzeigen, einschließen oder verfügbar machen oder Links zu Websites oder Diensten von Drittanbietern („Dienste von Drittanbietern“) bereitstellen. Sie erkennen an und stimmen zu, dass wir nicht für Dienste von Drittanbietern verantwortlich sind, einschließlich ihrer Genauigkeit, Vollständigkeit, Aktualität, Gültigkeit, Einhaltung von Urheberrechten, Rechtmäßigkeit, Anstand, Qualität oder anderen Aspekten davon. Wir übernehmen keine Haftung oder Verantwortung Ihnen oder anderen natürlichen oder juristischen Personen gegenüber für Dienste von Drittanbietern. Dienste von Drittanbietern und Links dazu werden Ihnen lediglich als Annehmlichkeit zur Verfügung gestellt, und Sie greifen auf sie zu und verwenden sie vollständig auf Ihr eigenes Risiko und gemäß den Geschäftsbedingungen dieser Drittanbieter. \
+\
+ Laufzeit und Kündigung\
+ Diese Vereinbarung bleibt in Kraft, bis sie von Ihnen oder uns gekündigt wird. Wir können diese Vereinbarung nach eigenem Ermessen jederzeit und ohne Angabe von Gründen mit oder ohne vorherige Ankündigung aussetzen oder kündigen. Diese Vereinbarung wird sofort ohne vorherige Ankündigung von uns gekündigt, falls Sie eine Bestimmung dieser Vereinbarung nicht einhalten. Sie können diese Vereinbarung auch kündigen, indem Sie den Dienst und alle Kopien davon von Ihrem Computer löschen. Nach Beendigung dieser Vereinbarung stellen Sie die Nutzung des Dienstes ein und löschen alle Kopien des Dienstes von Ihrem Computer. Die Kündigung dieser Vereinbarung schränkt keine unserer Rechte oder Rechtsbehelfe nach Gesetz oder Billigkeit ein, falls Sie (während der Laufzeit dieser Vereinbarung) gegen eine Ihrer Verpflichtungen aus dieser Vereinbarung verstoßen. \
+\
+ Wenn Sie ein Urheberrechtsinhaber oder ein Vertreter eines solchen Eigentümers sind und glauben, dass Material von uns eine Verletzung Ihres Urheberrechts darstellt, kontaktieren Sie uns bitte unter Angabe der folgenden Informationen: (a) eine physische oder elektronische Unterschrift des Urheberrechtsinhabers oder einer handlungsberechtigten Person in seinem Namen; (b) Identifizierung des angeblich verletzenden Materials; (c) Ihre Kontaktinformationen, einschließlich Ihrer Adresse, Telefonnummer und einer E-Mail; (d) eine Erklärung von Ihnen, dass Sie nach Treu und Glauben der Ansicht sind, dass die Verwendung des Materials nicht von den Urheberrechtsinhabern genehmigt wurde; und (e) die Erklärung, dass die Informationen in der Benachrichtigung korrekt sind und dass Sie unter Strafe des Meineids befugt sind, im Namen des Eigentümers zu handeln. \
+\
+ Entschädigung\
+ Sie erklären sich damit einverstanden, uns und unsere Muttergesellschaften, Tochtergesellschaften, verbundenen Unternehmen, leitenden Angestellten, Mitarbeiter, Vertreter, Partner und Lizenzgeber (falls vorhanden) von jeglichen Ansprüchen oder Forderungen, einschließlich angemessener Anwaltskosten, schadlos zu halten und schadlos zu halten, die aufgrund oder aufgrund Ihrer: ( a) Nutzung des Dienstes; (b) Verletzung dieser Vereinbarung oder eines Gesetzes oder einer Vorschrift; oder (c) Verletzung von Rechten Dritter.\
+ Keine Garantien\
+ Der Service wird Ihnen „WIE BESEHEN“ und „WIE VERFÜGBAR“ und mit allen Fehlern und Mängeln ohne jegliche Gewährleistung bereitgestellt. Soweit nach geltendem Recht zulässig, lehnen wir in unserem eigenen Namen und im Namen unserer verbundenen Unternehmen und unserer jeweiligen Lizenzgeber und Dienstanbieter ausdrücklich alle ausdrücklichen, stillschweigenden, gesetzlichen oder sonstigen Gewährleistungen in Bezug auf den Dienst ab, einschließlich alle stillschweigenden Garantien der Marktgängigkeit, Eignung für einen bestimmten Zweck, Titel und Nichtverletzung sowie Garantien, die sich aus dem Geschäftsverlauf, der Ausführung, dem Gebrauch oder der Handelspraxis ergeben können. Ohne Einschränkung auf das Vorstehende geben wir keine Gewährleistung oder Zusage und geben keinerlei Zusicherungen ab, dass der Dienst Ihre Anforderungen erfüllt, beabsichtigte Ergebnisse erzielt, kompatibel ist oder mit anderer Software, Websites, Systemen oder Diensten funktioniert, ohne die sie betrieben werden unterbrechungsfrei sind, Leistungs- oder Zuverlässigkeitsstandards erfüllen oder fehlerfrei sind oder dass Fehler oder Mängel behoben werden können oder werden. \
+\
+ Ohne das Vorstehende einzuschränken, geben weder wir noch irgendein Anbieter irgendwelche ausdrücklichen oder stillschweigenden Zusicherungen oder Gewährleistungen ab: (i) in Bezug auf den Betrieb oder die Verfügbarkeit des Dienstes oder der darin enthaltenen Informationen, Inhalte und Materialien oder Produkte; (ii) dass der Dienst ununterbrochen oder fehlerfrei ist; (iii) in Bezug auf die Genauigkeit, Zuverlässigkeit oder Aktualität von Informationen oder Inhalten, die über den Dienst bereitgestellt werden; oder (iv) dass der Dienst, seine Server, die Inhalte oder E-Mails, die von uns oder in unserem Namen gesendet werden, frei von Viren, Skripten, Trojanern, Würmern, Malware, Zeitbomben oder anderen schädlichen Komponenten sind. Einige Gerichtsbarkeiten erlauben den Ausschluss oder die Beschränkung stillschweigender Gewährleistungen oder die Beschränkungen der anwendbaren gesetzlichen Rechte eines Verbrauchers nicht, sodass einige oder alle der oben genannten Ausschlüsse und Beschränkungen möglicherweise nicht auf Sie zutreffen. \
+\
+ Haftungsbeschränkung\
+ Ungeachtet etwaiger Schäden, die Ihnen entstehen könnten, ist die gesamte Haftung von uns und unseren Lieferanten gemäß einer Bestimmung dieser Vereinbarung und Ihr ausschließlicher Rechtsbehelf für alle vorstehenden Punkte auf den Betrag beschränkt, den Sie tatsächlich für die Dienstleistung bezahlt haben. Soweit nach geltendem Recht zulässig, haften wir oder unsere Lieferanten in keinem Fall für besondere, zufällige, indirekte oder Folgeschäden (einschließlich, aber nicht beschränkt auf Schäden für entgangenen Gewinn, für Datenverlust oder andere Informationen, für Betriebsunterbrechung, für Personenschäden, für den Verlust der Privatsphäre, die sich aus oder in irgendeiner Weise im Zusammenhang mit der Nutzung oder Unmöglichkeit der Nutzung des Dienstes, der mit dem Dienst verwendeten Software von Drittanbietern und/oder Hardware von Drittanbietern ergeben, oder anderweitig im Zusammenhang mit einer Bestimmung dieser Vereinbarung), auch wenn wir oder ein Lieferant auf die Möglichkeit solcher Schäden hingewiesen wurden und selbst wenn die Abhilfe ihren wesentlichen Zweck verfehlt. Einige Staaten/Gerichtsbarkeiten erlauben den Ausschluss oder die Beschränkung von Neben- oder Folgeschäden nicht, sodass die obige Beschränkung oder der obige Ausschluss möglicherweise nicht auf Sie zutrifft. \
+\
+ Salvatorische Klausel\
+ Wenn eine Bestimmung dieser Vereinbarung für nicht durchsetzbar oder ungültig befunden wird, wird diese Bestimmung geändert und ausgelegt, um die Ziele dieser Bestimmung im größtmöglichen Umfang nach geltendem Recht zu erreichen, und die verbleibenden Bestimmungen bleiben in vollem Umfang in Kraft und wirksam. Diese Vereinbarung stellt zusammen mit der Datenschutzrichtlinie und allen anderen rechtlichen Hinweisen, die von uns zu den Diensten veröffentlicht werden, die gesamte Vereinbarung zwischen Ihnen und uns in Bezug auf die Dienste dar. Wenn eine Bestimmung dieser Vereinbarung von einem zuständigen Gericht für ungültig befunden wird, berührt die Ungültigkeit dieser Bestimmung nicht die Gültigkeit der übrigen Bestimmungen dieser Vereinbarung, die in vollem Umfang in Kraft bleiben. Kein Verzicht auf eine Bedingung dieser Vereinbarung gilt als weiterer oder fortgesetzter Verzicht auf eine solche Bedingung oder eine andere Bedingung, und unser Versäumnis, ein Recht oder eine Bestimmung aus dieser Vereinbarung geltend zu machen, stellt keinen Verzicht auf dieses Recht oder diese Bestimmung dar. SIE UND UNS STIMMEN ZU, DASS JEDER KLAGEGRUND, DER SICH AUS ODER IM ZUSAMMENHANG MIT DEN DIENSTLEISTUNGEN ERGIBT, INNERHALB EINES (1) JAHRES NACH ENTSTEHUNG DES KLAGEGRUNDES BEGINNEN MUSS. ANDERNFALLS IST DER KLAGEGRUND DAUERHAFT AUSGESCHLOSSEN. \
+\
+ Verzicht\
+ Außer wie hierin vorgesehen, beeinträchtigt das Versäumnis, ein Recht auszuüben oder die Erfüllung einer Verpflichtung aus diesem Vertrag zu verlangen, weder die Fähigkeit einer Partei, dieses Recht auszuüben oder eine solche Erfüllung zu verlangen, noch stellt der Verzicht auf eine Verletzung einen Verzicht darauf dar jede spätere Verletzung. \
+\
+ Kein Versäumnis der Ausübung und keine Verzögerung bei der Ausübung eines Rechts oder einer Befugnis aus diesem Vertrag durch eine der Parteien gilt als Verzicht auf dieses Recht oder diese Befugnis. Auch die einzelne oder teilweise Ausübung von Rechten oder Befugnissen aus diesem Vertrag schließt die weitere Ausübung dieses oder eines anderen hierin gewährten Rechts nicht aus. Im Falle eines Widerspruchs zwischen dieser Vereinbarung und anwendbaren Kauf- oder anderen Bedingungen gelten die Bedingungen dieser Vereinbarung. \
+\
+ Änderungen dieser Vereinbarung\
+ Wir behalten uns das Recht vor, diese Vereinbarung nach eigenem Ermessen jederzeit zu ändern oder zu ersetzen. Wenn eine Überarbeitung wesentlich ist, werden wir Sie mindestens 30 Tage im Voraus darüber informieren, bevor neue Bedingungen in Kraft treten. Was eine wesentliche Änderung darstellt, wird nach unserem alleinigen Ermessen bestimmt. Indem Sie nach Inkrafttreten von Änderungen weiterhin auf unseren Dienst zugreifen oder ihn nutzen, stimmen Sie zu, an die geänderten Bedingungen gebunden zu sein. Wenn Sie den neuen Bedingungen nicht zustimmen, sind Sie nicht mehr berechtigt, unseren Service zu nutzen. \
+\
+ Ganze Vereinbarung\
+ Die Vereinbarung stellt die gesamte Vereinbarung zwischen Ihnen und uns in Bezug auf Ihre Nutzung des Dienstes dar und ersetzt alle vorherigen und gleichzeitigen schriftlichen oder mündlichen Vereinbarungen zwischen Ihnen und uns. Sie können zusätzlichen Geschäftsbedingungen unterliegen, die gelten, wenn Sie andere Dienste von uns nutzen oder kaufen, die wir Ihnen zum Zeitpunkt einer solchen Nutzung oder eines solchen Kaufs zur Verfügung stellen. \
+\
+ Aktualisierungen unserer Bedingungen\
+ Wir können unseren Service und unsere Richtlinien ändern, und wir müssen möglicherweise Änderungen an diesen Bedingungen vornehmen, damit sie unseren Service und unsere Richtlinien genau widerspiegeln. Sofern gesetzlich nichts anderes vorgeschrieben ist, werden wir Sie (z. B. über unseren Service) benachrichtigen, bevor wir Änderungen an diesen Bedingungen vornehmen, und Ihnen die Möglichkeit geben, sie zu überprüfen, bevor sie in Kraft treten. Wenn Sie den Dienst dann weiterhin nutzen, sind Sie an die aktualisierten Bedingungen gebunden. Wenn Sie diesen oder aktualisierten Bedingungen nicht zustimmen möchten, können Sie Ihr Konto löschen. \
+\
+ Geistigen Eigentums\
+ Unsere Plattform und ihre gesamten Inhalte, Merkmale und Funktionen (einschließlich, aber nicht beschränkt auf alle Informationen, Software, Texte, Anzeigen, Bilder, Video und Audio sowie deren Design, Auswahl und Anordnung) sind Eigentum von uns, ihren Lizenzgebern oder anderen Anbieter solcher Materialien und sind durch internationale Urheberrechts-, Marken-, Patent-, Geschäftsgeheimnis- und andere Gesetze zu geistigem Eigentum oder Eigentumsrechten geschützt. Das Material darf ohne die ausdrückliche vorherige schriftliche Genehmigung von uns in keiner Weise ganz oder teilweise kopiert, modifiziert, reproduziert, heruntergeladen oder verteilt werden, es sei denn, dies ist ausdrücklich in diesen Allgemeinen Geschäftsbedingungen vorgesehen. Jede unbefugte Nutzung des Materials ist untersagt. \
+\
+ Schiedsvereinbarung\
+ Dieser Abschnitt gilt für alle Streitigkeiten, MIT AUSNAHME VON STREITIGKEITEN IM ZUSAMMENHANG MIT ANSPRÜCHEN AUF UNTERSUCHUNG ODER RECHTSBEHELFE IN BEZUG AUF DIE DURCHSETZUNG ODER GÜLTIGKEIT IHRER GEISTIGEN EIGENTUMSRECHTE ODER VON World Medical Card. Der Begriff „Streitigkeit“ bezeichnet alle Streitigkeiten, Klagen oder sonstigen Kontroversen zwischen Ihnen und uns in Bezug auf die Dienste oder diese Vereinbarung, unabhängig davon, ob es sich um einen Vertrag, eine Garantie, eine unerlaubte Handlung, ein Gesetz, eine Verordnung, eine Verordnung oder eine andere rechtliche oder angemessene Grundlage handelt. „Streit“ wird die breitestmögliche gesetzlich zulässige Bedeutung gegeben. \
+\
+ Streitmitteilung\
+ Im Falle einer Streitigkeit müssen Sie oder wir dem anderen eine Streitmitteilung zukommen lassen, die eine schriftliche Erklärung ist, die den Namen, die Adresse und die Kontaktinformationen der Partei, die sie vorträgt, die Tatsachen, die Anlass zu der Streitigkeit geben, und die beantragte Entlastung. Sie müssen jede Streitmitteilung per E-Mail senden an: . Wir senden Ihnen jede Streitmitteilung per Post an Ihre Adresse, falls uns diese vorliegt, oder andernfalls an Ihre E-Mail-Adresse. Sie und wir werden versuchen, alle Streitigkeiten durch informelle Verhandlungen innerhalb von sechzig (60) Tagen ab dem Datum, an dem die Streitmitteilung gesendet wurde, beizulegen. Nach sechzig (60) Tagen können Sie oder wir ein Schiedsverfahren einleiten. \
+\
+ Verbindliches Schiedsverfahren\
+ Wenn Sie und wir eine Streitigkeit nicht durch informelle Verhandlungen lösen, werden alle anderen Bemühungen zur Beilegung der Streitigkeit ausschließlich durch ein verbindliches Schiedsverfahren wie in diesem Abschnitt beschrieben durchgeführt. Sie verzichten auf das Recht, alle Streitigkeiten vor Gericht vor einem Richter oder Geschworenengericht zu führen (oder als Partei- oder Klassenmitglied daran teilzunehmen). Die Streitigkeit wird durch ein verbindliches Schiedsverfahren gemäß den Handelsschiedsregeln der American Arbitration Association beigelegt. Jede Partei kann bei jedem zuständigen Gericht eine einstweilige oder einstweilige Verfügung beantragen, um die Rechte oder das Eigentum der Partei bis zum Abschluss des Schiedsverfahrens zu schützen. Alle Rechts-, Buchhaltungs- und sonstigen Kosten, Gebühren und Ausgaben, die der obsiegenden Partei entstehen, sind von der nicht obsiegenden Partei zu tragen. \
+\
+\
+ Einreichungen und Datenschutz\
+ Für den Fall, dass Sie Ideen, kreative Vorschläge, Designs, Fotos, Informationen, Anzeigen, Daten oder Vorschläge einreichen oder posten, einschließlich Ideen für neue oder verbesserte Produkte, Dienstleistungen, Funktionen, Technologien oder Werbeaktionen, stimmen Sie ausdrücklich zu, dass solche Einsendungen automatisch erfolgen werden als nicht vertraulich und nicht urheberrechtlich geschützt behandelt und gehen ohne Entschädigung oder Gutschrift an Sie in unser alleiniges Eigentum über. Wir und unsere verbundenen Unternehmen haben keine Verpflichtungen in Bezug auf solche Einsendungen oder Posts und können die in solchen Einsendungen oder Posts enthaltenen Ideen für alle Zwecke in jedem Medium auf Dauer verwenden, einschließlich, aber nicht beschränkt auf die Entwicklung, Herstellung und Vermarktung von Produkten und Dienstleistungen, die solche Ideen verwenden. \
+\
+ Werbeaktionen\
+ Wir können von Zeit zu Zeit Wettbewerbe, Werbeaktionen, Gewinnspiele oder andere Aktivitäten („Werbeaktionen“) einschließen, bei denen Sie Materialien oder Informationen über sich selbst übermitteln müssen. Bitte beachten Sie, dass alle Werbeaktionen möglicherweise durch separate Regeln geregelt werden, die bestimmte Teilnahmevoraussetzungen enthalten können, wie z. B. Einschränkungen in Bezug auf Alter und geografischen Standort. Sie sind dafür verantwortlich, alle Aktionsregeln zu lesen, um festzustellen, ob Sie zur Teilnahme berechtigt sind oder nicht. Wenn Sie an einer Werbeaktion teilnehmen, erklären Sie sich damit einverstanden, alle Werbeaktionsregeln einzuhalten und einzuhalten. Für den Kauf von Waren oder Dienstleistungen auf oder über die Dienste können zusätzliche Geschäftsbedingungen gelten, die durch diesen Verweis Teil dieser Vereinbarung werden. \
+\
+ Schreibfehler\
+ Für den Fall, dass ein Produkt und/oder eine Dienstleistung aufgrund eines Tippfehlers zu einem falschen Preis oder mit falschen Informationen aufgeführt wird, haben wir das Recht, alle Bestellungen für das zum falschen Preis aufgeführte Produkt und/oder die Dienstleistung abzulehnen oder zu stornieren. Wir haben das Recht, eine solche Bestellung abzulehnen oder zu stornieren, unabhängig davon, ob die Bestellung bestätigt und Ihre Kreditkarte belastet wurde oder nicht. Wenn Ihre Kreditkarte bereits für den Kauf belastet wurde und Ihre Bestellung storniert wird, werden wir Ihrem Kreditkartenkonto oder sonstigen Zahlungskonto unverzüglich eine Gutschrift in Höhe der Belastung ausstellen. \
+\
+ Sonstig\
+ Sollte ein zuständiges Gericht aus irgendeinem Grund feststellen, dass eine Bestimmung oder ein Teil dieser Allgemeinen Geschäftsbedingungen nicht durchsetzbar ist, bleibt der Rest dieser Allgemeinen Geschäftsbedingungen in vollem Umfang in Kraft und wirksam. Jeder Verzicht auf eine Bestimmung dieser Allgemeinen Geschäftsbedingungen ist nur wirksam, wenn er schriftlich erfolgt und von einem bevollmächtigten Vertreter von uns unterzeichnet ist. Wir haben Anspruch auf eine einstweilige Verfügung oder einen anderen angemessenen Rechtsschutz (ohne die Verpflichtung, eine Bürgschaft oder Bürgschaft zu hinterlegen) im Falle einer Verletzung oder einer vorausschauenden Verletzung durch Sie. Wir betreiben und kontrollieren unseren Service von unseren Büros in . Der Dienst ist nicht für den Vertrieb an oder die Nutzung durch Personen oder Organisationen in Rechtsordnungen oder Ländern bestimmt, in denen eine solche Verbreitung oder Nutzung gegen Gesetze oder Vorschriften verstoßen würde. Dementsprechend tun diejenigen Personen, die von anderen Standorten aus auf unseren Service zugreifen, dies aus eigener Initiative und sind allein verantwortlich für die Einhaltung lokaler Gesetze, sofern und soweit lokale Gesetze anwendbar sind. Diese Allgemeinen Geschäftsbedingungen (die unsere Datenschutzrichtlinie enthalten und beinhalten) enthalten die gesamte Vereinbarung und ersetzen alle vorherigen Vereinbarungen zwischen Ihnen und uns in Bezug auf ihren Gegenstand und können von Ihnen nicht geändert oder modifiziert werden. Die in dieser Vereinbarung verwendeten Abschnittsüberschriften dienen nur der Übersichtlichkeit und haben keine rechtliche Bedeutung. \
+\
+ Haftungsausschluss\
+ Wir sind nicht verantwortlich für Inhalt, Code oder andere Ungenauigkeiten. Wir übernehmen keine Gewährleistungen oder Garantien. In keinem Fall haften wir für besondere, direkte, indirekte, Folge- oder Nebenschäden oder Schäden jeglicher Art, sei es aufgrund einer Vertragshandlung, Fahrlässigkeit oder einer anderen unerlaubten Handlung, die sich aus oder im Zusammenhang mit der Nutzung des Dienstes ergeben oder die Inhalte des Dienstes. Wir behalten uns das Recht vor, jederzeit ohne vorherige Ankündigung Ergänzungen, Löschungen oder Änderungen an den Inhalten des Dienstes vorzunehmen. \
+\
+ Unser Service und seine Inhalte werden \"wie besehen\" und \"wie verfügbar\" ohne jegliche ausdrückliche oder stillschweigende Gewährleistung oder Zusicherung bereitgestellt. Wir sind ein Distributor und kein Herausgeber der von Dritten bereitgestellten Inhalte; Als solches übt unser keine redaktionelle Kontrolle über solche Inhalte aus und gibt keine Garantie oder Zusicherung hinsichtlich der Genauigkeit, Zuverlässigkeit oder Aktualität von Informationen, Inhalten, Diensten oder Waren, die über unseren Dienst bereitgestellt oder über unseren Dienst zugänglich gemacht werden. Ohne das Vorstehende einzuschränken, lehnen wir ausdrücklich alle Gewährleistungen und Zusicherungen für Inhalte ab, die auf oder in Verbindung mit unserem Service oder auf Websites übertragen werden, die als Links auf unserem Service erscheinen können, oder in den Produkten, die als Teil von oder anderweitig in Verbindung mit bereitgestellt werden , unser Service, einschließlich, aber nicht beschränkt auf Garantien der Marktgängigkeit, Eignung für einen bestimmten Zweck oder Nichtverletzung von Rechten Dritter. Keine mündlichen Ratschläge oder schriftlichen Informationen, die von uns oder seinen verbundenen Unternehmen, Mitarbeitern, leitenden Angestellten, Direktoren, Vertretern oder dergleichen gegeben werden, begründen eine Garantie. Preis- und Verfügbarkeitsinformationen können ohne Vorankündigung geändert werden. Ohne das Vorstehende einzuschränken, garantieren wir nicht, dass unser Service ununterbrochen, unbeschädigt, rechtzeitig oder fehlerfrei ist. \
+\
+ Kontaktiere uns\
+ Zögern Sie nicht, uns bei Fragen zu kontaktieren.\
+ • Per E-Mail: post@wmc-card.no\
+ • Per Telefonnummer: +47 55 33 75 75";
+"register_to_wmc_title" = "Registrieren Sie sich bei der World Medical Card";
+"create_account_button" = "Konto erstellen";
+"register_byline" = "Bitte geben Sie Ihre persönlichen Daten ein, um ein Konto zu erstellen, das Sie später ändern können";
+"signup_with_google_button" = "Anmeldung bei Google";
+"divider_or_text" = "Oder";
+"register_email_field_hint" = "Email";
+"register_password_field_hint" = "Passwort";
+"register_password_min_hint" = "mindestens 8 Zeichen";
+"screen_title_hi" = "👋🏻 Hallo";
+"no_subscription_title" = "Kein Abonnement";
+"no_subscription_description" = "Bitte abonnieren Sie einen Plan, um alle Funktionen der World Medical Card nutzen zu können";
+"subscribe_button" = "Jetzt abonnieren";
+"common_dash" = "-";
+"screen_title_good_afternoon" = "👋🏻 Guten Tag";
+"title_your_profile_is_incomplete" = "Ihr Profil ist unvollständig";
+"description_your_profile_is_incomplete" = "Bitte vervollständigen Sie Ihr Profil, um in den Genuss aller Funktionen der World Medical Card zu kommen";
+"complete_my_profile_button" = "Mein Profil vervollständigen";
+"personal_info_card_title" = "Persönliche Informationen";
+"personal_info_card_description" = "Erlauben Sie uns, Sie für eine bessere Erfahrung besser kennenzulernen";
+"profile_birthdate" = "Geburtsdatum";
+"profile_ssn" = "Sozialversicherungsnummer";
+"profile_nationality" = "Staatsangehörigkeit";
+"profile_travel_insurance" = "Reiseversicherung";
+"profile_organ_donor" = "Organspender";
+"profile_insurance_company" = "Versicherungsunternehmen";
+"profile_policy_number" = "Policennummer";
+"profile_policy_date" = "Mitglied bis/Ausgestellt am";
+"button_edit" = "Bearbeiten";
+"error_message" = "Etwas ist schiefgelaufen. Bitte versuchen Sie es später erneut.";
+"error_no_internet" = "Bitte überprüfen Sie die Internetverbindung";
+"error_no_data_found" = "Keine Daten gefunden";
+"error_unauthorized" = "Sie sind leider nicht berechtigt, auf diesen Inhalt zuzugreifen";
+"error_empty_response" = "Entschuldigung, der Inhalt ist leer";
+"allergies_card_title" = "Allergien";
+"allergies_card_description" = "Teilen Sie uns mit, wenn Sie Allergien haben oder wenn Sie wissen, dass Sie keine haben";
+"add_allergies_button" = "Allergien hinzufügen";
+"no_allergies_listed" = "Keine Allergien aufgeführt";
+"button_add" = "Hinzufügen";
+"button_translate" = "Übersetzen";
+"button_share" = "Teilen";
+"complete_your_profile" = "Vervollständigen Sie Ihr Profil";
+"profile_gender" = "Geschlecht";
+"profile_telephone" = "Telefon";
+"profile_postal_address" = "Postanschrift";
+"member_since" = "Mitglied seit %1$@";
+"alarm_phone" = "Alarmtelefon";
+"emergency_contacts" = "Notfallkontakte";
+"other_information" = "Andere Informationen";
+"tap_edit_to_complete_profile" = "Tippen Sie unten auf Bearbeiten, um die Vervollständigung Ihres Profils abzuschließen";
+"card_items_description" = "%1$@ Artikel: %2$@";
+"medicine_card_title" = "Medizin";
+"no_medications_listed" = "Keine Medikamente aufgeführt";
+"diagnoses_card_title" = "Diagnosen";
+"no_diagnoses_listed" = "Keine Diagnosen aufgeführt";
+"vaccines_card_title" = "Impfstoffe";
+"no_vaccines_listed" = "Keine Impfstoffe aufgeführt";
+"documents_card_title" = "Dokumente";
+"no_documents_added" = "Keine Dokumente hinzugefügt";
+"terms_and_conditions_button" = "Bedingungen und Konditionen";
+"sign_out_button" = "Ausloggen";
+"order_now_button" = "Jetzt bestellen";
+"order_your_card_title" = "Bestellen Sie Ihre Karte";
+"order_your_card_description" = "Genießen Sie alle Funktionen Ihrer World Medical Card aus Ihrer Brieftasche";
+"wmc_order_successful" = "Bestellung erfolgreich";
+"wmc_card_menu_print_card" = "Karte drucken";
+"wmc_card_menu_reorder_card" = "Karte nachbestellen";
+"signin_with_google_button" = "Anmeldung mit Google";
+"login_to_wmc_title" = "Anmeldung bei World Medical Card";
+"login_byline" = "Wie würdest du dich gern anmelden?";
+"common_yes" = "Ja";
+"common_no" = "Nein";
+"personal_info_title" = "Persönliche Informationen";
+"common_save" = "Speichern";
+"personal_info_byline" = "Bitte geben Sie Ihre persönlichen Daten ein, um ein Konto zu erstellen, das Sie später ändern können.";
+"profile_edit_first_name" = "Vorname";
+"profile_edit_last_name" = "Nachname";
+"profile_edit_date_of_birth" = "Geburtsdatum";
+"profile_edit_ssn" = "Sozialversicherungsnummer (optional)";
+"profile_edit_phone" = "Tlf.nr.";
+"profile_edit_donor_question" = "Sie möchten Organspender werden?";
+"profile_edit_donor_note" = "Angehörige der Gesundheitsberufe müssen die Familie bitten, Ihre Entscheidung zu bestätigen";
+"profile_edit_postal_address_note" = "Geben Sie die Adresse ein, an die wir die Karte senden sollen. Die Adresse erscheint nicht auf der Notfallkarte.";
+"profile_edit_postal_code" = "Postnr./-sted";
+"profile_edit_land" = "Land";
+"profile_edit_street_address" = "Straße und Hausnummer";
+"profile_edit_insurance_title" = "Versicherung";
+"profile_edit_insurance_note" = "Fügen Sie Versicherungsinformationen als Referenz hinzu.";
+"profile_edit_insurance_type" = "Art der Versicherung";
+"profile_edit_insurance_travel" = "Reiseversicherung";
+"profile_edit_insurance_health" = "Krankenversicherung";
+"profile_edit_policy_number" = "Policennummer (fakultativ)";
+"profile_edit_alarm_phone" = "Wecktelefon (fakultativ)";
+"profile_edit_emergency_contacts_note" = "Fügen Sie kontakte hinzu, denen Sie im Notfall vertrauen.";
+"profile_edit_emergency_contacts_name" = "Name";
+"profile_edit_emergency_contacts_phone" = "Telefonnummer";
+"profile_edit_emergency_contacts_relation" = "Beziehung";
+"profile_edit_other_title" = "Andere";
+"profile_edit_other_hint" = "Möchten Sie weitere Informationen hinzufügen?";
+"profile_edit_city" = "Stadt";
+"profile_gender_male" = "Männlich";
+"profile_gender_female" = "Weiblich";
+"add_new_allergy_title" = "Neue Allergie hinzufügen";
+"add_new_medicine_title" = "Neues Medikament hinzufügen";
+"add_new_diagnoses_title" = "Neue Diagnosen hinzufügen";
+"add_new_search_hint" = "Suche";
+"profile_edit_select_birthdata" = "Wählen Sie Ihr Geburtsdatum";
+"dashboard_screen_title_morning" = "👋🏻 Guten Morgen";
+"dashboard_screen_title_evening" = "👋🏻 Guten Abend";
+"dashboard_screen_title_night" = "👋🏻 Gute Nacht";
+"add_document_document_title_hint" = "Titel des Dokuments";
+"add_document_document_type_hint" = "Dokumentenart";
+"add_document_description_hint" = "Beschreibung (fakultativ)";
+"add_document_upload_button" = "Neues Dokument hochladen";
+"add_new_vaccines_title" = "Neuen Impfstoff hinzufügen";
+"signup_button_title" = "Registrieren Sie sich";
+"signin_button_title" = "Anmelden";
+"apple_button_title" = "mit Apple";
+"google_button_title" = "mit Google";
+"add_new_allergy_top_hits" = "Top-Hits";
+"edit_card_dialog_remove_item_title" = "Artikel entfernen";
+"common_cancel" = "Abbrechen";
+"common_remove" = "Entfernen";
+"maybe_later_button" = "Vielleicht später";
+"please_check_your_email_and_password" = "Bitte überprüfen Sie Ihre E-Mail und Ihr Passwort";
+"ok_button_title" = "Ok";
+"cancel_button_title" = "Abbrechen";
+"field_required_title" = "Feld ist erforderlich";
+"add_document_title" = "Neues Dokument hinzufügen";
+"edit_document_title" = "Dokument bearbeiten";
+"edit_card_dialog_remove_items_title" = "Artikel entfernen";
+"edit_card_dialog_edit_item_title" = "Element bearbeiten";
+"add_document_edit_button" = "Dokument bearbeiten";
+"select_file_to_upload" = "Bitte Datei zum Hochladen auswählen";
+"profile_zip" = "POSTLEITZAHL";
+"profile_country" = "Land";
+"profile_screen_title" = "Profil";
+"profile_insurance_type_health" = "Die Gesundheit";
+"profile_insurance_type_travel" = "Reisen";
+"profile_save_button_title" = "Speichern";
+"sign_in_password_incorrect" = "Konto wurde nicht gefunden. Bitte versuchen Sie, sich mit einem Google-Konto oder einer E-Mail-Adresse und einem Passwort anzumelden.";
+"profile_validation_required_fields" = "Geburtsdatum, Nationalität, Telefon und Geschlecht sind erforderlich";
+"card_order_missing_info" = "Bitte überprüfen Sie, ob die unten stehenden Informationen korrekt sind. Bitte kontaktieren Sie uns, wenn Sie Fehler finden.";
+"members_name" = "Name";
+"members_address" = "Adresse";
+"members_zip_code" = "Postleitzahl";
+"members_country" = "Land";
+"members_emergency_contact" = "Notfallkontakte";
+"members_birthdate" = "Geburtsdatum";
+"members_gender" = "Geschlecht";
+"member_card_order_date" = "Datum des Drucks";
+"members_diagnosis" = "Diagnose";
+"members_medications" = "Medikamente";
+"members_allergies" = "Allergien";
+"members_other_info" = "Andere Informationen";
+"card_order_greeting" = "sehr geehrter";
+"card_order_info_ready" = "Hier haben Sie Ihre Notfallkarte mit Ihren wichtigen Informationen parat, falls Einsatzkräfte diese im Notfall benötigen sollten.";
+"card_order_instruction_dos" = "Bitte gehen Sie wie folgt vor";
+"card_order_instruction_one" = "Reißen Sie die Karte vom Ausdruck ab";
+"card_order_instruction_two" = "Öffnen Sie den Ausdruck und prüfen Sie, ob die Angaben korrekt sind";
+"card_order_instruction_three" = "Legen Sie die Karte in Ihre Brieftasche";
+"card_order_miscelleneous_one" = "Pass auf dich auf und sei sicher";
+"card_order_miscelleneous_two" = "Mit freundlichen Grüßen World Medical Card Support";
+"card_order_ps_note" = "PS! Denken Sie daran, dass Ihr Gesundheitsprofil auch in der App und im Internet verfügbar ist.";
+"translate_my_title" = "Mein %1$s";
+"translate_language_hint" = "Sprache";
+"translate_code_prefix" = "• Code: %1$s";
+"translate_title_allergies" = "Meine Allergien";
+"translate_title_medicine" = "Meine Medikamente";
+"translate_title_diagnoses" = "Meine Diagnosen";
+"translate_title_vaccines" = "Meine Impfstoffe";
+"subscription_overview_title" = "Meine Abonnements";
+"subscription_overview_subtitle" = "Aktuelles Abonnement  (%1d)";
+"subscription_overview_hint" = "Sie haben derzeit kein Abonnement bei World Medical Card, klicken Sie unten auf Abonnieren und genießen Sie alle Funktionen von World Medical Card";
+"subscription_overview_add_subscription_button" = "Abonnement hinzufügen";
+"subscription_overview_item_subscription_manager_title" = "Abonnement-Manager:";
+"subscription_overview_item_membership_occupancy_title" = "Mitgliedschaft Belegung:";
+"subscription_overview_item_expired_title" = "Abgelaufen";
+"subscription_overview_text_subscribe" = "Klicken Sie hier, um das Mitgliedschaftspaket zu abonnieren";
+"subscription_detail_title" = "Abonnementdetails";
+"subscription_detail_member_list_title" = "Liste der Mitglieder";
+"subscription_detail_membership_left_full_title" = "Sie haben noch <b> %1d </b> Mitgliedschaften in diesem Paket. \n Um ein Mitglied hinzuzufügen, klicken Sie bitte auf die Schaltfläche unten.";
+"subscription_detail_membership_left_title" = "Sie haben noch <b> %1d </b> Mitgliedschaften in diesem Paket.";
+"subscription_detail_add_member_title" = "Neues Mitglied hinzufügen";
+"subscription_detail_payment_method_title" = "Zahlungsmethode";
+"subscription_detail_paid_with_text" = "Bezahlt mit";
+"subscription_invitation_title" = "Neues Mitglied hinzufügen";
+"subscription_invitation_email_hint" = "E-Mail Adresse";
+"subscription_invitation_add_member_button" = "Mitglied hinzufügen";
+"subscription_delete_member_dialog_title" = "Mitglied löschen";
+"subscription_delete_member_dialog_message" = "Möchten Sie dieses Mitglied wirklich aus diesem Abonnementpaket entfernen?";
+"subscription_delete_member_dialog_positive_button" = "Bestätigen";
+"subscription_delete_member_dialog_negative_button" = "Absagen";
+"subscription_overview_item_selected_alert_not_owner_title" = "Du bist nicht der Eigentümer";
+"subscription_overview_item_selected_alert_not_owner_message" = "Sie müssen der Besitzer des Abonnements sein, um die Details anzuzeigen";
+"subscription_detail_memberlist_title" = "Liste der Mitglieder";
+"subscription_detail_memberlist_full_description" = "Sie haben keine Mitgliedschaften mehr in diesem Paket.";
+"subscription_detail_memberlist_available_description" = "Sie haben noch %1d Mitgliedschaften in diesem Paket. Um ein Mitglied hinzuzufügen, klicken Sie bitte auf die Schaltfläche unten.";
+"subscription_detail_memberlist_add" = "Fügen Sie weitere Mitglieder hinzu";
+"subscription_detail_payment_title" = "Zahlungsmethode";
+"subscription_detail_payment_method" = "Bezahlt mit";
+"subscription_remove_member_alert_title" = "Mitglied entfernen";
+"subscription_remove_member_alert_message" = "Möchten Sie dieses Mitglied wirklich aus diesem Abonnementpaket entfernen?";
+"subscription_remove_member_alert_ok" = "Bestätigen Sie";
+"subscription_remove_member_alert_cancel" = "Absagen";
+"subscription_add_member_title" = "Neues Mitglied hinzufügen";
+"subscription_add_member_placeholder_email" = "E-Mail-Addresse";
+"subscription_add_member_alert_invite_title" = "E-Mail-Einladung";
+"subscription_add_member_alert_invite_message" = "An email invitation has been sent";
+"subscription_add_member_alert_invite_ok" = "OK";
+"subscription_add_member_action_add" = "Hinzufügen";
+"subscription_remove_membership_button_title" = "Remove Membership";
+"subscription_remove_membership_dialog_title" = "Delete Membership";
+"subscription_remove_membership_dialog_text" = "Are you sure you want to be remove from this membership package?";
+"subscriptionOwnerCount" = "Eigentümer des Abonnements ( %1$@ )";
+"subscriptionMemberCount" = "Abonnement-Mitglied ( %1$@ )";
+"my_subscriptions" = "Meine Abonnements";
+"subscriptionOwnerCount" = "Eigentümer des Abonnements ( %1$@ )";
+"subscriptionMemberCount" = "Abonnement-Mitglied ( %1$@ )";
+"landing_login_button" = "Einloggen";
+"landing_register_button" = "Registrieren";
+"your_personal_medical_record_n_always_available" = "Ihr persönliches Tagebuch\
+ immer verfügbar";
+"button_next" = "Nächste";
+"button_skip_tour" = "Intro überspringen";
+"intro_number_of_pages" = "3";
+"intro_content_image_1" = "intro_image_1";
+"intro_content_image_2" = "intro_image_2";
+"intro_content_image_3" = "intro_image_3";
+"intro_content_title_1" = "Geben Sie Ihre Informationen ein";
+"intro_content_title_2" = "Reisen Sie ohne Sorgen";
+"intro_content_title_3" = "Teilen Sie Ihre Informationen";
+"intro_content_description_1" = "Ihre medizinischen Informationen werden in Übereinstimmung mit den globalen Standards der Weltgesundheitsorganisation (ICD-10, ATC) codiert, um sicherzustellen, dass Ihr Zustand und Ihre Bedürfnisse von medizinischem und pharmazeutischem Fachpersonal weltweit verstanden werden.";
+"intro_content_description_2" = "Sie erhalten Ihr persönliches Profil, auf das Sie per App oder Browser zugreifen können. Es gibt eine eingebaute Übersetzungsfunktion für 19 Sprachen, die die Kommunikation in relevanten lokalen Begriffen erleichtert.";
+"intro_content_description_3" = "Sie haben die Möglichkeit, Ihr Profil mit Verwandten, Reisepartnern oder anderen Personen Ihres Vertrauens zu teilen, damit diese Ihnen im Notfall möglicherweise erste Hilfe leisten können";
+"i_accept_the_terms_and_conditions" = "Ich akzeptiere die allgemeinen Geschäftsbedingungen";
+"terms_and_conditions_title" = "Bedingungen und Konditionen";
+"terms_text" = "Terms & amp; Bedingungen\
+ Aktualisiert am 01.01.2022 \
+\
+ Allgemeine Bedingungen\
+ Indem Sie auf zugreifen und eine Bestellung bei aufgeben, bestätigen Sie, dass Sie mit den in den unten aufgeführten Allgemeinen Geschäftsbedingungen enthaltenen Nutzungsbedingungen einverstanden sind und an diese gebunden sind. Diese Bedingungen gelten für die gesamte Website und jede E-Mail oder andere Art der Kommunikation zwischen Ihnen und World Medical Card. \
+\
+ Team haftet unter keinen Umständen für direkte, indirekte, besondere, zufällige oder Folgeschäden, einschließlich, aber nicht beschränkt auf Daten- oder Gewinnverluste, die sich aus der Nutzung oder der Unmöglichkeit der Nutzung der Materialien auf dieser Website ergeben , auch wenn team oder ein bevollmächtigter Vertreter auf die Möglichkeit solcher Schäden hingewiesen wurde. Wenn Ihre Nutzung von Materialien dieser Website dazu führt, dass Geräte oder Daten gewartet, repariert oder korrigiert werden müssen, übernehmen Sie alle Kosten dafür. \
+\
+ World Medical Card übernimmt keine Verantwortung für Folgen, die im Laufe der Nutzung unserer Ressourcen auftreten können. Wir behalten uns das Recht vor, Preise zu ändern und die Ressourcennutzungsrichtlinie jederzeit zu überarbeiten. \
+\
+ Lizenz\
+ World Medical Card gewährt Ihnen eine widerrufliche, nicht ausschließliche, nicht übertragbare, beschränkte Lizenz zum Herunterladen, Installieren und Verwenden unseres Dienstes in strikter Übereinstimmung mit den Bedingungen dieser Vereinbarung. \
+\
+ Diese Allgemeinen Geschäftsbedingungen sind ein Vertrag zwischen Ihnen und World Medical Card (in diesen Allgemeinen Geschäftsbedingungen als „World Medical Card“, „uns“, „wir“ oder „unser“ bezeichnet), dem Anbieter der World Medical Card-Website und die Dienste, auf die über die World Medical Card-Website zugegriffen werden kann (die in diesen Allgemeinen Geschäftsbedingungen zusammenfassend als „World Medical Card-Dienst“ bezeichnet werden). \
+\
+ Sie stimmen zu, an diese Allgemeinen Geschäftsbedingungen gebunden zu sein. Wenn Sie diesen Allgemeinen Geschäftsbedingungen nicht zustimmen, nutzen Sie den Dienst bitte nicht. In diesen Allgemeinen Geschäftsbedingungen bezieht sich „Sie“ sowohl auf Sie als Einzelperson als auch auf die juristische Person, die Sie vertreten. Wenn Sie gegen eine dieser Allgemeinen Geschäftsbedingungen verstoßen, behalten wir uns das Recht vor, Ihr Konto ohne Vorankündigung zu kündigen oder den Zugriff auf Ihr Konto zu sperren. \
+\
+ Definitionen und Schlüsselbegriffe\
+ Für diese Allgemeinen Geschäftsbedingungen: \
+\
+ • Cookie: kleine Datenmenge, die von einer Website generiert und von Ihrem Webbrowser gespeichert wird. Es wird verwendet, um Ihren Browser zu identifizieren, Analysen bereitzustellen und Informationen über Sie zu speichern, wie z. B. Ihre Spracheinstellung oder Anmeldeinformationen. \
+\
+ • Unternehmen: Wenn in dieser Richtlinie „Unternehmen“, „wir“, „uns“ oder „unser“ erwähnt wird, bezieht sich dies auf World Medical Card, Gamlehaugvegen 20, 5231 Paradis, das gemäß dieser Datenschutzrichtlinie für Ihre Daten verantwortlich ist. \
+\
+ • Land: wo World Medical Card oder die Eigentümer/Gründer von World Medical Card ansässig sind, in diesem Fall Norwegen. \
+\
+ • Kunde: bezieht sich auf das Unternehmen, die Organisation oder die Person, die sich zur Nutzung des World Medical Card Service anmeldet, um die Beziehungen zu Ihren Verbrauchern oder Servicebenutzern zu verwalten. \
+\
+ • Gerät: jedes mit dem Internet verbundene Gerät wie Telefon, Tablet, Computer oder jedes andere Gerät, das verwendet werden kann, um World Medical Card zu besuchen und die Dienste zu nutzen. \
+\
+ • IP-Adresse: Jedem mit dem Internet verbundenen Gerät wird eine Nummer zugewiesen, die als Internet Protocol (IP)-Adresse bezeichnet wird. Diese Nummern werden normalerweise in geografischen Blöcken vergeben. Eine IP-Adresse kann häufig verwendet werden, um den Standort zu identifizieren, von dem aus sich ein Gerät mit dem Internet verbindet. \
+\
+ • Personal: bezieht sich auf Personen, die bei World Medical Card angestellt oder unter Vertrag stehen, um im Namen einer der Parteien eine Dienstleistung zu erbringen. \
+\
+ • Personenbezogene Daten: alle Informationen, die direkt, indirekt oder in Verbindung mit anderen Informationen – einschließlich einer persönlichen Identifikationsnummer – die Identifizierung oder Identifizierbarkeit einer natürlichen Person ermöglichen. \
+\
+ • Service: bezieht sich auf den von World Medical Card bereitgestellten Service, wie in den entsprechenden Bedingungen (falls verfügbar) und auf dieser Plattform beschrieben. \
+\
+ • Drittanbieter-Service: bezieht sich auf Werbetreibende, Sponsoren von Wettbewerben, Werbe- und Marketingpartner und andere, die unsere Inhalte bereitstellen oder deren Produkte oder Dienstleistungen Sie unserer Meinung nach interessieren könnten. \
+\
+ • Website: Website von World Medical Card, auf die über diese URL zugegriffen werden kann: https://worldmedicalcard.org \
+\
+ • Sie: eine natürliche oder juristische Person, die bei World Medical Card registriert ist, um die Dienste zu nutzen. \
+\
+ Beschränkungen\
+ Sie stimmen zu, dies nicht zu tun, und Sie werden anderen nicht gestatten: \
+\
+ • Den Service lizenzieren, verkaufen, vermieten, leasen, abtreten, verteilen, übertragen, hosten, auslagern, offenlegen oder anderweitig kommerziell nutzen oder die Plattform Dritten zur Verfügung stellen. \
+\
+ • Teile des Dienstes zu modifizieren, abgeleitete Werke davon zu erstellen, zu disassemblieren, zu entschlüsseln, zurückzukompilieren oder zurückzuentwickeln. \
+\
+ • Entfernen, ändern oder unkenntlich machen von Eigentumshinweisen (einschließlich Urheberrechts- oder Markenhinweisen) von oder seinen verbundenen Unternehmen, Partnern, Lieferanten oder Lizenzgebern des Dienstes. \
+\
+ Rückgabe- und Rückerstattungsrichtlinie\
+ Vielen Dank für Ihren Einkauf bei uns. Wir wissen es zu schätzen, dass Sie die Sachen, die wir bauen, gerne kaufen. Wir möchten auch sicherstellen, dass Sie eine lohnende Erfahrung machen, während Sie unsere Produkte erkunden, bewerten und kaufen. \
+\
+ Wie bei jedem Einkaufserlebnis gibt es Geschäftsbedingungen, die für Transaktionen in unserem Unternehmen gelten. Wir werden uns so kurz fassen, wie es unsere Anwälte zulassen. Das Wichtigste, woran Sie denken sollten, ist, dass Sie durch die Aufgabe einer Bestellung oder einen Kauf bei uns den Bedingungen zusammen mit unserer Datenschutzrichtlinie zustimmen. \
+\
+ Wenn Sie aus irgendeinem Grund mit den von uns angebotenen Waren oder Dienstleistungen nicht vollständig zufrieden sind, zögern Sie nicht, uns zu kontaktieren, und wir werden alle Probleme besprechen, die Sie mit unserem Produkt haben. \
+\
+ Deine Vorschläge\
+ Alle Rückmeldungen, Kommentare, Ideen, Verbesserungen oder Vorschläge (zusammen „Vorschläge“), die Sie uns in Bezug auf den Service zur Verfügung stellen, bleiben unser alleiniges und ausschließliches Eigentum. Es steht uns frei, die Vorschläge für jeden Zweck und in irgendeiner Weise ohne Anerkennung oder Entschädigung an Sie zu verwenden, zu kopieren, zu ändern, zu veröffentlichen oder weiterzuverbreiten. \
+\
+ Ihre Zustimmung\
+ Wir haben unsere Allgemeinen Geschäftsbedingungen aktualisiert, um Ihnen vollständige Transparenz darüber zu bieten, was eingestellt wird, wenn Sie unsere Website besuchen, und wie es verwendet wird. Indem Sie unseren Service nutzen, ein Konto registrieren oder einen Kauf tätigen, stimmen Sie hiermit unseren Allgemeinen Geschäftsbedingungen zu. \
+\
+ Links zu anderen Websites\
+ Unser Service kann Links zu anderen Websites enthalten, die nicht von uns betrieben werden. Wenn Sie auf einen Link eines Drittanbieters klicken, werden Sie auf die Website dieses Drittanbieters weitergeleitet. Wir empfehlen Ihnen dringend, die Allgemeinen Geschäftsbedingungen jeder Website, die Sie besuchen, zu lesen. Wir haben keine Kontrolle über und übernehmen keine Verantwortung für die Inhalte, Geschäftsbedingungen oder Praktiken von Websites oder Diensten Dritter. \
+\
+ Kekse\
+ Wir verwenden „Cookies“, um die Bereiche unserer Website zu identifizieren, die Sie besucht haben. Ein Cookie ist ein kleines Datenelement, das von Ihrem Webbrowser auf Ihrem Computer oder Mobilgerät gespeichert wird. Wir verwenden Cookies, um die Leistung und Funktionalität unseres Dienstes zu verbessern, sind jedoch für ihre Verwendung nicht unbedingt erforderlich. Ohne diese Cookies sind jedoch möglicherweise bestimmte Funktionen wie Videos nicht verfügbar oder Sie müssten bei jedem Besuch unserer Plattform Ihre Anmeldedaten eingeben, da wir uns nicht daran erinnern könnten, dass Sie sich zuvor angemeldet haben. Die meisten Webbrowser können so eingestellt werden, dass sie die Verwendung von Cookies deaktivieren. Wenn Sie Cookies jedoch deaktivieren, können Sie möglicherweise nicht oder nicht richtig auf Funktionen auf unserer Website zugreifen. Wir platzieren niemals personenbezogene Daten in Cookies. \
+\
+ Änderungen unserer Allgemeinen Geschäftsbedingungen\
+ Sie erkennen an und stimmen zu, dass wir die Bereitstellung des Dienstes (oder von Funktionen innerhalb des Dienstes) für Sie oder Benutzer im Allgemeinen nach unserem alleinigen Ermessen und ohne vorherige Benachrichtigung an Sie (dauerhaft oder vorübergehend) einstellen können. Sie können die Nutzung des Dienstes jederzeit beenden. Sie müssen uns nicht ausdrücklich informieren, wenn Sie die Nutzung des Dienstes einstellen. Sie erkennen an und stimmen zu, dass Sie möglicherweise daran gehindert werden, auf den Dienst, Ihre Kontodaten oder auf Dateien oder andere Materialien zuzugreifen, die in Ihrem Konto enthalten sind, wenn wir den Zugriff auf Ihr Konto deaktivieren. Wenn wir uns entscheiden, unsere Allgemeinen Geschäftsbedingungen zu ändern, werden wir diese Änderungen auf dieser Seite veröffentlichen und/oder das Änderungsdatum der Allgemeinen Geschäftsbedingungen unten aktualisieren. \
+\
+ Änderungen an unserem Service\
+ Wir behalten uns das Recht vor, den Dienst oder einen Dienst, mit dem er verbunden ist, mit oder ohne Vorankündigung und ohne Haftung Ihnen gegenüber vorübergehend oder dauerhaft zu ändern, auszusetzen oder einzustellen. \
+\
+ Aktualisierungen unseres Dienstes\
+ Wir können von Zeit zu Zeit Erweiterungen oder Verbesserungen der Merkmale/Funktionalität des Dienstes bereitstellen, die Patches, Fehlerbehebungen, Updates, Upgrades und andere Modifikationen („Updates“) umfassen können. Updates können bestimmte Merkmale und/oder Funktionalitäten des Dienstes ändern oder löschen. Sie stimmen zu, dass wir nicht verpflichtet sind, (i) Updates bereitzustellen oder (ii) weiterhin bestimmte Merkmale und/oder Funktionalitäten des Dienstes für Sie bereitzustellen oder zu aktivieren. Sie stimmen ferner zu, dass alle Updates (i) als integraler Bestandteil des Dienstes betrachtet werden und (ii) den Bedingungen dieser Vereinbarung unterliegen. \
+\
+ Dienste von Drittanbietern\
+ Wir können Inhalte von Drittanbietern (einschließlich Daten, Informationen, Anwendungen und anderen Produktdiensten) anzeigen, einschließen oder verfügbar machen oder Links zu Websites oder Diensten von Drittanbietern („Dienste von Drittanbietern“) bereitstellen. Sie erkennen an und stimmen zu, dass wir nicht für Dienste von Drittanbietern verantwortlich sind, einschließlich ihrer Genauigkeit, Vollständigkeit, Aktualität, Gültigkeit, Einhaltung von Urheberrechten, Rechtmäßigkeit, Anstand, Qualität oder anderen Aspekten davon. Wir übernehmen keine Haftung oder Verantwortung Ihnen oder anderen natürlichen oder juristischen Personen gegenüber für Dienste von Drittanbietern. Dienste von Drittanbietern und Links dazu werden Ihnen lediglich als Annehmlichkeit zur Verfügung gestellt, und Sie greifen auf sie zu und verwenden sie vollständig auf Ihr eigenes Risiko und gemäß den Geschäftsbedingungen dieser Drittanbieter. \
+\
+ Laufzeit und Kündigung\
+ Diese Vereinbarung bleibt in Kraft, bis sie von Ihnen oder uns gekündigt wird. Wir können diese Vereinbarung nach eigenem Ermessen jederzeit und ohne Angabe von Gründen mit oder ohne vorherige Ankündigung aussetzen oder kündigen. Diese Vereinbarung wird sofort ohne vorherige Ankündigung von uns gekündigt, falls Sie eine Bestimmung dieser Vereinbarung nicht einhalten. Sie können diese Vereinbarung auch kündigen, indem Sie den Dienst und alle Kopien davon von Ihrem Computer löschen. Nach Beendigung dieser Vereinbarung stellen Sie die Nutzung des Dienstes ein und löschen alle Kopien des Dienstes von Ihrem Computer. Die Kündigung dieser Vereinbarung schränkt keine unserer Rechte oder Rechtsbehelfe nach Gesetz oder Billigkeit ein, falls Sie (während der Laufzeit dieser Vereinbarung) gegen eine Ihrer Verpflichtungen aus dieser Vereinbarung verstoßen. \
+\
+ Wenn Sie ein Urheberrechtsinhaber oder ein Vertreter eines solchen Eigentümers sind und glauben, dass Material von uns eine Verletzung Ihres Urheberrechts darstellt, kontaktieren Sie uns bitte unter Angabe der folgenden Informationen: (a) eine physische oder elektronische Unterschrift des Urheberrechtsinhabers oder einer handlungsberechtigten Person in seinem Namen; (b) Identifizierung des angeblich verletzenden Materials; (c) Ihre Kontaktinformationen, einschließlich Ihrer Adresse, Telefonnummer und einer E-Mail; (d) eine Erklärung von Ihnen, dass Sie nach Treu und Glauben der Ansicht sind, dass die Verwendung des Materials nicht von den Urheberrechtsinhabern genehmigt wurde; und (e) die Erklärung, dass die Informationen in der Benachrichtigung korrekt sind und dass Sie unter Strafe des Meineids befugt sind, im Namen des Eigentümers zu handeln. \
+\
+ Entschädigung\
+ Sie erklären sich damit einverstanden, uns und unsere Muttergesellschaften, Tochtergesellschaften, verbundenen Unternehmen, leitenden Angestellten, Mitarbeiter, Vertreter, Partner und Lizenzgeber (falls vorhanden) von jeglichen Ansprüchen oder Forderungen, einschließlich angemessener Anwaltskosten, schadlos zu halten und schadlos zu halten, die aufgrund oder aufgrund Ihrer: ( a) Nutzung des Dienstes; (b) Verletzung dieser Vereinbarung oder eines Gesetzes oder einer Vorschrift; oder (c) Verletzung von Rechten Dritter.\
+ Keine Garantien\
+ Der Service wird Ihnen „WIE BESEHEN“ und „WIE VERFÜGBAR“ und mit allen Fehlern und Mängeln ohne jegliche Gewährleistung bereitgestellt. Soweit nach geltendem Recht zulässig, lehnen wir in unserem eigenen Namen und im Namen unserer verbundenen Unternehmen und unserer jeweiligen Lizenzgeber und Dienstanbieter ausdrücklich alle ausdrücklichen, stillschweigenden, gesetzlichen oder sonstigen Gewährleistungen in Bezug auf den Dienst ab, einschließlich alle stillschweigenden Garantien der Marktgängigkeit, Eignung für einen bestimmten Zweck, Titel und Nichtverletzung sowie Garantien, die sich aus dem Geschäftsverlauf, der Ausführung, dem Gebrauch oder der Handelspraxis ergeben können. Ohne Einschränkung auf das Vorstehende geben wir keine Gewährleistung oder Zusage und geben keinerlei Zusicherungen ab, dass der Dienst Ihre Anforderungen erfüllt, beabsichtigte Ergebnisse erzielt, kompatibel ist oder mit anderer Software, Websites, Systemen oder Diensten funktioniert, ohne die sie betrieben werden unterbrechungsfrei sind, Leistungs- oder Zuverlässigkeitsstandards erfüllen oder fehlerfrei sind oder dass Fehler oder Mängel behoben werden können oder werden. \
+\
+ Ohne das Vorstehende einzuschränken, geben weder wir noch irgendein Anbieter irgendwelche ausdrücklichen oder stillschweigenden Zusicherungen oder Gewährleistungen ab: (i) in Bezug auf den Betrieb oder die Verfügbarkeit des Dienstes oder der darin enthaltenen Informationen, Inhalte und Materialien oder Produkte; (ii) dass der Dienst ununterbrochen oder fehlerfrei ist; (iii) in Bezug auf die Genauigkeit, Zuverlässigkeit oder Aktualität von Informationen oder Inhalten, die über den Dienst bereitgestellt werden; oder (iv) dass der Dienst, seine Server, die Inhalte oder E-Mails, die von uns oder in unserem Namen gesendet werden, frei von Viren, Skripten, Trojanern, Würmern, Malware, Zeitbomben oder anderen schädlichen Komponenten sind. Einige Gerichtsbarkeiten erlauben den Ausschluss oder die Beschränkung stillschweigender Gewährleistungen oder die Beschränkungen der anwendbaren gesetzlichen Rechte eines Verbrauchers nicht, sodass einige oder alle der oben genannten Ausschlüsse und Beschränkungen möglicherweise nicht auf Sie zutreffen. \
+\
+ Haftungsbeschränkung\
+ Ungeachtet etwaiger Schäden, die Ihnen entstehen könnten, ist die gesamte Haftung von uns und unseren Lieferanten gemäß einer Bestimmung dieser Vereinbarung und Ihr ausschließlicher Rechtsbehelf für alle vorstehenden Punkte auf den Betrag beschränkt, den Sie tatsächlich für die Dienstleistung bezahlt haben. Soweit nach geltendem Recht zulässig, haften wir oder unsere Lieferanten in keinem Fall für besondere, zufällige, indirekte oder Folgeschäden (einschließlich, aber nicht beschränkt auf Schäden für entgangenen Gewinn, für Datenverlust oder andere Informationen, für Betriebsunterbrechung, für Personenschäden, für den Verlust der Privatsphäre, die sich aus oder in irgendeiner Weise im Zusammenhang mit der Nutzung oder Unmöglichkeit der Nutzung des Dienstes, der mit dem Dienst verwendeten Software von Drittanbietern und/oder Hardware von Drittanbietern ergeben, oder anderweitig im Zusammenhang mit einer Bestimmung dieser Vereinbarung), auch wenn wir oder ein Lieferant auf die Möglichkeit solcher Schäden hingewiesen wurden und selbst wenn die Abhilfe ihren wesentlichen Zweck verfehlt. Einige Staaten/Gerichtsbarkeiten erlauben den Ausschluss oder die Beschränkung von Neben- oder Folgeschäden nicht, sodass die obige Beschränkung oder der obige Ausschluss möglicherweise nicht auf Sie zutrifft. \
+\
+ Salvatorische Klausel\
+ Wenn eine Bestimmung dieser Vereinbarung für nicht durchsetzbar oder ungültig befunden wird, wird diese Bestimmung geändert und ausgelegt, um die Ziele dieser Bestimmung im größtmöglichen Umfang nach geltendem Recht zu erreichen, und die verbleibenden Bestimmungen bleiben in vollem Umfang in Kraft und wirksam. Diese Vereinbarung stellt zusammen mit der Datenschutzrichtlinie und allen anderen rechtlichen Hinweisen, die von uns zu den Diensten veröffentlicht werden, die gesamte Vereinbarung zwischen Ihnen und uns in Bezug auf die Dienste dar. Wenn eine Bestimmung dieser Vereinbarung von einem zuständigen Gericht für ungültig befunden wird, berührt die Ungültigkeit dieser Bestimmung nicht die Gültigkeit der übrigen Bestimmungen dieser Vereinbarung, die in vollem Umfang in Kraft bleiben. Kein Verzicht auf eine Bedingung dieser Vereinbarung gilt als weiterer oder fortgesetzter Verzicht auf eine solche Bedingung oder eine andere Bedingung, und unser Versäumnis, ein Recht oder eine Bestimmung aus dieser Vereinbarung geltend zu machen, stellt keinen Verzicht auf dieses Recht oder diese Bestimmung dar. SIE UND UNS STIMMEN ZU, DASS JEDER KLAGEGRUND, DER SICH AUS ODER IM ZUSAMMENHANG MIT DEN DIENSTLEISTUNGEN ERGIBT, INNERHALB EINES (1) JAHRES NACH ENTSTEHUNG DES KLAGEGRUNDES BEGINNEN MUSS. ANDERNFALLS IST DER KLAGEGRUND DAUERHAFT AUSGESCHLOSSEN. \
+\
+ Verzicht\
+ Außer wie hierin vorgesehen, beeinträchtigt das Versäumnis, ein Recht auszuüben oder die Erfüllung einer Verpflichtung aus diesem Vertrag zu verlangen, weder die Fähigkeit einer Partei, dieses Recht auszuüben oder eine solche Erfüllung zu verlangen, noch stellt der Verzicht auf eine Verletzung einen Verzicht darauf dar jede spätere Verletzung. \
+\
+ Kein Versäumnis der Ausübung und keine Verzögerung bei der Ausübung eines Rechts oder einer Befugnis aus diesem Vertrag durch eine der Parteien gilt als Verzicht auf dieses Recht oder diese Befugnis. Auch die einzelne oder teilweise Ausübung von Rechten oder Befugnissen aus diesem Vertrag schließt die weitere Ausübung dieses oder eines anderen hierin gewährten Rechts nicht aus. Im Falle eines Widerspruchs zwischen dieser Vereinbarung und anwendbaren Kauf- oder anderen Bedingungen gelten die Bedingungen dieser Vereinbarung. \
+\
+ Änderungen dieser Vereinbarung\
+ Wir behalten uns das Recht vor, diese Vereinbarung nach eigenem Ermessen jederzeit zu ändern oder zu ersetzen. Wenn eine Überarbeitung wesentlich ist, werden wir Sie mindestens 30 Tage im Voraus darüber informieren, bevor neue Bedingungen in Kraft treten. Was eine wesentliche Änderung darstellt, wird nach unserem alleinigen Ermessen bestimmt. Indem Sie nach Inkrafttreten von Änderungen weiterhin auf unseren Dienst zugreifen oder ihn nutzen, stimmen Sie zu, an die geänderten Bedingungen gebunden zu sein. Wenn Sie den neuen Bedingungen nicht zustimmen, sind Sie nicht mehr berechtigt, unseren Service zu nutzen. \
+\
+ Ganze Vereinbarung\
+ Die Vereinbarung stellt die gesamte Vereinbarung zwischen Ihnen und uns in Bezug auf Ihre Nutzung des Dienstes dar und ersetzt alle vorherigen und gleichzeitigen schriftlichen oder mündlichen Vereinbarungen zwischen Ihnen und uns. Sie können zusätzlichen Geschäftsbedingungen unterliegen, die gelten, wenn Sie andere Dienste von uns nutzen oder kaufen, die wir Ihnen zum Zeitpunkt einer solchen Nutzung oder eines solchen Kaufs zur Verfügung stellen. \
+\
+ Aktualisierungen unserer Bedingungen\
+ Wir können unseren Service und unsere Richtlinien ändern, und wir müssen möglicherweise Änderungen an diesen Bedingungen vornehmen, damit sie unseren Service und unsere Richtlinien genau widerspiegeln. Sofern gesetzlich nichts anderes vorgeschrieben ist, werden wir Sie (z. B. über unseren Service) benachrichtigen, bevor wir Änderungen an diesen Bedingungen vornehmen, und Ihnen die Möglichkeit geben, sie zu überprüfen, bevor sie in Kraft treten. Wenn Sie den Dienst dann weiterhin nutzen, sind Sie an die aktualisierten Bedingungen gebunden. Wenn Sie diesen oder aktualisierten Bedingungen nicht zustimmen möchten, können Sie Ihr Konto löschen. \
+\
+ Geistigen Eigentums\
+ Unsere Plattform und ihre gesamten Inhalte, Merkmale und Funktionen (einschließlich, aber nicht beschränkt auf alle Informationen, Software, Texte, Anzeigen, Bilder, Video und Audio sowie deren Design, Auswahl und Anordnung) sind Eigentum von uns, ihren Lizenzgebern oder anderen Anbieter solcher Materialien und sind durch internationale Urheberrechts-, Marken-, Patent-, Geschäftsgeheimnis- und andere Gesetze zu geistigem Eigentum oder Eigentumsrechten geschützt. Das Material darf ohne die ausdrückliche vorherige schriftliche Genehmigung von uns in keiner Weise ganz oder teilweise kopiert, modifiziert, reproduziert, heruntergeladen oder verteilt werden, es sei denn, dies ist ausdrücklich in diesen Allgemeinen Geschäftsbedingungen vorgesehen. Jede unbefugte Nutzung des Materials ist untersagt. \
+\
+ Schiedsvereinbarung\
+ Dieser Abschnitt gilt für alle Streitigkeiten, MIT AUSNAHME VON STREITIGKEITEN IM ZUSAMMENHANG MIT ANSPRÜCHEN AUF UNTERSUCHUNG ODER RECHTSBEHELFE IN BEZUG AUF DIE DURCHSETZUNG ODER GÜLTIGKEIT IHRER GEISTIGEN EIGENTUMSRECHTE ODER VON World Medical Card. Der Begriff „Streitigkeit“ bezeichnet alle Streitigkeiten, Klagen oder sonstigen Kontroversen zwischen Ihnen und uns in Bezug auf die Dienste oder diese Vereinbarung, unabhängig davon, ob es sich um einen Vertrag, eine Garantie, eine unerlaubte Handlung, ein Gesetz, eine Verordnung, eine Verordnung oder eine andere rechtliche oder angemessene Grundlage handelt. „Streit“ wird die breitestmögliche gesetzlich zulässige Bedeutung gegeben. \
+\
+ Streitmitteilung\
+ Im Falle einer Streitigkeit müssen Sie oder wir dem anderen eine Streitmitteilung zukommen lassen, die eine schriftliche Erklärung ist, die den Namen, die Adresse und die Kontaktinformationen der Partei, die sie vorträgt, die Tatsachen, die Anlass zu der Streitigkeit geben, und die beantragte Entlastung. Sie müssen jede Streitmitteilung per E-Mail senden an: . Wir senden Ihnen jede Streitmitteilung per Post an Ihre Adresse, falls uns diese vorliegt, oder andernfalls an Ihre E-Mail-Adresse. Sie und wir werden versuchen, alle Streitigkeiten durch informelle Verhandlungen innerhalb von sechzig (60) Tagen ab dem Datum, an dem die Streitmitteilung gesendet wurde, beizulegen. Nach sechzig (60) Tagen können Sie oder wir ein Schiedsverfahren einleiten. \
+\
+ Verbindliches Schiedsverfahren\
+ Wenn Sie und wir eine Streitigkeit nicht durch informelle Verhandlungen lösen, werden alle anderen Bemühungen zur Beilegung der Streitigkeit ausschließlich durch ein verbindliches Schiedsverfahren wie in diesem Abschnitt beschrieben durchgeführt. Sie verzichten auf das Recht, alle Streitigkeiten vor Gericht vor einem Richter oder Geschworenengericht zu führen (oder als Partei- oder Klassenmitglied daran teilzunehmen). Die Streitigkeit wird durch ein verbindliches Schiedsverfahren gemäß den Handelsschiedsregeln der American Arbitration Association beigelegt. Jede Partei kann bei jedem zuständigen Gericht eine einstweilige oder einstweilige Verfügung beantragen, um die Rechte oder das Eigentum der Partei bis zum Abschluss des Schiedsverfahrens zu schützen. Alle Rechts-, Buchhaltungs- und sonstigen Kosten, Gebühren und Ausgaben, die der obsiegenden Partei entstehen, sind von der nicht obsiegenden Partei zu tragen. \
+\
+\
+ Einreichungen und Datenschutz\
+ Für den Fall, dass Sie Ideen, kreative Vorschläge, Designs, Fotos, Informationen, Anzeigen, Daten oder Vorschläge einreichen oder posten, einschließlich Ideen für neue oder verbesserte Produkte, Dienstleistungen, Funktionen, Technologien oder Werbeaktionen, stimmen Sie ausdrücklich zu, dass solche Einsendungen automatisch erfolgen werden als nicht vertraulich und nicht urheberrechtlich geschützt behandelt und gehen ohne Entschädigung oder Gutschrift an Sie in unser alleiniges Eigentum über. Wir und unsere verbundenen Unternehmen haben keine Verpflichtungen in Bezug auf solche Einsendungen oder Posts und können die in solchen Einsendungen oder Posts enthaltenen Ideen für alle Zwecke in jedem Medium auf Dauer verwenden, einschließlich, aber nicht beschränkt auf die Entwicklung, Herstellung und Vermarktung von Produkten und Dienstleistungen, die solche Ideen verwenden. \
+\
+ Werbeaktionen\
+ Wir können von Zeit zu Zeit Wettbewerbe, Werbeaktionen, Gewinnspiele oder andere Aktivitäten („Werbeaktionen“) einschließen, bei denen Sie Materialien oder Informationen über sich selbst übermitteln müssen. Bitte beachten Sie, dass alle Werbeaktionen möglicherweise durch separate Regeln geregelt werden, die bestimmte Teilnahmevoraussetzungen enthalten können, wie z. B. Einschränkungen in Bezug auf Alter und geografischen Standort. Sie sind dafür verantwortlich, alle Aktionsregeln zu lesen, um festzustellen, ob Sie zur Teilnahme berechtigt sind oder nicht. Wenn Sie an einer Werbeaktion teilnehmen, erklären Sie sich damit einverstanden, alle Werbeaktionsregeln einzuhalten und einzuhalten. Für den Kauf von Waren oder Dienstleistungen auf oder über die Dienste können zusätzliche Geschäftsbedingungen gelten, die durch diesen Verweis Teil dieser Vereinbarung werden. \
+\
+ Schreibfehler\
+ Für den Fall, dass ein Produkt und/oder eine Dienstleistung aufgrund eines Tippfehlers zu einem falschen Preis oder mit falschen Informationen aufgeführt wird, haben wir das Recht, alle Bestellungen für das zum falschen Preis aufgeführte Produkt und/oder die Dienstleistung abzulehnen oder zu stornieren. Wir haben das Recht, eine solche Bestellung abzulehnen oder zu stornieren, unabhängig davon, ob die Bestellung bestätigt und Ihre Kreditkarte belastet wurde oder nicht. Wenn Ihre Kreditkarte bereits für den Kauf belastet wurde und Ihre Bestellung storniert wird, werden wir Ihrem Kreditkartenkonto oder sonstigen Zahlungskonto unverzüglich eine Gutschrift in Höhe der Belastung ausstellen. \
+\
+ Sonstig\
+ Sollte ein zuständiges Gericht aus irgendeinem Grund feststellen, dass eine Bestimmung oder ein Teil dieser Allgemeinen Geschäftsbedingungen nicht durchsetzbar ist, bleibt der Rest dieser Allgemeinen Geschäftsbedingungen in vollem Umfang in Kraft und wirksam. Jeder Verzicht auf eine Bestimmung dieser Allgemeinen Geschäftsbedingungen ist nur wirksam, wenn er schriftlich erfolgt und von einem bevollmächtigten Vertreter von uns unterzeichnet ist. Wir haben Anspruch auf eine einstweilige Verfügung oder einen anderen angemessenen Rechtsschutz (ohne die Verpflichtung, eine Bürgschaft oder Bürgschaft zu hinterlegen) im Falle einer Verletzung oder einer vorausschauenden Verletzung durch Sie. Wir betreiben und kontrollieren unseren Service von unseren Büros in . Der Dienst ist nicht für den Vertrieb an oder die Nutzung durch Personen oder Organisationen in Rechtsordnungen oder Ländern bestimmt, in denen eine solche Verbreitung oder Nutzung gegen Gesetze oder Vorschriften verstoßen würde. Dementsprechend tun diejenigen Personen, die von anderen Standorten aus auf unseren Service zugreifen, dies aus eigener Initiative und sind allein verantwortlich für die Einhaltung lokaler Gesetze, sofern und soweit lokale Gesetze anwendbar sind. Diese Allgemeinen Geschäftsbedingungen (die unsere Datenschutzrichtlinie enthalten und beinhalten) enthalten die gesamte Vereinbarung und ersetzen alle vorherigen Vereinbarungen zwischen Ihnen und uns in Bezug auf ihren Gegenstand und können von Ihnen nicht geändert oder modifiziert werden. Die in dieser Vereinbarung verwendeten Abschnittsüberschriften dienen nur der Übersichtlichkeit und haben keine rechtliche Bedeutung. \
+\
+ Haftungsausschluss\
+ Wir sind nicht verantwortlich für Inhalt, Code oder andere Ungenauigkeiten. Wir übernehmen keine Gewährleistungen oder Garantien. In keinem Fall haften wir für besondere, direkte, indirekte, Folge- oder Nebenschäden oder Schäden jeglicher Art, sei es aufgrund einer Vertragshandlung, Fahrlässigkeit oder einer anderen unerlaubten Handlung, die sich aus oder im Zusammenhang mit der Nutzung des Dienstes ergeben oder die Inhalte des Dienstes. Wir behalten uns das Recht vor, jederzeit ohne vorherige Ankündigung Ergänzungen, Löschungen oder Änderungen an den Inhalten des Dienstes vorzunehmen. \
+\
+ Unser Service und seine Inhalte werden \"wie besehen\" und \"wie verfügbar\" ohne jegliche ausdrückliche oder stillschweigende Gewährleistung oder Zusicherung bereitgestellt. Wir sind ein Distributor und kein Herausgeber der von Dritten bereitgestellten Inhalte; Als solches übt unser keine redaktionelle Kontrolle über solche Inhalte aus und gibt keine Garantie oder Zusicherung hinsichtlich der Genauigkeit, Zuverlässigkeit oder Aktualität von Informationen, Inhalten, Diensten oder Waren, die über unseren Dienst bereitgestellt oder über unseren Dienst zugänglich gemacht werden. Ohne das Vorstehende einzuschränken, lehnen wir ausdrücklich alle Gewährleistungen und Zusicherungen für Inhalte ab, die auf oder in Verbindung mit unserem Service oder auf Websites übertragen werden, die als Links auf unserem Service erscheinen können, oder in den Produkten, die als Teil von oder anderweitig in Verbindung mit bereitgestellt werden , unser Service, einschließlich, aber nicht beschränkt auf Garantien der Marktgängigkeit, Eignung für einen bestimmten Zweck oder Nichtverletzung von Rechten Dritter. Keine mündlichen Ratschläge oder schriftlichen Informationen, die von uns oder seinen verbundenen Unternehmen, Mitarbeitern, leitenden Angestellten, Direktoren, Vertretern oder dergleichen gegeben werden, begründen eine Garantie. Preis- und Verfügbarkeitsinformationen können ohne Vorankündigung geändert werden. Ohne das Vorstehende einzuschränken, garantieren wir nicht, dass unser Service ununterbrochen, unbeschädigt, rechtzeitig oder fehlerfrei ist. \
+\
+ Kontaktiere uns\
+ Zögern Sie nicht, uns bei Fragen zu kontaktieren.\
+ • Per E-Mail: post@wmc-card.no\
+ • Per Telefonnummer: +47 55 33 75 75";
+"register_to_wmc_title" = "Melden Sie sich für die World Medical Card® an";
+"create_account_button" = "Konto anlegen";
+"register_byline" = "Bitte geben Sie Ihre persönlichen Daten ein, um ein Konto zu erstellen, Sie können sie später ändern.";
+"signup_with_google_button" = "Melden Sie sich bei Google an";
+"divider_or_text" = "Oder";
+"register_email_field_hint" = "Email";
+"register_password_field_hint" = "Passwort";
+"register_password_min_hint" = "mindestens 8 Zeichen";
+"screen_title_hi" = "👋🏻 Hallo";
+"no_subscription_title" = "Kein Abonnement";
+"no_subscription_description" = "Bitte abonnieren Sie ein Produkt, um alle Funktionen der World Medical Card nutzen zu können";
+"subscribe_button" = "Jetzt registrieren";
+"common_dash" = "-";
+"screen_title_good_afternoon" = "👋🏻 Guten Tag";
+"title_your_profile_is_incomplete" = "Ihr Profil ist unvollständig";
+"description_your_profile_is_incomplete" = "Bitte vervollständigen Sie Ihr Profil, um alle Funktionen der World Medical Card nutzen zu können";
+"complete_my_profile_button" = "Vervollständige mein Profil";
+"personal_info_card_title" = "Persönliche Informationen";
+"personal_info_card_description" = "Geben Sie uns die Gelegenheit, Sie für eine bessere Erfahrung besser kennenzulernen";
+"profile_birthdate" = "Geburtsdatum";
+"profile_ssn" = "CPR-Nummer";
+"profile_nationality" = "Nationalität";
+"profile_travel_insurance" = "Reiseversicherung";
+"profile_organ_donor" = "Organspender";
+"profile_policy_number" = "Nummer der Police";
+"profile_policy_date" = "Mitglied bis/Ausgestellt am";
+"error_message" = "Etwas ist schief gelaufen. Bitte versuchen Sie es später erneut.";
+"error_no_internet" = "Bitte überprüfen Sie die Internetverbindung";
+"error_no_data_found" = "Keine Daten gefunden";
+"error_unauthorized" = "Entschuldigung, aber Sie sind nicht berechtigt, auf diesen Inhalt zuzugreifen";
+"error_empty_response" = "Entschuldigung, der Inhalt ist leer";
+"allergies_card_title" = "Allergien";
+"allergies_card_description" = "Teilen Sie uns mit, ob Sie Allergien haben oder wissen, dass Sie keine haben";
+"add_allergies_button" = "Allergien hinzufügen";
+"no_allergies_listed" = "Keine Allergien angegeben";
+"button_add" = "Hinzufügen";
+"button_translate" = "Übersetzen";
+"button_share" = "Teilen";
+"complete_your_profile" = "Vervollständigen Sie Ihr Profil";
+"profile_gender" = "Geschlecht";
+"profile_telephone" = "Telefon";
+"profile_postal_address" = "Adresse";
+"member_since" = "Mitglied seit %1$@";
+"alarm_phone" = "Notfalltelefon";
+"emergency_contacts" = "Ansprechpartner im Notfall";
+"other_information" = "Andere Informationen";
+"tap_edit_to_complete_profile" = "Tippen Sie unten auf Bearbeiten, um Ihr Profil zu vervollständigen";
+"card_items_description" = "%1$@ Elemente: %2$@";
+"medicine_card_title" = "Medikamente";
+"no_medications_listed" = "Keine Medikamente angegeben";
+"diagnoses_card_title" = "Diagnosen";
+"no_diagnoses_listed" = "Keine Diagnosen aufgeführt";
+"vaccines_card_title" = "Impfstoffe";
+"no_vaccines_listed" = "Keine Impfstoffe aufgeführt";
+"documents_card_title" = "Dokumente";
+"no_documents_added" = "Keine Dokumente hinzugefügt";
+"terms_and_conditions_button" = "Bedingungen und Konditionen";
+"sign_out_button" = "Ausloggen";
+"order_now_button" = "Jetzt bestellen";
+"order_your_card_title" = "Bestellen Sie Ihre Karte";
+"order_your_card_description" = "Genießen Sie alle Funktionen Ihrer World Medical Card aus Ihrem Portemonnaie";
+"wmc_order_successful" = "Die Bestellung war erfolgreich";
+"wmc_card_menu_print_card" = "Karte drucken";
+"wmc_card_menu_reorder_card" = "Karte nachbestellen";
+"signin_with_google_button" = "Anmeldung mit Google";
+"login_to_wmc_title" = "Anmelden bei World Medical Card®";
+"login_byline" = "Wie möchten Sie sich anmelden?";
+"common_yes" = "Ja";
+"common_no" = "Nein";
+"personal_info_title" = "Persönliche Informationen";
+"common_save" = "Speichern";
+"personal_info_byline" = "Bitte geben Sie Ihre persönlichen Daten ein, um ein Konto zu erstellen, Sie können sie später ändern.";
+"profile_edit_first_name" = "Vorname";
+"profile_edit_last_name" = "Nachname";
+"profile_edit_date_of_birth" = "Geburtsdatum";
+"profile_edit_ssn" = "HLW-Nummer (optional)";
+"profile_edit_phone" = "Telefonnummer";
+"profile_edit_donor_question" = "Möchten Sie Organspender werden?";
+"profile_edit_donor_note" = "Angehörige der Gesundheitsberufe werden gebeten, die Familie zu bitten, Ihre Entscheidung zu bestätigen";
+"profile_edit_postal_address_note" = "Geben Sie die Adresse ein, an die wir die Karte senden sollen. Die Adresse erscheint nicht auf der Notfallkarte.";
+"profile_edit_postal_code" = "PLZ/Ort";
+"profile_edit_land" = "Land";
+"profile_edit_insurance_title" = "Versicherung";
+"profile_edit_insurance_note" = "Fügen Sie Versicherungsinformationen als Referenz hinzu.";
+"profile_edit_insurance_type" = "Versicherungsart";
+"profile_edit_insurance_travel" = "Reiseversicherung";
+"profile_edit_insurance_health" = "Krankenversicherung";
+"profile_edit_policy_number" = "Policennummer (optional)";
+"profile_edit_alarm_phone" = "Notruftelefon (optional)";
+"profile_edit_emergency_contacts_note" = "Fügen Sie im Notfall Kontakte hinzu, denen Sie vertrauen.";
+"profile_edit_emergency_contacts_name" = "Name";
+"profile_edit_emergency_contacts_phone" = "Telefonnummer";
+"profile_edit_emergency_contacts_relation" = "Beziehung";
+"profile_edit_other_title" = "Andere";
+"profile_edit_other_hint" = "Möchten Sie weitere Informationen hinzufügen?";
+"profile_edit_city" = "Stadt";
+"profile_gender_male" = "Männlich";
+"profile_gender_female" = "Weiblich";
+"add_new_allergy_title" = "Neue Allergie hinzufügen";
+"add_new_medicine_title" = "Neues Medikament hinzufügen";
+"add_new_diagnoses_title" = "Neue Diagnosen hinzufügen";
+"add_new_search_hint" = "Suche";
+"profile_edit_select_birthdata" = "Geburtsdatum auswählen";
+"dashboard_screen_title_morning" = "👋🏻 Guten Morgen";
+"dashboard_screen_title_evening" = "👋🏻 Guten Tag";
+"dashboard_screen_title_night" = "👋🏻 Gute Nacht";
+"add_document_document_title_hint" = "Dokumenttitel";
+"add_document_document_type_hint" = "Dokumentenart";
+"add_document_description_hint" = "Beschreibung (optional)";
+"add_new_vaccines_title" = "Neuen Impfstoff hinzufügen";
+"signup_button_title" = "Registrieren";
+"signin_button_title" = "Einloggen";
+"apple_button_title" = "mit Apple";
+"google_button_title" = "mit Google";
+"add_new_allergy_top_hits" = "Top-Hits";
+"edit_card_dialog_remove_item_title" = "Element entfernen";
+"common_cancel" = "Absagen";
+"common_remove" = "Löschen";
+"maybe_later_button" = "Vielleicht später";
+"please_check_your_email_and_password" = "Überprüfen Sie Ihre E-Mail und Ihr Passwort";
+"ok_button_title" = "OK";
+"cancel_button_title" = "Absagen";
+"field_required_title" = "Das Feld ist obligatorisch";
+"add_document_title" = "Neues Dokument hinzufügen";
+"edit_document_title" = "Dokument bearbeiten";
+"edit_card_dialog_remove_items_title" = "Element(e) löschen";
+"edit_card_dialog_edit_item_title" = "Rediger-Element";
+"add_document_edit_button" = "Dokument bearbeiten";
+"select_file_to_upload" = "Bitte wählen Sie die hochzuladende Datei aus";
+"profile_zip" = "POSTLEITZAHL";
+"profile_country" = "Land";
+"profile_screen_title" = "Profil";
+"profile_insurance_type_health" = "Die Gesundheit";
+"profile_insurance_type_travel" = "Reise";
+"profile_save_button_title" = "Speichern";
+"sign_in_password_incorrect" = "Das Konto wurde nicht gefunden. Versuchen Sie, sich mit einem Google-Konto oder einer E-Mail-Adresse und einem Passwort anzumelden";
+"profile_validation_required_fields" = "Geburtsdatum, Nationalität, Telefon und Geschlecht sind erforderlich";
+"card_order_missing_info" = "Bitte überprüfen Sie, ob die unten stehenden Informationen korrekt sind. Bitte kontaktieren Sie uns, wenn Sie Fehler finden.";
+"members_name" = "Name";
+"members_address" = "Adresse";
+"members_zip_code" = "Postleitzahl";
+"members_country" = "Land";
+"members_emergency_contact" = "Notfallkontakte";
+"members_birthdate" = "Geburtsdatum";
+"members_gender" = "Geschlecht";
+"member_card_order_date" = "Datum des Drucks";
+"members_diagnosis" = "Diagnosen";
+"members_medications" = "Medikamente";
+"members_allergies" = "Allergien";
+"members_other_info" = "Andere Informationen";
+"card_order_greeting" = "Liebling";
+"card_order_info_ready" = "Hier liegt Ihr Notfallpass mit Ihren wichtigen Informationen bereit, falls Einsatzkräfte ihn im Notfall benötigen.";
+"card_order_instruction_dos" = "Bitte gehen Sie wie folgt vor";
+"card_order_instruction_one" = "Reißen Sie die Karte vom Ausdruck ab";
+"card_order_instruction_two" = "Öffnen Sie den Ausdruck und prüfen Sie, ob die Angaben korrekt sind";
+"card_order_instruction_three" = "Legen Sie die Karte in Ihre Brieftasche";
+"card_order_miscelleneous_one" = "Pass auf dich auf und sei sicher";
+"card_order_miscelleneous_two" = "Mit freundlichen Grüßen World Medical Card Support";
+"card_order_ps_note" = "PS! Denken Sie daran, dass Ihr Gesundheitsprofil auch in der App und im Internet verfügbar ist.";
+"translate_my_title" = "Mein %1$s";
+"translate_language_hint" = "Sprache";
+"translate_code_prefix" = "• Code: %1$@";
+"translate_title_allergies" = "Meine Allergien";
+"translate_title_medicine" = "Meine Medikamente";
+"translate_title_diagnoses" = "Meine Diagnosen";
+"translate_title_vaccines" = "Meine Impfstoffe";
+"subscription_overview_title" = "Meine Abonnements";
+"subscription_overview_subtitle" = "Aktuelles Abonnement ( %1li )";
+"subscription_overview_hint" = "Sie haben derzeit kein Abonnement bei World Medical Card, klicken Sie unten auf Abonnieren und genießen Sie alle Funktionen von World Medical Card";
+"subscription_overview_add_subscription_button" = "Abonnement hinzufügen";
+"subscription_overview_item_subscription_manager_title" = "Mitgliedschaftsadministrator:";
+"subscription_overview_item_membership_occupancy_title" = "Belegung der Mitgliedschaft:";
+"subscription_overview_item_expired_title" = "Abgelaufen";
+"subscription_overview_text_subscribe" = "Klicken Sie hier, um das neue Mitgliedschaftspaket zu abonnieren";
+"subscription_detail_title" = "Abonnementdetails";
+"subscription_detail_member_list_title" = "Liste der Mitglieder";
+"subscription_detail_membership_left_full_title" = "Sie haben noch <b> %1li </b> Mitgliedschaften in diesem Paket.\
+ Um ein Mitglied hinzuzufügen, klicken Sie bitte auf die Schaltfläche unten.";
+"subscription_detail_membership_left_title" = "Sie haben noch <b> %1li </b> Mitgliedschaften in diesem Paket.";
+"subscription_detail_add_member_title" = "Fügen Sie weitere Mitglieder hinzu";
+"subscription_detail_payment_method_title" = "Zahlungsmethode";
+"subscription_detail_paid_with_text" = "Bezahlt mit";
+"subscription_invitation_title" = "Neues Mitglied hinzufügen";
+"subscription_invitation_add_member_button" = "Mitglied hinzufügen";
+"subscription_delete_member_dialog_title" = "Mitglied löschen";
+"subscription_delete_member_dialog_message" = "Möchten Sie dieses Mitglied wirklich aus diesem Abonnementpaket entfernen?";
+"subscription_delete_member_dialog_positive_button" = "Bestätigen";
+"subscription_delete_member_dialog_negative_button" = "Absagen";
+"subscription_detail_memberlist_title" = "";
+"subscription_detail_memberlist_full_description" = "";
+"subscription_detail_memberlist_add" = "";
+"subscription_detail_payment_title" = "";
+"subscription_detail_payment_method" = "";
+"subscription_remove_member_alert_title" = "Möchten Sie dieses Mitglied entfernen?";
+"subscription_remove_member_alert_message" = "[Warnmeldung]";
+"subscription_remove_member_alert_ok" = "OK";
+"subscription_remove_member_alert_cancel" = "Absagen";
+"subscription_add_member_title" = "Neues Mitglied hinzufügen";
+"subscription_add_member_placeholder_email" = "Email";
+"subscription_add_member_alert_invite_title" = "[irgendein Titel]";
+"subscription_add_member_alert_invite_ok" = "Mitglied eingeladen";
+"subscription_add_member_action_add" = "Mitglied hinzufügen";
+"subscription_remove_membership_button_title" = "Mitgliedschaft entfernen";
+"subscription_remove_membership_dialog_title" = "Mitgliedschaft löschen";
+"subscription_remove_membership_dialog_text" = "Sind Sie sicher, dass Sie aus diesem Mitgliedschaftspaket entfernt werden möchten?";
+"subscription_detail_action_cancel_subcription" = "Abonnement kündigen";
+"subscription_detail_alert_cancel_subcription_title" = "Abonnement kündigen";
+"subscription_detail_alert_cancel_subcription_message" = "Möchten Sie dieses Abonnement wirklich kündigen?";
+"subscription_detail_alert_cancel_subcription_cancel" = "Absagen";
+"subscription_detail_alert_cancel_subcription_confirm" = "Bestätigen";
+"common_photolibrary" = "Fotothek";
+"common_takephoto" = "Fotografieren";
+"common_choosefile" = "Datei wählen";
+"purchase_subscription_web_link" = "https://worldmedicalcard.org/#subscriptions";
+"subscription_not_active_dialog_title" = "Keine aktiven Abonnements";
+"subscription_not_active_dialog_message" = "Es scheint, dass Sie derzeit keine aktiven Abonnements haben. Sie können über den unten stehenden Link bestellen.";
+"subscription_time_out_dialog_title" = "Ohh nein";
+"subscription_time_out_dialog_message" = "Unser Abo-Service ist derzeit ausgelastet. Bitte versuchen Sie es später erneut.";
+"no_allergy_add_message" = "Keine Allergien hinzugefügt";
+"no_medicine_add_message" = "Keine Medizin hinzugefügt";
+"no_diagnose_add_message" = "Keine Diagnosen hinzugefügt";
+"no_vaccine_add_message" = "Keine Impfstoffe hinzugefügt";
+"no_document_add_message" = "Keine Dokumente hinzugefügt";
+"menu_home" = "Heim";
+"menu_manage_subscription" = "Abonnement verwalten";
+"menu_term_condition" = "Laufzeit & Bedingung";
+"order_completed_your_card_title" = "Deine Karte";
+"click_edit_profile" = "Klicken Sie hier, um das Profil zu bearbeiten";
+"click_complete_profile" = "Klicken Sie hier, um Ihr Profil zu vervollständigen";
+"register_email_required" = "E-Mail ist erforderlich";
+"register_email_invalid" = "Ungültige E-Mail";
+"subscription_detail_cancel_subscription_hint" = "Um sich dauerhaft aus diesem Abonnementpaket zu entfernen";
+"subscription_detail_cancel_subscription_button" = "Kündigen Sie Ihr Abonnement";
+"subscription_detail_cancel_membership_title" = "Kündigen Sie Ihre Mitgliedschaft";
+"subscription_detail_memberlist_available_description" = "Sie haben noch {numOfMembers} Mitgliedschaften in diesem Paket. Um ein Mitglied hinzuzufügen, klicken Sie bitte auf die Schaltfläche unten.";
+"profile_my_profile" = "Mein Profil";
+"add_new_subscription" = "Neues Abonnement hinzufügen";
+"my_subscription_current_subscription_count" = "Aktuelles Abonnement {quantity}";
+"terms_conditions_back_button" = "Der Rücken";
+"terms_conditions_accept_button" = "Annehmen";
+"terms_conditions_decline_button" = "Abfall";
+"login_header" = "Hallo";
+"login_options_guide" = "Um zu beginnen, melden Sie sich bitte mit den folgenden Optionen an";
+"login_continue_button" = "Fortsetzen";
+"login_signup_with_app_button" = "Melden Sie sich bei Apple an";
+"register_password_required" = "Passwort wird benötigt";
+"profile_edit_first_name_required" = "Vorname ist erforderlich";
+"profile_edit_last_name_required" = "Nachname ist erforderlich";
+"profile_edit_birth_date_required" = "Geburtsdatum ist erforderlich";
+"profile_edit_phone_invalid" = "Ungültige Telefonnummer";
+"profile_edit_phone_required" = "Telefonnummer ist erforderlich";
+"profile_edit_nationality_required" = "Bitte Nationalität auswählen";
+"profile_edit_gender_required" = "Bitte wähle ein Geschlecht";
+"profile_edit_emergency_contacts_name_required" = "Name ist erforderlich";
+"profile_edit_emergency_contacts_phone_invalid" = "Ungültige Telefonnummer";
+"profile_edit_emergency_contacts_phone_required" = "Telefonnummer ist erforderlich";
+"profile_edit_emergency_contacts_relationship_required" = "Beziehung ist erforderlich";
+"profile_edit_insurance_company_name_required" = "Der Name der Versicherungsgesellschaft ist erforderlich";
+"profile_edit_insurance_type_required" = "Bitte wählen Sie die Versicherungsart aus";
+"profile_edit_postal_info_required" = "Straße ist erforderlich";
+"profile_edit_postal_city_required" = "Stadt ist erforderlich";
+"profile_edit_postal_zip_code_required" = "Postleitzahl ist erforderlich";
+"profile_edit_postal_country_required" = "Land ist erforderlich";
+"profile_edit_my_profile" = "Mein Profil bearbeiten";
+"delete_modal_title" = "Löschung bestätigen";
+"delete_modal_description" = "Dieses Element löschen?";
+"delete_modal_confirm_button" = "Löschen";
+"add_document_title_required" = "Titel ist erforderlich";
+"add_document_type_required" = "Bitte wählen Sie einen Dokumenttyp aus";
+"translation_button" = "Übersetzung";
+"order_new_card_title" = "Neue Karte bestellen";
+"order_new_card_description" = "Haben Sie Ihre persönlichen Daten und Ihr medizinisches Profil auf Richtigkeit überprüft?";
+"order_new_card_confirm_button" = "Karte bestellen";
+"view_document_title" = "Dokument(e) anzeigen";
+"file_upload_drag_drop_file" = "Ziehen Sie die Datei hierher und legen Sie sie dort ab";
+"file_upload_browse_file" = "Browser-Datei";
+"enter_email_address" = "E-Mail Adresse eingeben";
+"profile_edit_police_number" = "Polizeinummer (optional)";
+"pagination" = "Seite {pageNumber} von {numPages}";
+"previous" = "Vorherige";
+"manage_subscription_tab_all" = "Alle";
+"manage_subscription_tab_owner" = "Eigentümer";
+"manage_subscription_tab_member" = "Mitglied";
+"register_login_forget_password_title" = "Passwort vergessen?";
+"forgot_password_screen_title" = "Passwort zurücksetzen";
+"forgot_password_screen_description" = "Bitte geben Sie Ihre E-Mail-Adresse ein und drücken Sie die Taste, um Ihr Passwort zurückzusetzen";
+"forgot_password_screen_reset_password_button" = "Passwort zurücksetzen";
+"forgot_password_alert_message" = "Wenn die von Ihnen angegebene E-Mail-Adresse in unserem System registriert ist, erhalten Sie in Kürze eine E-Mail. Bitte folgen Sie den Anweisungen in der E-Mail, um das Passwort zurückzusetzen.";

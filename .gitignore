@@ -1,0 +1,14 @@
+
+.DS_Store
+
+*/WMC_v3/WorldMedicalCard.xcworkspace/xcuserdata/mralihaidar.xcuserdatad/UserInterfaceState.xcuserstate
+
+Pods/
+Podfile.lock
+*/Pods/*
+*/WorldMedicalCard.xcworkspace/xcuserdata/*/UserInterfaceState.xcuserstate
+*/WorldMedicalCard.xcworkspace/xcuserdata/*/xcdebugger/Breakpoints_v2.xcbkptlist
+
+*/Pods/Target Support Files/*
+
+*.xcworkspace

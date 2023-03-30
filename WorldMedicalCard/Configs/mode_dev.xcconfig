@@ -1,0 +1,16 @@
+#include "base.xcconfig"
+
+MODE_SUFFIX = -DEV
+
+PRODUCT_BUNDLE_IDENTIFIER = com.wmc-card.dev
+APP_DISPLAY_NAME = WMC Dev
+
+CODE_SIGN_ENTITLEMENTS = $(TARGET_NAME)/WorldMedicalCardDebug.entitlements
+
+GOOGLE_PLIST_PATH = $(TARGET_NAME)/GoogleService-Info-dev.plist
+
+API_BASE_URL = https:/$()/wmc-dev-mobile-client-api.azurewebsites.net/
+
+FIR_URL_SCHEME = com.googleusercontent.apps.693992819935-uq0gfjpgf9q72nrdaa0jtphjbl39tf9n
+
+LOKALISE_TYPE = prerelease

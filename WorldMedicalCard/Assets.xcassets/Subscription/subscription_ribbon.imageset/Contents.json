@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Group 10221.pdf",
+      "idiom" : "universal",
+      "resizing" : {
+        "cap-insets" : {
+          "left" : 160,
+          "right" : 161
+        },
+        "center" : {
+          "mode" : "tile",
+          "width" : 1
+        },
+        "mode" : "3-part-horizontal"
+      }
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

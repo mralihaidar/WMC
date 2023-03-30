@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="SlideView" customModule="WorldMedicalCard" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="launch-screen" translatesAutoresizingMaskIntoConstraints="NO" id="xfG-yx-Me3">
+                    <rect key="frame" x="146" y="60" width="122" height="44"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="122" id="ghF-DM-s43"/>
+                        <constraint firstAttribute="height" constant="44" id="kMU-ua-P9H"/>
+                    </constraints>
+                </imageView>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="0pg-R5-eI9">
+                    <rect key="frame" x="20" y="168" width="374" height="191"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="191" id="KIW-ox-TEF"/>
+                    </constraints>
+                </imageView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Fill Your Info" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qrO-a7-uGA">
+                    <rect key="frame" x="20" y="431" width="374" height="43"/>
+                    <fontDescription key="fontDescription" name="SinhalaSangamMN-Bold" family="Sinhala Sangam MN" pointSize="32"/>
+                    <color key="textColor" red="0.14901960784313725" green="0.19607843137254902" blue="0.2196078431372549" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3iR-S3-OuW">
+                    <rect key="frame" x="20" y="490" width="374" height="93.5"/>
+                    <string key="text">Your medical information is coded according to World Health Organizations global standards (ICD-10, ATC) to ensure that your condition and requirement is understood by health professionals and pharmaceutical personnel all over the world.</string>
+                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="16"/>
+                    <color key="textColor" red="0.37254901960784315" green="0.40392156862745099" blue="0.42352941176470588" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pnp-QP-O0e">
+                    <rect key="frame" x="161.5" y="626.5" width="91" height="24"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="24" id="fWD-MK-es5"/>
+                    </constraints>
+                    <state key="normal" title="Button"/>
+                    <buttonConfiguration key="configuration" style="plain" title="Skip Tour">
+                        <fontDescription key="titleFontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="16"/>
+                        <color key="baseForegroundColor" red="0.37254901959999998" green="0.4039215686" blue="0.42352941179999998" alpha="1" colorSpace="calibratedRGB"/>
+                    </buttonConfiguration>
+                    <connections>
+                        <action selector="skipButtonTapped:" destination="iN0-l3-epB" eventType="touchUpInside" id="uNT-iP-KFx"/>
+                    </connections>
+                </button>
+                <button hidden="YES" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="roI-e1-HzF">
+                    <rect key="frame" x="20" y="796" width="374" height="56"/>
+                    <color key="backgroundColor" red="0.25882352941176467" green="0.59999999999999998" blue="0.88235294117647056" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="56" id="j16-o2-rsc"/>
+                    </constraints>
+                    <state key="normal" title="Button"/>
+                    <buttonConfiguration key="configuration" style="plain" title="Next">
+                        <color key="baseForegroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    </buttonConfiguration>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                            <real key="value" value="28"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                    <connections>
+                        <action selector="nextButtonTapped:" destination="iN0-l3-epB" eventType="touchUpInside" id="jue-c6-Wn6"/>
+                    </connections>
+                </button>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="pnp-QP-O0e" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="4gW-go-u0t"/>
+                <constraint firstItem="3iR-S3-OuW" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="20" id="6E3-U8-yUZ"/>
+                <constraint firstItem="roI-e1-HzF" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="20" id="7U1-Us-Ncf"/>
+                <constraint firstItem="0pg-R5-eI9" firstAttribute="top" secondItem="xfG-yx-Me3" secondAttribute="bottom" constant="64" id="9bo-7b-JGv"/>
+                <constraint firstAttribute="bottom" secondItem="roI-e1-HzF" secondAttribute="bottom" constant="44" id="ALb-Ql-qE8"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="3iR-S3-OuW" secondAttribute="trailing" constant="20" id="Jgs-l0-Vkh"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="0pg-R5-eI9" secondAttribute="trailing" constant="20" id="Taf-fX-IXz"/>
+                <constraint firstItem="xfG-yx-Me3" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="60" id="X9t-8O-nJY"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="qrO-a7-uGA" secondAttribute="trailing" constant="20" id="Ylo-EJ-uFT"/>
+                <constraint firstItem="3iR-S3-OuW" firstAttribute="top" secondItem="qrO-a7-uGA" secondAttribute="bottom" constant="16" id="eO4-uQ-j4M"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="roI-e1-HzF" secondAttribute="trailing" constant="20" id="g4r-lV-maD"/>
+                <constraint firstItem="0pg-R5-eI9" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="20" id="jkO-jk-7Zq"/>
+                <constraint firstItem="qrO-a7-uGA" firstAttribute="top" secondItem="0pg-R5-eI9" secondAttribute="bottom" constant="72" id="laY-eZ-a2E"/>
+                <constraint firstItem="xfG-yx-Me3" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="n7O-uE-Md2"/>
+                <constraint firstItem="pnp-QP-O0e" firstAttribute="top" secondItem="3iR-S3-OuW" secondAttribute="bottom" constant="43" id="rL2-Ub-fNv"/>
+                <constraint firstItem="qrO-a7-uGA" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="20" id="wCE-Xc-Y9m"/>
+            </constraints>
+            <connections>
+                <outlet property="descriptionLabel" destination="3iR-S3-OuW" id="6Vh-6Z-UXn"/>
+                <outlet property="imageView" destination="0pg-R5-eI9" id="3VP-7E-7ra"/>
+                <outlet property="nextButton" destination="roI-e1-HzF" id="8ok-z1-nty"/>
+                <outlet property="skipButton" destination="pnp-QP-O0e" id="ijY-Hy-hpU"/>
+                <outlet property="titleLabel" destination="qrO-a7-uGA" id="d7n-Ku-8Yk"/>
+            </connections>
+            <point key="canvasLocation" x="131.8840579710145" y="95.758928571428569"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="launch-screen" width="227" height="82"/>
+    </resources>
+</document>

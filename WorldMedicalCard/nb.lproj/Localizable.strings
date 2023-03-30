@@ -1,0 +1,842 @@
+"landing_login_button" = "Logg Inn";
+"landing_register_button" = "Registrer";
+"world_medical_card_r" = "World Medical Card®";
+"your_personal_medical_record_n_always_available" = "Din personlige medisinske journal \n alltid tilgjengelig";
+"button_next" = "Neste";
+"button_skip_tour" = "Hopp over innføring";
+"intro_number_of_pages" = "3";
+"intro_content_image_1" = "intro_image_1";
+"intro_content_image_2" = "intro_image_2";
+"intro_content_image_3" = "intro_image_3";
+"intro_content_title_1" = "Fyll ut informasjonen din";
+"intro_content_title_2" = "Reis bekymringsfritt";
+"intro_content_title_3" = "Del informasjonen din";
+"intro_content_description_1" = "Din medisinske informasjon er kodet i henhold til Verdens helseorganisasjons (WHO) globale standarder (ICD-10, ATC) for å sikre at din tilstand og behov blir forstått av helsepersonell og farmasøytisk personell over hele verden.";
+"intro_content_description_2" = "Du vil ha din egen personlige profil som kan nås via app eller nettleser. Det er en innebygd oversettelsesfunksjon for 19 språk som vil lette kommunikasjonen i relevante lokale termer.";
+"intro_content_description_3" = "Du kan velge å dele profilen din med pårørende, reisepartner eller andre du stoler på, slik at de kan gi deg umiddelbar hjelp.";
+"i_accept_the_terms_and_conditions" = "Jeg aksepterer vilkårene og betingelsene";
+"terms_and_conditions_title" = "Vilkår og betingelser";
+"terms_text" = "Betingelser og vilkår\
+ Oppdatert 01.01.2022 \
+\
+ Generelle vilkår\
+ Ved å gå inn på og legge inn en bestilling hos , bekrefter du at du er enig med og bundet av tjenestevilkårene i vilkårene og betingelsene som er skissert nedenfor. Disse vilkårene gjelder for hele nettstedet og enhver e-post eller annen type kommunikasjon mellom deg og World Medical Card. \
+\
+ Teamet skal ikke under noen omstendigheter holdes ansvarlig for noen direkte, indirekte, spesielle, tilfeldige skader eller følgeskader, inkludert, men ikke begrenset til, tap av data eller fortjeneste, som oppstår som følge av bruken eller manglende evne til å bruke materialet på dette nettstedet , selv om teamet eller en autorisert representant har blitt informert om muligheten for slike skader. Hvis din bruk av materialer fra denne siden resulterer i behov for service, reparasjon eller korrigering av utstyr eller data, påtar du deg eventuelle kostnader. \
+\
+ World Medical Card vil ikke være ansvarlig for utfall som kan oppstå i løpet av bruken av ressursene våre. Vi forbeholder oss retten til å endre priser og revidere retningslinjene for ressursbruk når som helst. \
+\
+ Tillatelse\
+ World Medical Card gir deg en tilbakekallelig, ikke-eksklusiv, ikke-overførbar, begrenset lisens til å laste ned, installere og bruke tjenesten vår strengt i samsvar med vilkårene i denne avtalen. \
+\
+ Disse vilkårene og betingelsene er en kontrakt mellom deg og World Medical Card (referert til i disse vilkårene og betingelsene som \"World Medical Card\", \"oss\", \"vi\" eller \"vår\"), leverandøren av World Medical Card-nettstedet og tjenestene som er tilgjengelige fra World Medical Card-nettstedet (som samlet refereres til i disse vilkårene og betingelsene som \"World Medical Card Service\"). \
+\
+ Du godtar å være bundet av disse vilkårene. Hvis du ikke godtar disse vilkårene og betingelsene, vennligst ikke bruk tjenesten. I disse vilkårene og betingelsene refererer \"du\" både til deg som enkeltperson og til enheten du representerer. Hvis du bryter noen av disse vilkårene og betingelsene, forbeholder vi oss retten til å kansellere kontoen din eller blokkere tilgangen til kontoen din uten varsel. \
+\
+ Definisjoner og nøkkelbegreper\
+ For disse vilkårene: \
+\
+ • Informasjonskapsel: liten mengde data generert av et nettsted og lagret av nettleseren din. Den brukes til å identifisere nettleseren din, gi analyser, huske informasjon om deg som språkpreferanser eller påloggingsinformasjon. \
+\
+ • Bedrift: når denne policyen nevner «Selskap», «vi», «oss» eller «vår», refererer det til World Medical Card, Gamlehaugvegen 20, 5231 Paradis som er ansvarlig for informasjonen din under denne personvernerklæringen. \
+\
+ • Land: hvor World Medical Card eller eierne/grunnleggerne av World Medical Card er basert, i dette tilfellet er Norge. \
+\
+ • Kunde: refererer til selskapet, organisasjonen eller personen som registrerer seg for å bruke World Medical Card Service for å administrere relasjonene med dine forbrukere eller tjenestebrukere. \
+\
+ • Enhet: en hvilken som helst Internett-tilkoblet enhet som telefon, nettbrett, datamaskin eller annen enhet som kan brukes til å besøke World Medical Card og bruke tjenestene. \
+\
+ • IP-adresse: Hver enhet som er koblet til Internett, tildeles et nummer kjent som en IP-adresse (Internet Protocol). Disse numrene er vanligvis tilordnet i geografiske blokker. En IP-adresse kan ofte brukes til å identifisere plasseringen en enhet kobler til Internett fra. \
+\
+ • Personell: refererer til de personene som er ansatt av World Medical Card eller er under kontrakt for å utføre en tjeneste på vegne av en av partene. \
+\
+ • Personopplysninger: all informasjon som direkte, indirekte eller i forbindelse med annen informasjon – inkludert et personlig identifikasjonsnummer – gjør det mulig å identifisere eller identifisere en fysisk person. \
+\
+ • Tjeneste: refererer til tjenesten levert av World Medical Card som beskrevet i de relative vilkårene (hvis tilgjengelig) og på denne plattformen. \
+\
+ • Tredjepartstjeneste: refererer til annonsører, konkurransesponsorer, kampanje- og markedsføringspartnere og andre som leverer innholdet vårt eller hvis produkter eller tjenester vi tror kan interessere deg. \
+\
+ • Nettsted: World Medical Cards nettsted, som kan nås via denne URLen: https://worldmedicalcard.org \
+\
+ • Du: en person eller enhet som er registrert med World Medical Card for å bruke tjenestene. \
+\
+ Begrensninger\
+ Du godtar å ikke, og du vil ikke tillate andre å: \
+\
+ • Lisensiere, selge, leie ut, lease, tildele, distribuere, overføre, være vert for, outsource, avsløre eller på annen måte utnytte tjenesten kommersielt eller gjøre plattformen tilgjengelig for en tredjepart. \
+\
+ • Modifisere, lage avledede arbeider av, demontere, dekryptere, omvendt kompilere eller omvendt konstruere noen del av tjenesten. \
+\
+ • Fjerne, endre eller tilsløre enhver eiendomsmerknad (inkludert merknad om opphavsrett eller varemerke) til eller dets tilknyttede selskaper, partnere, leverandører eller lisensgivere av tjenesten. \
+\
+ Retur- og refusjonspolicy\
+ Takk for at du handler hos oss. Vi setter pris på at du liker å kjøpe tingene vi bygger. Vi vil også sørge for at du får en givende opplevelse mens du utforsker, vurderer og kjøper produktene våre. \
+\
+ Som med enhver kjøpsopplevelse, er det vilkår og betingelser som gjelder for transaksjoner hos vårt selskap. Vi skal være så korte som advokatene våre tillater. Det viktigste å huske er at ved å legge inn en bestilling eller foreta et kjøp fra oss, godtar du vilkårene sammen med vår personvernerklæring. \
+\
+ Hvis du av en eller annen grunn ikke er helt fornøyd med noen varer eller tjenester vi tilbyr, ikke nøl med å kontakte oss, så vil vi diskutere noen av problemene du går gjennom med produktet vårt. \
+\
+ Dine forslag\
+ Eventuelle tilbakemeldinger, kommentarer, ideer, forbedringer eller forslag (samlet kalt \"Forslag\") gitt av deg til oss med hensyn til tjenesten skal forbli den eneste og eksklusive eiendommen til oss. Vi skal stå fritt til å bruke, kopiere, modifisere, publisere eller omdistribuere forslagene til ethvert formål og på hvilken som helst måte uten kreditt eller kompensasjon til deg. \
+\
+ Ditt samtykke\
+ Vi har oppdatert våre vilkår og betingelser for å gi deg fullstendig åpenhet om hva som angis når du besøker nettstedet vårt og hvordan det brukes. Ved å bruke tjenesten vår, registrere en konto eller foreta et kjøp, samtykker du herved til våre vilkår og betingelser. \
+\
+ Lenker til andre nettsteder\
+ Tjenesten vår kan inneholde lenker til andre nettsteder som ikke drives av oss. Hvis du klikker på en tredjepartskobling, vil du bli dirigert til denne tredjepartens nettsted. Vi anbefaler deg på det sterkeste å gå gjennom vilkårene og betingelsene for hvert nettsted du besøker. Vi har ingen kontroll over og påtar oss intet ansvar for innholdet, vilkårene og vilkårene eller praksisen til tredjeparts nettsteder eller tjenester. \
+\
+ Informasjonskapsler\
+ Vi bruker \"informasjonskapsler\" for å identifisere områdene på nettstedet vårt som du har besøkt. En informasjonskapsel er en liten del av data som lagres på datamaskinen eller mobilenheten din av nettleseren din. Vi bruker informasjonskapsler for å forbedre ytelsen og funksjonaliteten til tjenesten vår, men er ikke avgjørende for bruken av dem. Uten disse informasjonskapslene kan imidlertid visse funksjoner som videoer bli utilgjengelige, eller du vil bli bedt om å angi påloggingsinformasjonen din hver gang du besøker plattformen vår, da vi ikke ville kunne huske at du hadde logget på tidligere. De fleste nettlesere kan settes til å deaktivere bruken av informasjonskapsler. Men hvis du deaktiverer informasjonskapsler, kan det hende du ikke får tilgang til funksjonaliteten på nettstedet vårt på riktig måte eller i det hele tatt. Vi plasserer aldri personlig identifiserbar informasjon i informasjonskapsler. \
+\
+ Endringer i våre vilkår og betingelser\
+ Du erkjenner og godtar at vi kan stoppe (permanent eller midlertidig) å levere tjenesten (eller funksjoner i tjenesten) til deg eller brukere generelt etter eget skjønn, uten forvarsel til deg. Du kan slutte å bruke tjenesten når som helst. Du trenger ikke spesifikt informere oss når du slutter å bruke tjenesten. Du erkjenner og godtar at hvis vi deaktiverer tilgangen til kontoen din, kan du bli forhindret fra å få tilgang til tjenesten, kontodetaljene dine eller filer eller annet materiale som finnes i kontoen din. Hvis vi bestemmer oss for å endre våre vilkår og betingelser, vil vi legge ut disse endringene på denne siden, og/eller oppdatere vilkårene og betingelsenes endringsdato nedenfor. \
+\
+ Endringer i tjenesten vår\
+ Vi forbeholder oss retten til å modifisere, suspendere eller avbryte, midlertidig eller permanent, tjenesten eller enhver tjeneste som den er koblet til, med eller uten varsel og uten ansvar overfor deg. \
+\
+ Oppdateringer til tjenesten vår\
+ Vi kan fra tid til annen tilby forbedringer eller forbedringer av funksjonene/funksjonaliteten til tjenesten, som kan inkludere patcher, feilrettinger, oppdateringer, oppgraderinger og andre modifikasjoner (\"oppdateringer\"). Oppdateringer kan endre eller slette visse funksjoner og/eller funksjoner i tjenesten. Du godtar at vi ikke har noen forpliktelse til å (i) gi noen oppdateringer, eller (ii) fortsette å tilby eller aktivere noen spesielle funksjoner og/eller funksjonaliteter i tjenesten til deg. Du godtar videre at alle oppdateringer vil (i) anses å utgjøre en integrert del av tjenesten, og (ii) underlagt vilkårene og betingelsene i denne avtalen. \
+\
+ Tredjepartstjenester\
+ Vi kan vise, inkludere eller gjøre tilgjengelig tredjepartsinnhold (inkludert data, informasjon, applikasjoner og andre produkttjenester) eller gi lenker til tredjeparters nettsteder eller tjenester (\"tredjepartstjenester\"). Du erkjenner og godtar at vi ikke skal være ansvarlige for noen tredjepartstjenester, inkludert deres nøyaktighet, fullstendighet, aktualitet, gyldighet, overholdelse av opphavsrett, lovlighet, anstendighet, kvalitet eller andre aspekter ved disse. Vi påtar oss og skal ikke ha noe ansvar eller ansvar overfor deg eller noen annen person eller enhet for noen tredjepartstjenester. Tredjepartstjenester og lenker til disse leveres utelukkende som en bekvemmelighet for deg, og du får tilgang til og bruker dem helt på egen risiko og underlagt slike tredjeparters vilkår og betingelser. \
+\
+ Varighet og oppsigelse\
+ Denne avtalen forblir i kraft inntil den sies opp av deg eller oss. Vi kan, etter eget skjønn, når som helst og av hvilken som helst eller ingen grunn, suspendere eller si opp denne avtalen med eller uten forvarsel. Denne avtalen vil avsluttes umiddelbart, uten forvarsel fra oss, i tilfelle du ikke overholder noen av bestemmelsene i denne avtalen. Du kan også si opp denne avtalen ved å slette tjenesten og alle kopier av den fra datamaskinen din. Ved oppsigelse av denne avtalen skal du slutte med all bruk av tjenesten og slette alle kopier av tjenesten fra datamaskinen din. Oppsigelse av denne avtalen vil ikke begrense noen av våre rettigheter eller rettsmidler ved lov eller rettferdighet i tilfelle brudd fra deg (i løpet av denne avtalens gyldighetstid) av noen av dine forpliktelser i henhold til denne avtalen. \
+\
+ Hvis du er en opphavsrettseier eller en slik eiers agent og mener at noe materiale fra oss utgjør et brudd på opphavsretten din, vennligst kontakt oss og oppgi følgende informasjon: (a) en fysisk eller elektronisk signatur fra opphavsrettseieren eller en person som er autorisert til å handle på hans vegne; (b) identifikasjon av materialet som hevdes å være krenkende; (c) din kontaktinformasjon, inkludert din adresse, telefonnummer og en e-post; (d) en erklæring fra deg om at du har en god tro på at bruken av materialet ikke er autorisert av opphavsrettseierne; og (e) en erklæring om at informasjonen i varselet er nøyaktig, og under straff for mened er du autorisert til å handle på vegne av eieren. \
+\
+ Skadeserstatning\
+ Du samtykker i å holde oss og våre foreldre, datterselskaper, tilknyttede selskaper, offiserer, ansatte, agenter, partnere og lisensgivere (hvis noen) skadesløse fra ethvert krav eller krav, inkludert rimelige advokatsalærer, på grunn av eller som følge av dine: ( a) bruk av tjenesten; (b) brudd på denne avtalen eller noen lov eller forskrift; eller (c) brudd på en tredjeparts rettigheter.\
+ Ingen garantier\
+ Tjenesten leveres til deg \"AS IS\" og \"AS AVAILABLE\" og med alle feil og mangler uten garanti av noe slag. I den grad det er tillatt under gjeldende lov, fraskriver vi oss, på egne vegne og på vegne av våre tilknyttede selskaper og våre respektive lisensgivere og tjenesteleverandører, uttrykkelig alle garantier, enten det er uttrykkelig, underforstått, lovfestet eller på annen måte, med hensyn til tjenesten, inkludert alle underforståtte garantier for salgbarhet, egnethet for et bestemt formål, tittel og ikke-krenkelse, og garantier som kan oppstå som følge av handel, ytelsesforløp, bruk eller handelspraksis. Uten begrensning til det foregående gir vi ingen garanti eller forpliktelse, og gir ingen representasjon av noe slag om at tjenesten vil oppfylle dine krav, oppnå tiltenkte resultater, være kompatibel eller fungere med annen programvare, nettsteder, systemer eller tjenester, operere uten avbrudd, oppfylle ytelses- eller pålitelighetsstandarder eller være feilfri eller at eventuelle feil eller mangler kan eller vil bli rettet. \
+\
+ Uten å begrense det foregående gir verken oss eller noen leverandør noen representasjon eller garanti av noe slag, uttrykkelig eller underforstått: (i) med hensyn til driften eller tilgjengeligheten av tjenesten, eller informasjonen, innholdet og materialene eller produktene som er inkludert på den; (ii) at tjenesten vil være uavbrutt eller feilfri; (iii) med hensyn til nøyaktigheten, påliteligheten eller valutaen til informasjon eller innhold gitt gjennom tjenesten; eller (iv) at tjenesten, dens servere, innholdet eller e-poster sendt fra eller på vegne av oss er fri for virus, skript, trojanske hester, ormer, skadelig programvare, tidsbomber eller andre skadelige komponenter. Noen jurisdiksjoner tillater ikke ekskludering av eller begrensninger på underforståtte garantier eller begrensningene på gjeldende lovfestede rettigheter til en forbruker, så noen eller alle de ovennevnte ekskluderingene og begrensningene gjelder kanskje ikke for deg. \
+\
+ Ansvarsbegrensning\
+ Til tross for eventuelle skader du måtte pådra deg, skal hele ansvaret til oss og enhver av våre leverandører i henhold til en bestemmelse i denne avtalen og ditt eksklusive rettsmiddel for alt det foregående være begrenset til beløpet du faktisk har betalt for tjenesten. I den grad det er tillatt av gjeldende lov, skal vi eller våre leverandører under ingen omstendigheter være ansvarlige for noen spesielle, tilfeldige, indirekte eller følgeskader (inkludert, men ikke begrenset til, skader for tap av fortjeneste, for tap av data eller annen informasjon, for forretningsavbrudd, for personskade, for tap av personvern som oppstår som følge av eller på noen måte relatert til bruken av eller manglende evne til å bruke tjenesten, tredjeparts programvare og/eller tredjeparts maskinvare som brukes med tjenesten, eller på annen måte i forbindelse med noen bestemmelse i denne avtalen), selv om vi eller en hvilken som helst leverandør har blitt informert om muligheten for slike skader, og selv om løsningen ikke oppfyller sitt vesentlige formål. Noen stater/jurisdiksjoner tillater ikke utelukkelse eller begrensning av tilfeldige skader eller følgeskader, så det kan hende at begrensningene eller ekskluderingen ovenfor ikke gjelder deg. \
+\
+ Skillebarhet\
+ Hvis en bestemmelse i denne avtalen anses for å være uhåndhevbar eller ugyldig, vil en slik bestemmelse endres og tolkes for å oppnå målene for en slik bestemmelse i størst mulig grad under gjeldende lov, og de gjenværende bestemmelsene vil fortsette med full kraft og virkning. Denne avtalen, sammen med personvernerklæringen og eventuelle andre juridiske merknader publisert av oss på tjenestene, skal utgjøre hele avtalen mellom deg og oss angående tjenestene. Hvis en bestemmelse i denne avtalen anses som ugyldig av en domstol med kompetent jurisdiksjon, skal ugyldigheten av en slik bestemmelse ikke påvirke gyldigheten av de gjenværende bestemmelsene i denne avtalen, som skal forbli i full kraft og virkning. Ingen fraskrivelse av noe vilkår i denne avtalen skal anses som en ytterligere eller vedvarende fraskrivelse av et slikt vilkår eller andre vilkår, og vår unnlatelse av å hevde noen rettighet eller bestemmelse under denne avtalen skal ikke utgjøre en fraskrivelse av slik rett eller bestemmelse. DU OG OSS SAMTYKKER AT ENHVER HANDLINGSÅRSAK SOM STÅR PÅ ELLER KNYTTET TIL TJENESTERNE MÅ BEGYNDES INNEN ETT (1) ÅR ETTER AT HANDLINGSÅRSAKEN ER OPP. ELLER ER SLIK ÅRSAK TIL HANDLING PERMANENT sperret. \
+\
+ Fraskrivelse\
+ Med unntak av det som er angitt her, skal unnlatelse av å utøve en rettighet eller å kreve oppfyllelse av en forpliktelse i henhold til denne avtalen ikke påvirke en parts evne til å utøve slik rett eller kreve slik ytelse på noe tidspunkt etterpå, og heller ikke skal fraskrivelse av et brudd utgjøre fraskrivelse av eventuelle senere brudd. \
+\
+ Ingen unnlatelse av å utøve, og ingen forsinkelse i å utøve, fra noen av partene, av noen rettigheter eller noen makt under denne avtalen skal fungere som en fraskrivelse av denne rettigheten eller makten. Ingen enkelt eller delvis utøvelse av noen rettighet eller makt under denne avtalen skal heller ikke utelukke videre utøvelse av denne eller andre rettigheter gitt her. I tilfelle konflikt mellom denne avtalen og gjeldende kjøp eller andre vilkår, skal vilkårene i denne avtalen gjelde. \
+\
+ Endringer i denne avtalen\
+ Vi forbeholder oss retten til, etter eget skjønn, å endre eller erstatte denne avtalen når som helst. Hvis en revisjon er vesentlig, gir vi minst 30 dagers varsel før eventuelle nye vilkår trer i kraft. Hva som utgjør en vesentlig endring avgjøres etter eget skjønn. Ved å fortsette å få tilgang til eller bruke tjenesten vår etter at eventuelle revisjoner trer i kraft, godtar du å være bundet av de reviderte vilkårene. Hvis du ikke godtar de nye vilkårene, er du ikke lenger autorisert til å bruke tjenesten vår. \
+\
+ Hele avtalen\
+ Avtalen utgjør hele avtalen mellom deg og oss angående din bruk av tjenesten og erstatter alle tidligere og samtidige skriftlige eller muntlige avtaler mellom deg og oss. Du kan være underlagt ytterligere vilkår og betingelser som gjelder når du bruker eller kjøper andre tjenester fra oss, som vi vil gi deg på tidspunktet for slik bruk eller kjøp. \
+\
+ Oppdateringer av vilkårene våre\
+ Vi kan endre tjenesten og retningslinjene våre, og vi må kanskje gjøre endringer i disse vilkårene slik at de nøyaktig gjenspeiler tjenesten og retningslinjene våre. Med mindre annet er påkrevd ved lov, vil vi varsle deg (for eksempel gjennom tjenesten vår) før vi gjør endringer i disse vilkårene og gi deg en mulighet til å gjennomgå dem før de trer i kraft. Deretter, hvis du fortsetter å bruke tjenesten, vil du være bundet av de oppdaterte vilkårene. Hvis du ikke vil godta disse eller noen oppdaterte vilkår, kan du slette kontoen din. \
+\
+ Åndsverk\
+ Plattformen vår og hele innholdet, funksjonene og funksjonaliteten (inkludert men ikke begrenset til all informasjon, programvare, tekst, skjermer, bilder, video og lyd, og utformingen, utvalget og arrangementet av disse), eies av oss, dets lisensgivere eller andre leverandører av slikt materiale og er beskyttet av internasjonale lover om opphavsrett, varemerker, patenter, forretningshemmeligheter og andre immaterielle rettigheter. Materialet kan ikke kopieres, modifiseres, reproduseres, lastes ned eller distribueres på noen måte, helt eller delvis, uten uttrykkelig skriftlig tillatelse fra oss, med mindre og med unntak av det som er uttrykkelig gitt i disse vilkårene og betingelsene. Enhver uautorisert bruk av materialet er forbudt. \
+\
+ Avtale om voldgift\
+ Denne seksjonen gjelder enhver tvist, UNNTATT DET IKKE INKLUDERER EN TVIST KNYTTET TIL KRAV OM FORFALDSMEDDELELSE ELLER RETTLIG LØTTE ANGÅENDE HÅNDHÅVELSEN ELLER GYLDIGHETEN AV DIN ELLER World Medical Cards IMMATERIELLE EIENDOMSRETTIGHETER. Begrepet \"tvist\" betyr enhver tvist, handling eller annen uenighet mellom deg og oss angående tjenestene eller denne avtalen, enten det er i kontrakt, garanti, erstatning, lov, forskrift, ordinans eller annet juridisk eller rettferdig grunnlag. «Tvist» vil gis den bredest mulige betydningen som er tillatt i henhold til loven. \
+\
+ Varsel om tvist\
+ I tilfelle en tvist må du eller oss gi den andre en melding om tvist, som er en skriftlig erklæring som angir navn, adresse og kontaktinformasjon til parten som gir den, fakta som gir opphav til tvisten, og lettelsen som ble bedt om. Du må sende ethvert varsel om tvist via e-post til: . Vi vil sende ethvert varsel om tvist til deg via post til adressen din hvis vi har den, eller på annen måte til din e-postadresse. Du og oss vil forsøke å løse enhver tvist gjennom uformelle forhandlinger innen seksti (60) dager fra datoen varselet om tvist er sendt. Etter seksti (60) dager kan du eller oss starte voldgift. \
+\
+ Bindende voldgift\
+ Hvis du og oss ikke løser noen tvist ved uformelle forhandlinger, vil enhver annen innsats for å løse tvisten utelukkende bli utført ved bindende voldgift som beskrevet i denne delen. Du gir fra deg retten til å saksøke (eller delta i som part eller gruppemedlem) alle tvister i retten for en dommer eller jury. Tvisten skal avgjøres ved bindende voldgift i samsvar med de kommersielle voldgiftsreglene til American Arbitration Association. Hver av partene kan søke om midlertidig eller foreløpig forføyning fra enhver domstol med kompetent jurisdiksjon, etter behov for å beskytte partens rettigheter eller eiendom i påvente av fullføringen av voldgift. Alle juridiske, regnskapsmessige og andre kostnader, gebyrer og utgifter som påløper av den rådende parten skal bæres av den ikke-rådende parten. \
+\
+\
+ Innleveringer og personvern\
+ I tilfelle du sender inn eller legger ut ideer, kreative forslag, design, fotografier, informasjon, annonser, data eller forslag, inkludert ideer til nye eller forbedrede produkter, tjenester, funksjoner, teknologier eller kampanjer, godtar du uttrykkelig at slike innsendinger automatisk behandles som ikke-konfidensiell og ikke-eiendomsbeskyttet og vil bli vår eneste eiendom uten noen som helst kompensasjon eller kreditt til deg. Vi og våre tilknyttede selskaper skal ikke ha noen forpliktelser med hensyn til slike bidrag eller innlegg og kan bruke ideene i slike bidrag eller innlegg til alle formål i et hvilket som helst medium i evighet, inkludert, men ikke begrenset til, utvikling, produksjon og markedsføring av produkter og tjenester som bruker slike ideer. \
+\
+ Kampanjer\
+ Vi kan fra tid til annen inkludere konkurranser, kampanjer, konkurranser eller andre aktiviteter (\"kampanjer\") som krever at du sender inn materiale eller informasjon om deg selv. Vær oppmerksom på at alle kampanjer kan være underlagt separate regler som kan inneholde visse kvalifikasjonskrav, for eksempel begrensninger med hensyn til alder og geografisk plassering. Du er ansvarlig for å lese alle kampanjeregler for å avgjøre om du er kvalifisert til å delta eller ikke. Hvis du deltar i en kampanje, godtar du å følge og overholde alle kampanjeregler. Ytterligere vilkår og betingelser kan gjelde for kjøp av varer eller tjenester på eller gjennom tjenestene, hvilke vilkår og betingelser er gjort til en del av denne avtalen med denne referansen. \
+\
+ Typografiske feil\
+ I tilfelle et produkt og/eller en tjeneste er oppført til feil pris eller med feil informasjon på grunn av trykkfeil, har vi rett til å nekte eller kansellere bestillinger for produktet og/eller tjenesten som er oppført til feil pris. Vi skal ha rett til å avslå eller kansellere enhver slik bestilling uansett om bestillingen er bekreftet og kredittkortet ditt belastet. Hvis kredittkortet ditt allerede er belastet for kjøpet og bestillingen din er kansellert, vil vi umiddelbart utstede en kreditt til kredittkortkontoen din eller annen betalingskonto tilsvarende beløpet for belastningen. \
+\
+ Diverse\
+ Hvis en domstol med kompetent jurisdiksjon av en eller annen grunn finner at en bestemmelse eller del av disse vilkårene og betingelsene ikke kan håndheves, vil resten av disse vilkårene og betingelsene fortsette med full kraft og virkning. Enhver fraskrivelse av noen bestemmelse i disse vilkårene og betingelsene vil bare være effektive dersom de er skriftlige og signert av en autorisert representant for oss. Vi vil være berettiget til påbud eller annen rettferdig lettelse (uten forpliktelser til å legge ut obligasjoner eller kausjon) i tilfelle brudd eller foregripende brudd fra deg. Vi driver og kontrollerer tjenesten vår fra våre kontorer i . Tjenesten er ikke ment for distribusjon til eller bruk av noen person eller enhet i noen jurisdiksjon eller land der slik distribusjon eller bruk vil være i strid med lov eller forskrift. Følgelig gjør de personene som velger å få tilgang til tjenesten vår fra andre steder på eget initiativ og er eneansvarlige for overholdelse av lokale lover, hvis og i den grad lokale lover er gjeldende. Disse vilkårene og betingelsene (som inkluderer og innlemmer vår personvernerklæring) inneholder hele forståelsen, og erstatter alle tidligere forståelser, mellom deg og oss angående emnet, og kan ikke endres eller modifiseres av deg. Seksjonsoverskriftene som brukes i denne avtalen er kun for enkelhets skyld og vil ikke bli gitt noen juridisk import. \
+\
+ Ansvarsfraskrivelse\
+ Vi er ikke ansvarlige for noe innhold, kode eller annen unøyaktighet. Vi gir ingen garantier eller garantier. Vi skal ikke under noen omstendigheter holdes ansvarlige for noen spesielle, direkte, indirekte, følgeskader eller tilfeldige skader eller skader overhodet, enten det er i en kontraktshandling, uaktsomhet eller annen tort, som oppstår fra eller i forbindelse med bruken av tjenesten eller innholdet i tjenesten. Vi forbeholder oss retten til å gjøre tillegg, slettinger eller endringer i innholdet på tjenesten når som helst uten forvarsel. \
+\
+ Tjenesten vår og dens innhold leveres \"som den er\" og \"som tilgjengelig\" uten noen garanti eller representasjoner av noe slag, enten det er uttrykkelig eller underforstått. Vi er en distributør og ikke en utgiver av innholdet levert av tredjeparter; som sådan, utøver vår ingen redaksjonell kontroll over slikt innhold og gir ingen garanti eller representasjon med hensyn til nøyaktigheten, påliteligheten eller valutaen til informasjon, innhold, tjenester eller varer levert gjennom eller tilgjengelig via tjenesten vår. Uten å begrense det foregående fraskriver vi oss spesifikt alle garantier og representasjoner i alt innhold som overføres på eller i forbindelse med tjenesten vår eller på nettsteder som kan vises som lenker på tjenesten vår, eller i produktene som leveres som en del av eller på annen måte i forbindelse med , vår tjeneste, inkludert, men ikke begrenset til, garantier for salgbarhet, egnethet for et bestemt formål eller ikke-krenkelse av tredjeparts rettigheter. Ingen muntlige råd eller skriftlig informasjon gitt av oss eller noen av dets tilknyttede selskaper, ansatte, offiserer, direktører, agenter eller lignende vil skape en garanti. Informasjon om pris og tilgjengelighet kan endres uten varsel. Uten å begrense det foregående, garanterer vi ikke at tjenesten vår vil være uavbrutt, uforstyrret, rettidig eller feilfri. \
+\
+ Kontakt oss\
+ Ikke nøl med å kontakte oss hvis du har spørsmål.\
+ • Via E-post: post@wmc-card.no\
+ • Via telefonnummer: +47 55 33 75 75";
+"register_to_wmc_title" = "Registrer ditt World Medical Card®";
+"create_account_button" = "Opprett konto";
+"register_byline" = "Fyll inn din personlige informasjon for å opprette en konto, du kan endre dem senere";
+"signup_with_google_button" = "Registrer deg med Google";
+"divider_or_text" = "Eller";
+"register_email_field_hint" = "E-post";
+"register_password_field_hint" = "Passord";
+"register_password_min_hint" = "minimum 8 tegn";
+"screen_title_hi" = "👋🏻 Hei";
+"no_subscription_title" = "Ingen abonnement";
+"no_subscription_description" = "Vennligst velg og bestill et produkt for å nyte alle funksjonene til World Medical Card";
+"subscribe_button" = "Bestill nå";
+"common_dash" = "-";
+"screen_title_good_afternoon" = "👋🏻 God ettermiddag";
+"title_your_profile_is_incomplete" = "Profilen din er ufullstendig";
+"description_your_profile_is_incomplete" = "Fullfør profilen din for å nyte alle funksjonene til World Medical Card";
+"complete_my_profile_button" = "Fullfør profilen min";
+"personal_info_card_title" = "Personlig informasjon";
+"personal_info_card_description" = "La oss bli bedre kjent med deg for en bedre opplevelse";
+"profile_birthdate" = "Fødselsdato";
+"profile_ssn" = "Personnummer";
+"profile_nationality" = "Nasjonalitet";
+"profile_travel_insurance" = "Reiseforsikring";
+"profile_organ_donor" = "Organdonor";
+"profile_insurance_company" = "Forsikringsselskap";
+"profile_policy_number" = "Polisenummer";
+"profile_policy_date" = "Medlem til/utstedt den";
+"button_edit" = "Rediger";
+"error_message" = "Beklager, men noe gikk galt. Vennligst prøv igjen.";
+"error_no_internet" = "Vennligst sjekk Internett-tilkobling";
+"error_no_data_found" = "Ingen data funnet";
+"error_unauthorized" = "Beklager, du har ikke tilgang til dette innholdet";
+"error_empty_response" = "Beklager, innholdet er tomt";
+"allergies_card_title" = "Allergier";
+"allergies_card_description" = "Gi oss beskjed hvis du har noen allergier, eller hvis du vet at du ikke har noen";
+"add_allergies_button" = "Legg til allergier";
+"no_allergies_listed" = "Ingen allergier oppført";
+"button_add" = "Legg til";
+"button_translate" = "Oversette";
+"button_share" = "Dele";
+"complete_your_profile" = "Fullfør profilen din";
+"profile_gender" = "Kjønn";
+"profile_telephone" = "Telefon";
+"profile_postal_address" = "Postadresse";
+"member_since" = "Medlem siden %1$@";
+"alarm_phone" = "Alarm telefon";
+"emergency_contacts" = "Nødkontakter";
+"other_information" = "Annen informasjon";
+"tap_edit_to_complete_profile" = "Trykk på Rediger nedenfor for å fullføre profilen din";
+"card_items_description" = "%1$@ elementer: %2$@";
+"medicine_card_title" = "Medisiner";
+"no_medications_listed" = "Ingen medisiner oppført";
+"diagnoses_card_title" = "Diagnoser";
+"no_diagnoses_listed" = "Ingen diagnoser oppført";
+"vaccines_card_title" = "Vaksiner";
+"no_vaccines_listed" = "Ingen vaksiner oppført";
+"documents_card_title" = "Dokumenter";
+"no_documents_added" = "Ingen dokumenter lagt til";
+"terms_and_conditions_button" = "Vilkår og betingelser";
+"sign_out_button" = "Logg ut";
+"order_now_button" = "Bestill nå";
+"order_your_card_title" = "Bestill kortet ditt";
+"order_your_card_description" = "Nyt alle funksjonene på Ditt World Medical Card fra lommeboken";
+"wmc_order_successful" = "Bestillingen var vellykket";
+"wmc_card_menu_print_card" = "Bestill kort";
+"wmc_card_menu_reorder_card" = "Bestill nytt kort";
+"signin_with_google_button" = "Logg på med Google";
+"login_to_wmc_title" = "Logg inn på World Medical Card®";
+"login_byline" = "Hvordan ønsker du å logge på?";
+"common_yes" = "Ja";
+"common_no" = "Nei";
+"personal_info_title" = "Personlig informasjon";
+"common_save" = "Lagre";
+"personal_info_byline" = "Fyll inn din personlige informasjon for å opprette en konto, du kan endre dem senere.";
+"profile_edit_first_name" = "Fornavn";
+"profile_edit_last_name" = "Etternavn";
+"profile_edit_date_of_birth" = "Fødselsdato";
+"profile_edit_ssn" = "Personnummer (valgfritt)";
+"profile_edit_phone" = "Tlf.nr.";
+"profile_edit_donor_question" = "Vil du bli organdonor?";
+"profile_edit_donor_note" = "Helsepersonell vil bli bedt om å be familien bekrefte avgjørelsen din";
+"profile_edit_postal_address_note" = "Fyll inn adressen du vil at vi skal sende kortet til. Adressen vil ikke vises på nødkortet.";
+"profile_edit_postal_code" = "Postnr./-sted";
+"profile_edit_land" = "Land";
+"profile_edit_street_address" = "Gateadresse";
+"profile_edit_insurance_title" = "Forsikring";
+"profile_edit_insurance_note" = "Legg til forsikringsinformasjon for referanse.";
+"profile_edit_insurance_type" = "Type forsikring";
+"profile_edit_insurance_travel" = "Reiseforsikring";
+"profile_edit_insurance_health" = "Helseforsikring";
+"profile_edit_policy_number" = "Polisenummer";
+"profile_edit_alarm_phone" = "Alarmtelefon (valgfritt)";
+"profile_edit_emergency_contacts_note" = "Legg til kontakter du stoler på i nødstilfeller.";
+"profile_edit_emergency_contacts_name" = "Navn";
+"profile_edit_emergency_contacts_phone" = "Telefonnummer";
+"profile_edit_emergency_contacts_relation" = "Forhold";
+"profile_edit_other_title" = "Annet";
+"profile_edit_other_hint" = "Ønsker du å inkludere annen informasjon";
+"profile_edit_city" = "By";
+"profile_gender_male" = "Mann";
+"profile_gender_female" = "Kvinne";
+"add_new_allergy_title" = "Legg til ny allergi";
+"add_new_medicine_title" = "Legg til ny medisin";
+"add_new_diagnoses_title" = "Legg til nye diagnoser";
+"add_new_search_hint" = "Søk";
+"profile_edit_select_birthdata" = "Velg fødselsdato";
+"dashboard_screen_title_morning" = "👋🏻 God morgen";
+"dashboard_screen_title_evening" = "👋🏻 God kveld";
+"dashboard_screen_title_night" = "👋🏻 God natt";
+"add_document_document_title_hint" = "Dokument tittel";
+"add_document_document_type_hint" = "Dokumenttype";
+"add_document_description_hint" = "Beskrivelse (valgfritt)";
+"add_document_upload_button" = "Last opp nytt dokument";
+"add_new_vaccines_title" = "Legg til ny vaksine";
+"signup_button_title" = "Registrer deg";
+"signin_button_title" = "Logg inn";
+"apple_button_title" = "med Apple";
+"google_button_title" = "med Google";
+"add_new_allergy_top_hits" = "Topp hits";
+"edit_card_dialog_remove_item_title" = "Fjern element";
+"common_cancel" = "Avbryt";
+"common_remove" = "Fjerne";
+"maybe_later_button" = "Kanskje senere";
+"please_check_your_email_and_password" = "Vennligst sjekk e-post og passord";
+"ok_button_title" = "Ok";
+"cancel_button_title" = "Avbryt";
+"field_required_title" = "Feltet er påkrevet";
+"add_document_title" = "Legg til nytt dokument";
+"edit_document_title" = "Rediger dokument";
+"edit_card_dialog_remove_items_title" = "Fjern element(er)";
+"edit_card_dialog_edit_item_title" = "Rediger element";
+"add_document_edit_button" = "Rediger dokument";
+"select_file_to_upload" = "Velg filen du vil laste opp";
+"profile_zip" = "GLIDELÅS";
+"profile_country" = "Land";
+"profile_screen_title" = "Profil";
+"profile_insurance_type_health" = "Helse";
+"profile_insurance_type_travel" = "Reise";
+"profile_save_button_title" = "Lagre";
+"sign_in_password_incorrect" = "Finner ikke kontoen. Prøv å logge på med Google-konto eller e-post og passord.";
+"profile_validation_required_fields" = "Fødselsdato, nasjonalitet, telefon og kjønn kreves";
+"card_order_missing_info" = "Vennligst sjekk at informasjonen nedenfor er korrekt, vennligst kontakt oss hvis du finner noen feil.";
+"members_name" = "Navn";
+"members_address" = "Adresse";
+"members_zip_code" = "Post kode";
+"members_country" = "Land";
+"members_emergency_contact" = "Nødkontakter";
+"members_birthdate" = "Fødselsdato";
+"members_gender" = "Kjønn";
+"member_card_order_date" = "Utskriftsdato";
+"members_diagnosis" = "Diagnose";
+"members_medications" = "Medisiner";
+"members_allergies" = "Allergier";
+"members_other_info" = "Øvrig informasjon";
+"card_order_greeting" = "Kjære";
+"card_order_info_ready" = "Her er ditt medisinske nødkort med din viktige informasjon klar dersom nødpersonell skulle trenge det i en nødsituasjon.";
+"card_order_instruction_dos" = "Vennligst gjør følgende";
+"card_order_instruction_one" = "Riv løs kortet fra utskriften";
+"card_order_instruction_two" = "Åpne utskriften og kontroller at informasjonen er korrekt";
+"card_order_instruction_three" = "Legg kortet i lommeboken din";
+"card_order_miscelleneous_one" = "Ta vare på deg selv og vær trygg";
+"card_order_miscelleneous_two" = "Vennlig hilsen World Medical Card Support";
+"card_order_ps_note" = "PS! Husk at helseprofilen din også er tilgjengelig i App og web.";
+"translate_my_title" = "Mine %1$s";
+"translate_language_hint" = "Språk";
+"translate_code_prefix" = "• Kode: %1$s";
+"translate_title_allergies" = "Mine allergier";
+"translate_title_medicine" = "Mine medisiner";
+"translate_title_diagnoses" = "Mine diagnoser";
+"translate_title_vaccines" = "Mine vaksiner";
+"subscription_overview_title" = "Mine abonnementer";
+"subscription_overview_subtitle" = "Gjeldende abonnement  (%1d)";
+"subscription_overview_hint" = "Du har for øyeblikket ikke noe abonnement med World Medical Card, klikk på abonner nedenfor og nyt alle funksjonene til World Medical Card";
+"subscription_overview_add_subscription_button" = "Legg til abonnement";
+"subscription_overview_item_subscription_manager_title" = "Abonnementsadministrator:";
+"subscription_overview_item_membership_occupancy_title" = "Medlemskap belegg:";
+"subscription_overview_item_expired_title" = "Utløpt";
+"subscription_overview_text_subscribe" = "Klikk her for å abonnere på medlemspakken";
+"subscription_detail_title" = "Abonnementsdetaljer";
+"subscription_detail_member_list_title" = "Liste over medlemmer";
+"subscription_detail_membership_left_full_title" = "Du har <b> %1d </b> medlemskap igjen i denne pakken. \n For å legge til medlem, vennligst klikk på knappen nedenfor.";
+"subscription_detail_membership_left_title" = "Du har <b> %1d </b> medlemskap igjen i denne pakken.";
+"subscription_detail_add_member_title" = "Legg til nytt medlem";
+"subscription_detail_payment_method_title" = "Betalingsmetode";
+"subscription_detail_paid_with_text" = "Betalt med";
+"subscription_invitation_title" = "Legg til nytt medlem";
+"subscription_invitation_email_hint" = "Epostadresse";
+"subscription_invitation_add_member_button" = "Legg til medlem";
+"subscription_delete_member_dialog_title" = "Slett medlem";
+"subscription_delete_member_dialog_message" = "Er du sikker på at du vil fjerne dette medlemmet fra denne abonnementspakken?";
+"subscription_delete_member_dialog_positive_button" = "Bekreft";
+"subscription_delete_member_dialog_negative_button" = "Avbryt";
+"subscription_overview_item_selected_alert_not_owner_title" = "Du er ikke eieren";
+"subscription_overview_item_selected_alert_not_owner_message" = "Du må være eieren av abonnementet for å se detaljene";
+"subscription_detail_memberlist_title" = "Liste over medlemmer";
+"subscription_detail_memberlist_full_description" = "Du har ingen medlemskap igjen i denne pakken.";
+"subscription_detail_memberlist_available_description" = "Du har %1d medlemskap igjen i denne pakken. For å legge til medlem, vennligst klikk på knappen nedenfor.";
+"subscription_detail_memberlist_add" = "Legg til flere medlemmer";
+"subscription_detail_payment_title" = "Betalingsmetode";
+"subscription_detail_payment_method" = "Betalt med";
+"subscription_remove_member_alert_title" = "Fjern medlem";
+"subscription_remove_member_alert_message" = "Er du sikker på at du vil fjerne dette medlemmet fra denne abonnementspakken?";
+"subscription_remove_member_alert_ok" = "Bekreft";
+"subscription_remove_member_alert_cancel" = "Avbryt";
+"subscription_add_member_title" = "Legg til nytt medlem";
+"subscription_add_member_placeholder_email" = "Epostadresse";
+"subscription_add_member_alert_invite_title" = "E-postinvitasjon";
+"subscription_add_member_alert_invite_message" = "An email invitation has been sent";
+"subscription_add_member_alert_invite_ok" = "OK";
+"subscription_add_member_action_add" = "Legge til";
+"subscription_remove_membership_button_title" = "Remove Membership";
+"subscription_remove_membership_dialog_title" = "Delete Membership";
+"subscription_remove_membership_dialog_text" = "Are you sure you want to be remove from this membership package?";
+"subscriptionOwnerCount" = "Abonnementseier ( %1$@ )";
+"subscriptionMemberCount" = "Abonnementsmedlem ( %1$@ )";
+"my_subscriptions" = "Mine abonnementer";
+"subscriptionOwnerCount" = "Abonnementseier ( %1$@ )";
+"subscriptionMemberCount" = "Abonnementsmedlem ( %1$@ )";
+"landing_login_button" = "Logg Inn";
+"landing_register_button" = "Registrere";
+"your_personal_medical_record_n_always_available" = "Ditt personlige helsekort\
+ alltid tilgjengelig";
+"button_next" = "Neste";
+"button_skip_tour" = "Hopp over intro";
+"intro_number_of_pages" = "3";
+"intro_content_image_1" = "intro_image_1";
+"intro_content_image_2" = "intro_image_2";
+"intro_content_image_3" = "intro_image_3";
+"intro_content_title_1" = "Fyll inn informasjonen din";
+"intro_content_title_2" = "Reis uten bekymringer";
+"intro_content_title_3" = "Del informasjonen din";
+"intro_content_description_1" = "Din medisinske informasjon er kodet i samsvar med Verdens helseorganisasjons globale standarder (ICD-10, ATC) for å sikre at din tilstand og behov blir forstått av helsepersonell og farmasøytisk fagpersonell over hele verden.";
+"intro_content_description_2" = "Du får din egen personlige profil, som kan nås via app eller nettleser. Det er en innebygd oversettelsesfunksjon for 19 språk som vil lette kommunikasjonen i relevante lokale termer.";
+"intro_content_description_3" = "Du kan velge å dele profilen din med slektninger, reisepartnere eller andre du stoler på, slik at de kan gi deg førstelinjestøtte i en nødssituasjon";
+"i_accept_the_terms_and_conditions" = "Jeg godtar vilkårene og betingelsene";
+"terms_and_conditions_title" = "Vilkår og betingelser";
+"terms_text" = "Betingelser og vilkår\
+ Oppdatert 01.01.2022 \
+\
+ Generelle vilkår\
+ Ved å gå inn på og legge inn en bestilling hos , bekrefter du at du er enig med og bundet av tjenestevilkårene i vilkårene og betingelsene som er skissert nedenfor. Disse vilkårene gjelder for hele nettstedet og enhver e-post eller annen type kommunikasjon mellom deg og World Medical Card. \
+\
+ Teamet skal ikke under noen omstendigheter holdes ansvarlig for noen direkte, indirekte, spesielle, tilfeldige skader eller følgeskader, inkludert, men ikke begrenset til, tap av data eller fortjeneste, som oppstår som følge av bruken eller manglende evne til å bruke materialet på dette nettstedet , selv om teamet eller en autorisert representant har blitt informert om muligheten for slike skader. Hvis din bruk av materialer fra denne siden resulterer i behov for service, reparasjon eller korrigering av utstyr eller data, påtar du deg eventuelle kostnader. \
+\
+ World Medical Card vil ikke være ansvarlig for utfall som kan oppstå i løpet av bruken av ressursene våre. Vi forbeholder oss retten til å endre priser og revidere retningslinjene for ressursbruk når som helst. \
+\
+ Tillatelse\
+ World Medical Card gir deg en tilbakekallelig, ikke-eksklusiv, ikke-overførbar, begrenset lisens til å laste ned, installere og bruke tjenesten vår strengt i samsvar med vilkårene i denne avtalen. \
+\
+ Disse vilkårene og betingelsene er en kontrakt mellom deg og World Medical Card (referert til i disse vilkårene og betingelsene som \"World Medical Card\", \"oss\", \"vi\" eller \"vår\"), leverandøren av World Medical Card-nettstedet og tjenestene som er tilgjengelige fra World Medical Card-nettstedet (som samlet refereres til i disse vilkårene og betingelsene som \"World Medical Card Service\"). \
+\
+ Du godtar å være bundet av disse vilkårene. Hvis du ikke godtar disse vilkårene og betingelsene, vennligst ikke bruk tjenesten. I disse vilkårene og betingelsene refererer \"du\" både til deg som enkeltperson og til enheten du representerer. Hvis du bryter noen av disse vilkårene og betingelsene, forbeholder vi oss retten til å kansellere kontoen din eller blokkere tilgangen til kontoen din uten varsel. \
+\
+ Definisjoner og nøkkelbegreper\
+ For disse vilkårene: \
+\
+ • Informasjonskapsel: liten mengde data generert av et nettsted og lagret av nettleseren din. Den brukes til å identifisere nettleseren din, gi analyser, huske informasjon om deg som språkpreferanser eller påloggingsinformasjon. \
+\
+ • Bedrift: når denne policyen nevner «Selskap», «vi», «oss» eller «vår», refererer det til World Medical Card, Gamlehaugvegen 20, 5231 Paradis som er ansvarlig for informasjonen din under denne personvernerklæringen. \
+\
+ • Land: hvor World Medical Card eller eierne/grunnleggerne av World Medical Card er basert, i dette tilfellet er Norge. \
+\
+ • Kunde: refererer til selskapet, organisasjonen eller personen som registrerer seg for å bruke World Medical Card Service for å administrere relasjonene med dine forbrukere eller tjenestebrukere. \
+\
+ • Enhet: en hvilken som helst Internett-tilkoblet enhet som telefon, nettbrett, datamaskin eller annen enhet som kan brukes til å besøke World Medical Card og bruke tjenestene. \
+\
+ • IP-adresse: Hver enhet som er koblet til Internett, tildeles et nummer kjent som en IP-adresse (Internet Protocol). Disse numrene er vanligvis tilordnet i geografiske blokker. En IP-adresse kan ofte brukes til å identifisere plasseringen en enhet kobler til Internett fra. \
+\
+ • Personell: refererer til de personene som er ansatt av World Medical Card eller er under kontrakt for å utføre en tjeneste på vegne av en av partene. \
+\
+ • Personopplysninger: all informasjon som direkte, indirekte eller i forbindelse med annen informasjon – inkludert et personlig identifikasjonsnummer – gjør det mulig å identifisere eller identifisere en fysisk person. \
+\
+ • Tjeneste: refererer til tjenesten levert av World Medical Card som beskrevet i de relative vilkårene (hvis tilgjengelig) og på denne plattformen. \
+\
+ • Tredjepartstjeneste: refererer til annonsører, konkurransesponsorer, kampanje- og markedsføringspartnere og andre som leverer innholdet vårt eller hvis produkter eller tjenester vi tror kan interessere deg. \
+\
+ • Nettsted: World Medical Cards nettsted, som kan nås via denne URLen: https://worldmedicalcard.org \
+\
+ • Du: en person eller enhet som er registrert med World Medical Card for å bruke tjenestene. \
+\
+ Begrensninger\
+ Du godtar å ikke, og du vil ikke tillate andre å: \
+\
+ • Lisensiere, selge, leie ut, lease, tildele, distribuere, overføre, være vert for, outsource, avsløre eller på annen måte utnytte tjenesten kommersielt eller gjøre plattformen tilgjengelig for en tredjepart. \
+\
+ • Modifisere, lage avledede arbeider av, demontere, dekryptere, omvendt kompilere eller omvendt konstruere noen del av tjenesten. \
+\
+ • Fjerne, endre eller tilsløre enhver eiendomsmerknad (inkludert merknad om opphavsrett eller varemerke) til eller dets tilknyttede selskaper, partnere, leverandører eller lisensgivere av tjenesten. \
+\
+ Retur- og refusjonspolicy\
+ Takk for at du handler hos oss. Vi setter pris på at du liker å kjøpe tingene vi bygger. Vi vil også sørge for at du får en givende opplevelse mens du utforsker, vurderer og kjøper produktene våre. \
+\
+ Som med enhver kjøpsopplevelse, er det vilkår og betingelser som gjelder for transaksjoner hos vårt selskap. Vi skal være så korte som advokatene våre tillater. Det viktigste å huske er at ved å legge inn en bestilling eller foreta et kjøp fra oss, godtar du vilkårene sammen med vår personvernerklæring. \
+\
+ Hvis du av en eller annen grunn ikke er helt fornøyd med noen varer eller tjenester vi tilbyr, ikke nøl med å kontakte oss, så vil vi diskutere noen av problemene du går gjennom med produktet vårt. \
+\
+ Dine forslag\
+ Eventuelle tilbakemeldinger, kommentarer, ideer, forbedringer eller forslag (samlet kalt \"Forslag\") gitt av deg til oss med hensyn til tjenesten skal forbli den eneste og eksklusive eiendommen til oss. Vi skal stå fritt til å bruke, kopiere, modifisere, publisere eller omdistribuere forslagene til ethvert formål og på hvilken som helst måte uten kreditt eller kompensasjon til deg. \
+\
+ Ditt samtykke\
+ Vi har oppdatert våre vilkår og betingelser for å gi deg fullstendig åpenhet om hva som angis når du besøker nettstedet vårt og hvordan det brukes. Ved å bruke tjenesten vår, registrere en konto eller foreta et kjøp, samtykker du herved til våre vilkår og betingelser. \
+\
+ Lenker til andre nettsteder\
+ Tjenesten vår kan inneholde lenker til andre nettsteder som ikke drives av oss. Hvis du klikker på en tredjepartskobling, vil du bli dirigert til denne tredjepartens nettsted. Vi anbefaler deg på det sterkeste å gå gjennom vilkårene og betingelsene for hvert nettsted du besøker. Vi har ingen kontroll over og påtar oss intet ansvar for innholdet, vilkårene og vilkårene eller praksisen til tredjeparts nettsteder eller tjenester. \
+\
+ Informasjonskapsler\
+ Vi bruker \"informasjonskapsler\" for å identifisere områdene på nettstedet vårt som du har besøkt. En informasjonskapsel er en liten del av data som lagres på datamaskinen eller mobilenheten din av nettleseren din. Vi bruker informasjonskapsler for å forbedre ytelsen og funksjonaliteten til tjenesten vår, men er ikke avgjørende for bruken av dem. Uten disse informasjonskapslene kan imidlertid visse funksjoner som videoer bli utilgjengelige, eller du vil bli bedt om å angi påloggingsinformasjonen din hver gang du besøker plattformen vår, da vi ikke ville kunne huske at du hadde logget på tidligere. De fleste nettlesere kan settes til å deaktivere bruken av informasjonskapsler. Men hvis du deaktiverer informasjonskapsler, kan det hende du ikke får tilgang til funksjonaliteten på nettstedet vårt på riktig måte eller i det hele tatt. Vi plasserer aldri personlig identifiserbar informasjon i informasjonskapsler. \
+\
+ Endringer i våre vilkår og betingelser\
+ Du erkjenner og godtar at vi kan stoppe (permanent eller midlertidig) å levere tjenesten (eller funksjoner i tjenesten) til deg eller brukere generelt etter eget skjønn, uten forvarsel til deg. Du kan slutte å bruke tjenesten når som helst. Du trenger ikke spesifikt informere oss når du slutter å bruke tjenesten. Du erkjenner og godtar at hvis vi deaktiverer tilgangen til kontoen din, kan du bli forhindret fra å få tilgang til tjenesten, kontodetaljene dine eller filer eller annet materiale som finnes i kontoen din. Hvis vi bestemmer oss for å endre våre vilkår og betingelser, vil vi legge ut disse endringene på denne siden, og/eller oppdatere vilkårene og betingelsenes endringsdato nedenfor. \
+\
+ Endringer i tjenesten vår\
+ Vi forbeholder oss retten til å modifisere, suspendere eller avbryte, midlertidig eller permanent, tjenesten eller enhver tjeneste som den er koblet til, med eller uten varsel og uten ansvar overfor deg. \
+\
+ Oppdateringer til tjenesten vår\
+ Vi kan fra tid til annen tilby forbedringer eller forbedringer av funksjonene/funksjonaliteten til tjenesten, som kan inkludere patcher, feilrettinger, oppdateringer, oppgraderinger og andre modifikasjoner (\"oppdateringer\"). Oppdateringer kan endre eller slette visse funksjoner og/eller funksjoner i tjenesten. Du godtar at vi ikke har noen forpliktelse til å (i) gi noen oppdateringer, eller (ii) fortsette å tilby eller aktivere noen spesielle funksjoner og/eller funksjonaliteter i tjenesten til deg. Du godtar videre at alle oppdateringer vil (i) anses å utgjøre en integrert del av tjenesten, og (ii) underlagt vilkårene og betingelsene i denne avtalen. \
+\
+ Tredjepartstjenester\
+ Vi kan vise, inkludere eller gjøre tilgjengelig tredjepartsinnhold (inkludert data, informasjon, applikasjoner og andre produkttjenester) eller gi lenker til tredjeparters nettsteder eller tjenester (\"tredjepartstjenester\"). Du erkjenner og godtar at vi ikke skal være ansvarlige for noen tredjepartstjenester, inkludert deres nøyaktighet, fullstendighet, aktualitet, gyldighet, overholdelse av opphavsrett, lovlighet, anstendighet, kvalitet eller andre aspekter ved disse. Vi påtar oss og skal ikke ha noe ansvar eller ansvar overfor deg eller noen annen person eller enhet for noen tredjepartstjenester. Tredjepartstjenester og lenker til disse leveres utelukkende som en bekvemmelighet for deg, og du får tilgang til og bruker dem helt på egen risiko og underlagt slike tredjeparters vilkår og betingelser. \
+\
+ Varighet og oppsigelse\
+ Denne avtalen forblir i kraft inntil den sies opp av deg eller oss. Vi kan, etter eget skjønn, når som helst og av hvilken som helst eller ingen grunn, suspendere eller si opp denne avtalen med eller uten forvarsel. Denne avtalen vil avsluttes umiddelbart, uten forvarsel fra oss, i tilfelle du ikke overholder noen av bestemmelsene i denne avtalen. Du kan også si opp denne avtalen ved å slette tjenesten og alle kopier av den fra datamaskinen din. Ved oppsigelse av denne avtalen skal du slutte med all bruk av tjenesten og slette alle kopier av tjenesten fra datamaskinen din. Oppsigelse av denne avtalen vil ikke begrense noen av våre rettigheter eller rettsmidler ved lov eller rettferdighet i tilfelle brudd fra deg (i løpet av denne avtalens gyldighetstid) av noen av dine forpliktelser i henhold til denne avtalen. \
+\
+ Hvis du er en opphavsrettseier eller en slik eiers agent og mener at noe materiale fra oss utgjør et brudd på opphavsretten din, vennligst kontakt oss og oppgi følgende informasjon: (a) en fysisk eller elektronisk signatur fra opphavsrettseieren eller en person som er autorisert til å handle på hans vegne; (b) identifikasjon av materialet som hevdes å være krenkende; (c) din kontaktinformasjon, inkludert din adresse, telefonnummer og en e-post; (d) en erklæring fra deg om at du har en god tro på at bruken av materialet ikke er autorisert av opphavsrettseierne; og (e) en erklæring om at informasjonen i varselet er nøyaktig, og under straff for mened er du autorisert til å handle på vegne av eieren. \
+\
+ Skadeserstatning\
+ Du samtykker i å holde oss og våre foreldre, datterselskaper, tilknyttede selskaper, offiserer, ansatte, agenter, partnere og lisensgivere (hvis noen) skadesløse fra ethvert krav eller krav, inkludert rimelige advokatsalærer, på grunn av eller som følge av dine: ( a) bruk av tjenesten; (b) brudd på denne avtalen eller noen lov eller forskrift; eller (c) brudd på en tredjeparts rettigheter.\
+ Ingen garantier\
+ Tjenesten leveres til deg \"AS IS\" og \"AS AVAILABLE\" og med alle feil og mangler uten garanti av noe slag. I den grad det er tillatt under gjeldende lov, fraskriver vi oss, på egne vegne og på vegne av våre tilknyttede selskaper og våre respektive lisensgivere og tjenesteleverandører, uttrykkelig alle garantier, enten det er uttrykkelig, underforstått, lovfestet eller på annen måte, med hensyn til tjenesten, inkludert alle underforståtte garantier for salgbarhet, egnethet for et bestemt formål, tittel og ikke-krenkelse, og garantier som kan oppstå som følge av handel, ytelsesforløp, bruk eller handelspraksis. Uten begrensning til det foregående gir vi ingen garanti eller forpliktelse, og gir ingen representasjon av noe slag om at tjenesten vil oppfylle dine krav, oppnå tiltenkte resultater, være kompatibel eller fungere med annen programvare, nettsteder, systemer eller tjenester, operere uten avbrudd, oppfylle ytelses- eller pålitelighetsstandarder eller være feilfri eller at eventuelle feil eller mangler kan eller vil bli rettet. \
+\
+ Uten å begrense det foregående gir verken oss eller noen leverandør noen representasjon eller garanti av noe slag, uttrykkelig eller underforstått: (i) med hensyn til driften eller tilgjengeligheten av tjenesten, eller informasjonen, innholdet og materialene eller produktene som er inkludert på den; (ii) at tjenesten vil være uavbrutt eller feilfri; (iii) med hensyn til nøyaktigheten, påliteligheten eller valutaen til informasjon eller innhold gitt gjennom tjenesten; eller (iv) at tjenesten, dens servere, innholdet eller e-poster sendt fra eller på vegne av oss er fri for virus, skript, trojanske hester, ormer, skadelig programvare, tidsbomber eller andre skadelige komponenter. Noen jurisdiksjoner tillater ikke ekskludering av eller begrensninger på underforståtte garantier eller begrensningene på gjeldende lovfestede rettigheter til en forbruker, så noen eller alle de ovennevnte ekskluderingene og begrensningene gjelder kanskje ikke for deg. \
+\
+ Ansvarsbegrensning\
+ Til tross for eventuelle skader du måtte pådra deg, skal hele ansvaret til oss og enhver av våre leverandører i henhold til en bestemmelse i denne avtalen og ditt eksklusive rettsmiddel for alt det foregående være begrenset til beløpet du faktisk har betalt for tjenesten. I den grad det er tillatt av gjeldende lov, skal vi eller våre leverandører under ingen omstendigheter være ansvarlige for noen spesielle, tilfeldige, indirekte eller følgeskader (inkludert, men ikke begrenset til, skader for tap av fortjeneste, for tap av data eller annen informasjon, for forretningsavbrudd, for personskade, for tap av personvern som oppstår som følge av eller på noen måte relatert til bruken av eller manglende evne til å bruke tjenesten, tredjeparts programvare og/eller tredjeparts maskinvare som brukes med tjenesten, eller på annen måte i forbindelse med noen bestemmelse i denne avtalen), selv om vi eller en hvilken som helst leverandør har blitt informert om muligheten for slike skader, og selv om løsningen ikke oppfyller sitt vesentlige formål. Noen stater/jurisdiksjoner tillater ikke utelukkelse eller begrensning av tilfeldige skader eller følgeskader, så det kan hende at begrensningene eller ekskluderingen ovenfor ikke gjelder deg. \
+\
+ Skillebarhet\
+ Hvis en bestemmelse i denne avtalen anses for å være uhåndhevbar eller ugyldig, vil en slik bestemmelse endres og tolkes for å oppnå målene for en slik bestemmelse i størst mulig grad under gjeldende lov, og de gjenværende bestemmelsene vil fortsette med full kraft og virkning. Denne avtalen, sammen med personvernerklæringen og eventuelle andre juridiske merknader publisert av oss på tjenestene, skal utgjøre hele avtalen mellom deg og oss angående tjenestene. Hvis en bestemmelse i denne avtalen anses som ugyldig av en domstol med kompetent jurisdiksjon, skal ugyldigheten av en slik bestemmelse ikke påvirke gyldigheten av de gjenværende bestemmelsene i denne avtalen, som skal forbli i full kraft og virkning. Ingen fraskrivelse av noe vilkår i denne avtalen skal anses som en ytterligere eller vedvarende fraskrivelse av et slikt vilkår eller andre vilkår, og vår unnlatelse av å hevde noen rettighet eller bestemmelse under denne avtalen skal ikke utgjøre en fraskrivelse av slik rett eller bestemmelse. DU OG OSS SAMTYKKER AT ENHVER HANDLINGSÅRSAK SOM STÅR PÅ ELLER KNYTTET TIL TJENESTERNE MÅ BEGYNDES INNEN ETT (1) ÅR ETTER AT HANDLINGSÅRSAKEN ER OPP. ELLER ER SLIK ÅRSAK TIL HANDLING PERMANENT sperret. \
+\
+ Fraskrivelse\
+ Med unntak av det som er angitt her, skal unnlatelse av å utøve en rettighet eller å kreve oppfyllelse av en forpliktelse i henhold til denne avtalen ikke påvirke en parts evne til å utøve slik rett eller kreve slik ytelse på noe tidspunkt etterpå, og heller ikke skal fraskrivelse av et brudd utgjøre fraskrivelse av eventuelle senere brudd. \
+\
+ Ingen unnlatelse av å utøve, og ingen forsinkelse i å utøve, fra noen av partene, av noen rettigheter eller noen makt under denne avtalen skal fungere som en fraskrivelse av denne rettigheten eller makten. Ingen enkelt eller delvis utøvelse av noen rettighet eller makt under denne avtalen skal heller ikke utelukke videre utøvelse av denne eller andre rettigheter gitt her. I tilfelle konflikt mellom denne avtalen og gjeldende kjøp eller andre vilkår, skal vilkårene i denne avtalen gjelde. \
+\
+ Endringer i denne avtalen\
+ Vi forbeholder oss retten til, etter eget skjønn, å endre eller erstatte denne avtalen når som helst. Hvis en revisjon er vesentlig, gir vi minst 30 dagers varsel før eventuelle nye vilkår trer i kraft. Hva som utgjør en vesentlig endring avgjøres etter eget skjønn. Ved å fortsette å få tilgang til eller bruke tjenesten vår etter at eventuelle revisjoner trer i kraft, godtar du å være bundet av de reviderte vilkårene. Hvis du ikke godtar de nye vilkårene, er du ikke lenger autorisert til å bruke tjenesten vår. \
+\
+ Hele avtalen\
+ Avtalen utgjør hele avtalen mellom deg og oss angående din bruk av tjenesten og erstatter alle tidligere og samtidige skriftlige eller muntlige avtaler mellom deg og oss. Du kan være underlagt ytterligere vilkår og betingelser som gjelder når du bruker eller kjøper andre tjenester fra oss, som vi vil gi deg på tidspunktet for slik bruk eller kjøp. \
+\
+ Oppdateringer av vilkårene våre\
+ Vi kan endre tjenesten og retningslinjene våre, og vi må kanskje gjøre endringer i disse vilkårene slik at de nøyaktig gjenspeiler tjenesten og retningslinjene våre. Med mindre annet er påkrevd ved lov, vil vi varsle deg (for eksempel gjennom tjenesten vår) før vi gjør endringer i disse vilkårene og gi deg en mulighet til å gjennomgå dem før de trer i kraft. Deretter, hvis du fortsetter å bruke tjenesten, vil du være bundet av de oppdaterte vilkårene. Hvis du ikke vil godta disse eller noen oppdaterte vilkår, kan du slette kontoen din. \
+\
+ Åndsverk\
+ Plattformen vår og hele innholdet, funksjonene og funksjonaliteten (inkludert men ikke begrenset til all informasjon, programvare, tekst, skjermer, bilder, video og lyd, og utformingen, utvalget og arrangementet av disse), eies av oss, dets lisensgivere eller andre leverandører av slikt materiale og er beskyttet av internasjonale lover om opphavsrett, varemerker, patenter, forretningshemmeligheter og andre immaterielle rettigheter. Materialet kan ikke kopieres, modifiseres, reproduseres, lastes ned eller distribueres på noen måte, helt eller delvis, uten uttrykkelig skriftlig tillatelse fra oss, med mindre og med unntak av det som er uttrykkelig gitt i disse vilkårene og betingelsene. Enhver uautorisert bruk av materialet er forbudt. \
+\
+ Avtale om voldgift\
+ Denne seksjonen gjelder enhver tvist, UNNTATT DET IKKE INKLUDERER EN TVIST KNYTTET TIL KRAV OM FORFALDSMEDDELELSE ELLER RETTLIG LØTTE ANGÅENDE HÅNDHÅVELSEN ELLER GYLDIGHETEN AV DIN ELLER World Medical Cards IMMATERIELLE EIENDOMSRETTIGHETER. Begrepet \"tvist\" betyr enhver tvist, handling eller annen uenighet mellom deg og oss angående tjenestene eller denne avtalen, enten det er i kontrakt, garanti, erstatning, lov, forskrift, ordinans eller annet juridisk eller rettferdig grunnlag. «Tvist» vil gis den bredest mulige betydningen som er tillatt i henhold til loven. \
+\
+ Varsel om tvist\
+ I tilfelle en tvist må du eller oss gi den andre en melding om tvist, som er en skriftlig erklæring som angir navn, adresse og kontaktinformasjon til parten som gir den, fakta som gir opphav til tvisten, og lettelsen som ble bedt om. Du må sende ethvert varsel om tvist via e-post til: . Vi vil sende ethvert varsel om tvist til deg via post til adressen din hvis vi har den, eller på annen måte til din e-postadresse. Du og oss vil forsøke å løse enhver tvist gjennom uformelle forhandlinger innen seksti (60) dager fra datoen varselet om tvist er sendt. Etter seksti (60) dager kan du eller oss starte voldgift. \
+\
+ Bindende voldgift\
+ Hvis du og oss ikke løser noen tvist ved uformelle forhandlinger, vil enhver annen innsats for å løse tvisten utelukkende bli utført ved bindende voldgift som beskrevet i denne delen. Du gir fra deg retten til å saksøke (eller delta i som part eller gruppemedlem) alle tvister i retten for en dommer eller jury. Tvisten skal avgjøres ved bindende voldgift i samsvar med de kommersielle voldgiftsreglene til American Arbitration Association. Hver av partene kan søke om midlertidig eller foreløpig forføyning fra enhver domstol med kompetent jurisdiksjon, etter behov for å beskytte partens rettigheter eller eiendom i påvente av fullføringen av voldgift. Alle juridiske, regnskapsmessige og andre kostnader, gebyrer og utgifter som påløper av den rådende parten skal bæres av den ikke-rådende parten. \
+\
+\
+ Innleveringer og personvern\
+ I tilfelle du sender inn eller legger ut ideer, kreative forslag, design, fotografier, informasjon, annonser, data eller forslag, inkludert ideer til nye eller forbedrede produkter, tjenester, funksjoner, teknologier eller kampanjer, godtar du uttrykkelig at slike innsendinger automatisk behandles som ikke-konfidensiell og ikke-eiendomsbeskyttet og vil bli vår eneste eiendom uten noen som helst kompensasjon eller kreditt til deg. Vi og våre tilknyttede selskaper skal ikke ha noen forpliktelser med hensyn til slike bidrag eller innlegg og kan bruke ideene i slike bidrag eller innlegg til alle formål i et hvilket som helst medium i evighet, inkludert, men ikke begrenset til, utvikling, produksjon og markedsføring av produkter og tjenester som bruker slike ideer. \
+\
+ Kampanjer\
+ Vi kan fra tid til annen inkludere konkurranser, kampanjer, konkurranser eller andre aktiviteter (\"kampanjer\") som krever at du sender inn materiale eller informasjon om deg selv. Vær oppmerksom på at alle kampanjer kan være underlagt separate regler som kan inneholde visse kvalifikasjonskrav, for eksempel begrensninger med hensyn til alder og geografisk plassering. Du er ansvarlig for å lese alle kampanjeregler for å avgjøre om du er kvalifisert til å delta eller ikke. Hvis du deltar i en kampanje, godtar du å følge og overholde alle kampanjeregler. Ytterligere vilkår og betingelser kan gjelde for kjøp av varer eller tjenester på eller gjennom tjenestene, hvilke vilkår og betingelser er gjort til en del av denne avtalen med denne referansen. \
+\
+ Typografiske feil\
+ I tilfelle et produkt og/eller en tjeneste er oppført til feil pris eller med feil informasjon på grunn av trykkfeil, har vi rett til å nekte eller kansellere bestillinger for produktet og/eller tjenesten som er oppført til feil pris. Vi skal ha rett til å avslå eller kansellere enhver slik bestilling uansett om bestillingen er bekreftet og kredittkortet ditt belastet. Hvis kredittkortet ditt allerede er belastet for kjøpet og bestillingen din er kansellert, vil vi umiddelbart utstede en kreditt til kredittkortkontoen din eller annen betalingskonto tilsvarende beløpet for belastningen. \
+\
+ Diverse\
+ Hvis en domstol med kompetent jurisdiksjon av en eller annen grunn finner at en bestemmelse eller del av disse vilkårene og betingelsene ikke kan håndheves, vil resten av disse vilkårene og betingelsene fortsette med full kraft og virkning. Enhver fraskrivelse av noen bestemmelse i disse vilkårene og betingelsene vil bare være effektive dersom de er skriftlige og signert av en autorisert representant for oss. Vi vil være berettiget til påbud eller annen rettferdig lettelse (uten forpliktelser til å legge ut obligasjoner eller kausjon) i tilfelle brudd eller foregripende brudd fra deg. Vi driver og kontrollerer tjenesten vår fra våre kontorer i . Tjenesten er ikke ment for distribusjon til eller bruk av noen person eller enhet i noen jurisdiksjon eller land der slik distribusjon eller bruk vil være i strid med lov eller forskrift. Følgelig gjør de personene som velger å få tilgang til tjenesten vår fra andre steder på eget initiativ og er eneansvarlige for overholdelse av lokale lover, hvis og i den grad lokale lover er gjeldende. Disse vilkårene og betingelsene (som inkluderer og innlemmer vår personvernerklæring) inneholder hele forståelsen, og erstatter alle tidligere forståelser, mellom deg og oss angående emnet, og kan ikke endres eller modifiseres av deg. Seksjonsoverskriftene som brukes i denne avtalen er kun for enkelhets skyld og vil ikke bli gitt noen juridisk import. \
+\
+ Ansvarsfraskrivelse\
+ Vi er ikke ansvarlige for noe innhold, kode eller annen unøyaktighet. Vi gir ingen garantier eller garantier. Vi skal ikke under noen omstendigheter holdes ansvarlige for noen spesielle, direkte, indirekte, følgeskader eller tilfeldige skader eller skader overhodet, enten det er i en kontraktshandling, uaktsomhet eller annen tort, som oppstår fra eller i forbindelse med bruken av tjenesten eller innholdet i tjenesten. Vi forbeholder oss retten til å gjøre tillegg, slettinger eller endringer i innholdet på tjenesten når som helst uten forvarsel. \
+\
+ Tjenesten vår og dens innhold leveres \"som den er\" og \"som tilgjengelig\" uten noen garanti eller representasjoner av noe slag, enten det er uttrykkelig eller underforstått. Vi er en distributør og ikke en utgiver av innholdet levert av tredjeparter; som sådan, utøver vår ingen redaksjonell kontroll over slikt innhold og gir ingen garanti eller representasjon med hensyn til nøyaktigheten, påliteligheten eller valutaen til informasjon, innhold, tjenester eller varer levert gjennom eller tilgjengelig via tjenesten vår. Uten å begrense det foregående fraskriver vi oss spesifikt alle garantier og representasjoner i alt innhold som overføres på eller i forbindelse med tjenesten vår eller på nettsteder som kan vises som lenker på tjenesten vår, eller i produktene som leveres som en del av eller på annen måte i forbindelse med , vår tjeneste, inkludert, men ikke begrenset til, garantier for salgbarhet, egnethet for et bestemt formål eller ikke-krenkelse av tredjeparts rettigheter. Ingen muntlige råd eller skriftlig informasjon gitt av oss eller noen av dets tilknyttede selskaper, ansatte, offiserer, direktører, agenter eller lignende vil skape en garanti. Informasjon om pris og tilgjengelighet kan endres uten varsel. Uten å begrense det foregående, garanterer vi ikke at tjenesten vår vil være uavbrutt, uforstyrret, rettidig eller feilfri. \
+\
+ Kontakt oss\
+ Ikke nøl med å kontakte oss hvis du har spørsmål.\
+ • Via E-post: post@wmc-card.no\
+ • Via telefonnummer: +47 55 33 75 75";
+"register_to_wmc_title" = "Registrer deg for World Medical Card®";
+"create_account_button" = "Opprett konto";
+"register_byline" = "Vennligst fyll inn din personlige informasjon for å opprette en konto, du kan endre den senere.";
+"signup_with_google_button" = "Registrer deg med Google";
+"divider_or_text" = "Eller";
+"register_email_field_hint" = "E-post";
+"register_password_field_hint" = "Passord";
+"register_password_min_hint" = "minimum 8 tegn";
+"screen_title_hi" = "👋🏻 Hei";
+"no_subscription_title" = "Ingen abonnement";
+"no_subscription_description" = "Vennligst abonner på et produkt for å nyte alle funksjonene til World Medical Card";
+"subscribe_button" = "Registrer deg nå";
+"common_dash" = "-";
+"screen_title_good_afternoon" = "👋🏻 God ettermiddag";
+"title_your_profile_is_incomplete" = "Profilen din er ufullstendig";
+"description_your_profile_is_incomplete" = "Vennligst fyll ut profilen din for å nyte alle funksjonene på World Medical Card";
+"complete_my_profile_button" = "Fullfør profilen min";
+"personal_info_card_title" = "Personlig informasjon";
+"personal_info_card_description" = "Gi oss muligheten til å bli bedre kjent med deg for en bedre opplevelse";
+"profile_birthdate" = "Fødselsdato";
+"profile_ssn" = "CPR-nummer";
+"profile_nationality" = "Nasjonalitet";
+"profile_travel_insurance" = "Reiseforsikring";
+"profile_organ_donor" = "Organdonor";
+"profile_policy_number" = "Polisnummer";
+"profile_policy_date" = "Medlem inntil/Utstedt den";
+"error_message" = "Noe gikk galt. Prøv igjen senere.";
+"error_no_internet" = "Vennligst sjekk internettforbindelsen";
+"error_no_data_found" = "Finner ingen data";
+"error_unauthorized" = "Beklager, men du har ikke tillatelse til å få tilgang til dette innholdet";
+"error_empty_response" = "Beklager, innholdet er tomt";
+"allergies_card_title" = "Allergier";
+"allergies_card_description" = "Fortell oss om du har noen allergier eller hvis du vet at du ikke har noen";
+"add_allergies_button" = "Legg til allergier";
+"no_allergies_listed" = "Ingen allergier angitt";
+"button_add" = "Legg til";
+"button_translate" = "Oversett";
+"button_share" = "Del";
+"complete_your_profile" = "Fullfør profilen din";
+"profile_gender" = "Kjønn";
+"profile_telephone" = "Telefon";
+"profile_postal_address" = "Adresse";
+"member_since" = "Medlem siden %1$@";
+"alarm_phone" = "Nødtelefon";
+"emergency_contacts" = "Kontaktpersoner i nødstilfeller";
+"other_information" = "Annen informasjon";
+"tap_edit_to_complete_profile" = "Trykk på Rediger nedenfor for å fullføre profilen din";
+"card_items_description" = "%1$@ elementer: %2$@";
+"medicine_card_title" = "Medisiner";
+"no_medications_listed" = "Ingen medisiner angitt";
+"diagnoses_card_title" = "Diagnoser";
+"no_diagnoses_listed" = "Ingen diagnoser oppført";
+"vaccines_card_title" = "Vaksiner";
+"no_vaccines_listed" = "Ingen vaksiner er oppført";
+"documents_card_title" = "Dokumenter";
+"no_documents_added" = "Ingen dokumenter lagt til";
+"terms_and_conditions_button" = "Vilkår og betingelser";
+"sign_out_button" = "Logg ut";
+"order_now_button" = "Bestill nå";
+"order_your_card_title" = "Bestill kortet ditt";
+"order_your_card_description" = "Nyt alle funksjonene til World Medical Card fra lommeboken";
+"wmc_order_successful" = "Ordren var vellykket";
+"wmc_card_menu_print_card" = "Skriv ut kortet";
+"wmc_card_menu_reorder_card" = "Bestill kortet på nytt";
+"signin_with_google_button" = "Logg på med Google";
+"login_to_wmc_title" = "Logg inn på World Medical Card®";
+"login_byline" = "Hvordan vil du logge på?";
+"common_yes" = "Ja";
+"common_no" = "Nei";
+"personal_info_title" = "Personlig informasjon";
+"common_save" = "Lagre";
+"personal_info_byline" = "Vennligst fyll inn din personlige informasjon for å opprette en konto, du kan endre den senere.";
+"profile_edit_first_name" = "Fornavn";
+"profile_edit_last_name" = "Etternavn";
+"profile_edit_date_of_birth" = "Fødselsdato";
+"profile_edit_ssn" = "CPR-nummer (valgfritt)";
+"profile_edit_phone" = "Telefonnummer";
+"profile_edit_donor_question" = "Vil du bli organdonor?";
+"profile_edit_donor_note" = "Helsepersonell vil bli bedt om å be familien bekrefte avgjørelsen din";
+"profile_edit_postal_address_note" = "Fyll inn adressen du vil at vi skal sende kortet til. Adressen vil ikke vises på nødkortet.";
+"profile_edit_postal_code" = "Postnummer/by";
+"profile_edit_land" = "Land";
+"profile_edit_insurance_title" = "Forsikring";
+"profile_edit_insurance_note" = "Legg til forsikringsinformasjon for referanse.";
+"profile_edit_insurance_type" = "Forsikringstype";
+"profile_edit_insurance_travel" = "Reiseforsikring";
+"profile_edit_insurance_health" = "Helseforsikring";
+"profile_edit_policy_number" = "Polisnummer (valgfritt)";
+"profile_edit_alarm_phone" = "Nødtelefon (valgfritt)";
+"profile_edit_emergency_contacts_note" = "Legg til kontakter du stoler på i nødstilfeller.";
+"profile_edit_emergency_contacts_name" = "Navn";
+"profile_edit_emergency_contacts_phone" = "Telefonnummer";
+"profile_edit_emergency_contacts_relation" = "Relasjon";
+"profile_edit_other_title" = "Annen";
+"profile_edit_other_hint" = "Vil du inkludere annen informasjon?";
+"profile_edit_city" = "By";
+"profile_gender_male" = "Mann";
+"profile_gender_female" = "Kvinne";
+"add_new_allergy_title" = "Legg til ny allergi";
+"add_new_medicine_title" = "Legg til ny medisin";
+"add_new_diagnoses_title" = "Legg til nye diagnoser";
+"add_new_search_hint" = "Søk";
+"profile_edit_select_birthdata" = "Velg fødselsdato";
+"dashboard_screen_title_morning" = "👋🏻 God morgen";
+"dashboard_screen_title_evening" = "👋🏻 God ettermiddag";
+"dashboard_screen_title_night" = "👋🏻 God natt";
+"add_document_document_title_hint" = "Tittel på dokument";
+"add_document_document_type_hint" = "Dokumenttype";
+"add_document_description_hint" = "Beskrivelse (valgfritt)";
+"add_new_vaccines_title" = "Legg til ny vaksine";
+"signup_button_title" = "Registrere";
+"signin_button_title" = "Logg Inn";
+"apple_button_title" = "med Apple";
+"google_button_title" = "med Google";
+"add_new_allergy_top_hits" = "Populære treff";
+"edit_card_dialog_remove_item_title" = "Fjern elementet";
+"common_cancel" = "Avbryt";
+"common_remove" = "Slett";
+"maybe_later_button" = "Kanskje senere";
+"please_check_your_email_and_password" = "Sjekk e-postadressen og passordet ditt";
+"ok_button_title" = "OK";
+"cancel_button_title" = "Avbryt";
+"field_required_title" = "Feltet er obligatorisk";
+"add_document_title" = "Legg til nytt dokument";
+"edit_document_title" = "Rediger dokument";
+"edit_card_dialog_remove_items_title" = "Slett element(er)";
+"edit_card_dialog_edit_item_title" = "Rediger element";
+"add_document_edit_button" = "Rediger dokument";
+"select_file_to_upload" = "Velg filen du vil laste opp";
+"profile_zip" = "POSTNUMMER";
+"profile_country" = "Land";
+"profile_screen_title" = "Profil";
+"profile_insurance_type_health" = "Helse";
+"profile_insurance_type_travel" = "Reise";
+"profile_save_button_title" = "Lagre";
+"sign_in_password_incorrect" = "Kontoen ble ikke funnet. Prøv å logge på med Google-konto eller e-post og passord";
+"profile_validation_required_fields" = "Fødselsdato, nasjonalitet, telefon og kjønn kreves";
+"card_order_missing_info" = "Vennligst sjekk at informasjonen nedenfor er korrekt, vennligst kontakt oss hvis du finner noen feil.";
+"members_name" = "Navn";
+"members_address" = "Adresse";
+"members_zip_code" = "Postnummer";
+"members_country" = "Land";
+"members_emergency_contact" = "Nødkontakter";
+"members_birthdate" = "Fødselsdato";
+"members_gender" = "Kjønn";
+"member_card_order_date" = "Utskriftsdato";
+"members_diagnosis" = "Diagnoser";
+"members_medications" = "Medisiner";
+"members_allergies" = "Allergier";
+"members_other_info" = "Annen informasjon";
+"card_order_greeting" = "Kjære";
+"card_order_info_ready" = "Her ligger ditt akuttmedisinske kort med din viktige informasjon klart i tilfelle akuttpersonell trenger det i en nødssituasjon.";
+"card_order_instruction_dos" = "Vennligst gjør følgende";
+"card_order_instruction_one" = "Riv kortet av utskriften";
+"card_order_instruction_two" = "Åpne utskriften og kontroller at informasjonen er korrekt";
+"card_order_instruction_three" = "Legg kortet i lommeboken din";
+"card_order_miscelleneous_one" = "Ta vare på deg selv og vær trygg";
+"card_order_miscelleneous_two" = "Med vennlig hilsen World Medical Card Support";
+"card_order_ps_note" = "PS! Husk at helseprofilen din også er tilgjengelig i App og web.";
+"translate_my_title" = "Mine %1$s";
+"translate_language_hint" = "Språk";
+"translate_code_prefix" = "• Kode: %1$@";
+"translate_title_allergies" = "Mine allergier";
+"translate_title_medicine" = "Mine medisiner";
+"translate_title_diagnoses" = "Mine diagnoser";
+"translate_title_vaccines" = "Mine vaksiner";
+"subscription_overview_title" = "Mine abonnementer";
+"subscription_overview_subtitle" = "Nåværende abonnement ( %1li )";
+"subscription_overview_hint" = "Du har for øyeblikket ikke et abonnement med World Medical Card, klikk på abonner nedenfor og nyt alle funksjonene til World Medical Card";
+"subscription_overview_add_subscription_button" = "Legg til abonnement";
+"subscription_overview_item_subscription_manager_title" = "Medlemskapsadministrator:";
+"subscription_overview_item_membership_occupancy_title" = "Antall medlemmer:";
+"subscription_overview_item_expired_title" = "Utløpt";
+"subscription_overview_text_subscribe" = "Klikk her for å abonnere på ny medlemspakke";
+"subscription_detail_title" = "Abonnementsdetaljer";
+"subscription_detail_member_list_title" = "Medlemmer";
+"subscription_detail_membership_left_full_title" = "Du har <b> %1li </b> medlemskap igjen i denne pakken.\
+ For å legge til et nytt medlem, vennligst klikk på knappen nedenfor.";
+"subscription_detail_membership_left_title" = "Du har <b> %1li </b> medlemskap igjen i denne pakken.";
+"subscription_detail_add_member_title" = "Legg til flere medlemmer";
+"subscription_detail_payment_method_title" = "Betalingsmetode";
+"subscription_detail_paid_with_text" = "Betalt med";
+"subscription_invitation_title" = "Legg til nytt medlem";
+"subscription_invitation_add_member_button" = "Legg til medlem";
+"subscription_delete_member_dialog_title" = "Slett medlem";
+"subscription_delete_member_dialog_message" = "Er du sikker på at du vil fjerne dette medlemmet fra denne abonnementspakken?";
+"subscription_delete_member_dialog_positive_button" = "Bekrefte";
+"subscription_delete_member_dialog_negative_button" = "Avbryt";
+"subscription_detail_memberlist_title" = "";
+"subscription_detail_memberlist_full_description" = "";
+"subscription_detail_memberlist_add" = "";
+"subscription_detail_payment_title" = "";
+"subscription_detail_payment_method" = "";
+"subscription_remove_member_alert_title" = "Vil du fjerne dette medlemmet?";
+"subscription_remove_member_alert_message" = "[varselmelding]";
+"subscription_remove_member_alert_ok" = "Ok";
+"subscription_remove_member_alert_cancel" = "Avbryt";
+"subscription_add_member_title" = "Legg til nytt medlem";
+"subscription_add_member_placeholder_email" = "E-post";
+"subscription_add_member_alert_invite_title" = "[noen tittel]";
+"subscription_add_member_alert_invite_ok" = "Medlem invitert";
+"subscription_add_member_action_add" = "Legg til medlem";
+"subscription_remove_membership_button_title" = "Fjern medlemskap";
+"subscription_remove_membership_dialog_title" = "Slett medlemskap";
+"subscription_remove_membership_dialog_text" = "Er du sikker på at du vil bli fjernet fra denne medlemspakken?";
+"subscription_detail_action_cancel_subcription" = "Avbestille abonnementet";
+"subscription_detail_alert_cancel_subcription_title" = "Avbestille abonnementet";
+"subscription_detail_alert_cancel_subcription_message" = "Er du sikker på at du vil kansellere dette abonnementet?";
+"subscription_detail_alert_cancel_subcription_cancel" = "Avbestill";
+"subscription_detail_alert_cancel_subcription_confirm" = "Bekrefte";
+"common_photolibrary" = "Fotobibliotek";
+"common_takephoto" = "Ta bilde";
+"common_choosefile" = "Velg fil";
+"purchase_subscription_web_link" = "https://worldmedicalcard.org/no/#subscriptions";
+"subscription_not_active_dialog_title" = "Ingen aktive abonnementer";
+"subscription_not_active_dialog_message" = "Det ser ut til at du for øyeblikket ikke har noen aktive abonnementer. Du kan bestille ved å bruke lenken nedenfor.";
+"subscription_time_out_dialog_title" = "Å nei";
+"subscription_time_out_dialog_message" = "Abonnementstjenesten vår er opptatt for øyeblikket. Prøv igjen senere.";
+"no_allergy_add_message" = "Ingen allergier lagt til";
+"no_medicine_add_message" = "Ingen medisin tilsatt";
+"no_diagnose_add_message" = "Ingen diagnoser lagt til";
+"no_vaccine_add_message" = "Ingen vaksiner tilsatt";
+"no_document_add_message" = "Ingen dokumenter lagt til";
+"menu_home" = "Hjem";
+"menu_manage_subscription" = "Administrer abonnement";
+"menu_term_condition" = "Vilkår og betingelser";
+"order_completed_your_card_title" = "Kortet ditt";
+"click_edit_profile" = "Klikk for å redigere profilen";
+"click_complete_profile" = "Klikk for å fullføre profilen din";
+"register_email_required" = "E-post er påkrevd";
+"register_email_invalid" = "Ugyldig epost";
+"subscription_detail_cancel_subscription_hint" = "For å fjerne deg selv permanent fra denne abonnementspakken";
+"subscription_detail_cancel_subscription_button" = "Si opp abonnementet ditt";
+"subscription_detail_cancel_membership_title" = "Si opp medlemskapet ditt";
+"subscription_detail_memberlist_available_description" = "du har {numOfMembers} medlemskap igjen i denne pakken. For å legge til medlem, vennligst klikk på knappen nedenfor.";
+"profile_my_profile" = "Min profil";
+"add_new_subscription" = "Legg til nytt abonnement";
+"my_subscription_current_subscription_count" = "Nåværende abonnement {quantity}";
+"terms_conditions_back_button" = "Tilbake";
+"terms_conditions_accept_button" = "Aksepterer";
+"terms_conditions_decline_button" = "Avslå";
+"login_header" = "Hallo";
+"login_options_guide" = "For å starte vennligst logg inn med alternativene nedenfor";
+"login_continue_button" = "Fortsette";
+"login_signup_with_app_button" = "Registrer deg hos Apple";
+"register_password_required" = "Passord er påkrevd";
+"profile_edit_first_name_required" = "Fornavn er påkrevd";
+"profile_edit_last_name_required" = "Etternavn er påkrevd";
+"profile_edit_birth_date_required" = "Fødselsdato er påkrevd";
+"profile_edit_phone_invalid" = "Ugyldig telefonnummer";
+"profile_edit_phone_required" = "Telefonnummer er påkrevd";
+"profile_edit_nationality_required" = "Velg nasjonalitet";
+"profile_edit_gender_required" = "Velg kjønn";
+"profile_edit_emergency_contacts_name_required" = "Navn er påkrevd";
+"profile_edit_emergency_contacts_phone_invalid" = "Ugyldig telefonnummer";
+"profile_edit_emergency_contacts_phone_required" = "Telefonnummer er påkrevd";
+"profile_edit_emergency_contacts_relationship_required" = "Forhold er nødvendig";
+"profile_edit_insurance_company_name_required" = "Forsikringsselskapets navn er påkrevd";
+"profile_edit_insurance_type_required" = "Velg forsikringstype";
+"profile_edit_postal_info_required" = "Gateadresse er påkrevd";
+"profile_edit_postal_city_required" = "By er påkrevd";
+"profile_edit_postal_zip_code_required" = "Postnummer kreves";
+"profile_edit_postal_country_required" = "Land er obligatorisk";
+"profile_edit_my_profile" = "Edit: Min profil";
+"delete_modal_title" = "Bekreft sletting";
+"delete_modal_description" = "Vil du slette dette elementet?";
+"delete_modal_confirm_button" = "Slett";
+"add_document_title_required" = "Tittel er påkrevd";
+"add_document_type_required" = "Velg en dokumenttype";
+"translation_button" = "Oversettelse";
+"order_new_card_title" = "Bestill nytt kort";
+"order_new_card_description" = "Har du gjennomgått din personlige informasjon og medisinske profil for nøyaktighet?";
+"order_new_card_confirm_button" = "Bestillingskort";
+"view_document_title" = "Se dokument(er)";
+"file_upload_drag_drop_file" = "Dra og slipp filen her";
+"file_upload_browse_file" = "Nettleserfil";
+"enter_email_address" = "Skriv inn e-post adresse";
+"profile_edit_police_number" = "Politinummer (valgfritt)";
+"pagination" = "Side {pageNumber} av {numPages}";
+"previous" = "Tidligere";
+"manage_subscription_tab_all" = "Alle";
+"manage_subscription_tab_owner" = "Eieren";
+"manage_subscription_tab_member" = "Medlem";
+"register_login_forget_password_title" = "Glemt passord?";
+"forgot_password_screen_title" = "Tilbakestill passord";
+"forgot_password_screen_description" = "Skriv inn e-postadressen din og trykk på knappen for å tilbakestille passordet ditt";
+"forgot_password_screen_reset_password_button" = "Tilbakestill passord";
+"forgot_password_alert_message" = "Hvis e-postadressen du oppga er registrert i systemet vårt, vil du få en e-post i løpet av kort tid. Følg instruksjonene i e-posten for å tilbakestille passordet.";

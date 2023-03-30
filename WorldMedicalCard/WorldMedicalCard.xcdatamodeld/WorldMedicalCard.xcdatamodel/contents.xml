@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19574" systemVersion="20G314" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="EmergencyContact" representedClassName="EmergencyContact" syncable="YES">
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="phone" optional="YES" attributeType="String"/>
+        <attribute name="relationship" optional="YES" attributeType="String"/>
+        <relationship name="emergencyContact" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="User" inverseName="emergencyContact" inverseEntity="User"/>
+    </entity>
+    <entity name="Insuarance" representedClassName="Insuarance" syncable="YES">
+        <attribute name="company" optional="YES" attributeType="String"/>
+        <attribute name="phone" optional="YES" attributeType="String"/>
+        <attribute name="policy" optional="YES" attributeType="String"/>
+        <attribute name="type" optional="YES" attributeType="String"/>
+        <relationship name="insurance" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="User" inverseName="insurance" inverseEntity="User"/>
+    </entity>
+    <entity name="PostalAddress" representedClassName="PostalAddress" syncable="YES">
+        <attribute name="city" optional="YES" attributeType="String"/>
+        <attribute name="country" optional="YES" attributeType="String"/>
+        <attribute name="info" optional="YES" attributeType="String"/>
+        <attribute name="zipCode" optional="YES" attributeType="String"/>
+        <relationship name="postalAddress" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="User" inverseName="postalAddress" inverseEntity="User"/>
+    </entity>
+    <entity name="User" representedClassName="User" syncable="YES">
+        <attribute name="avatar" optional="YES" attributeType="String"/>
+        <attribute name="birthDate" optional="YES" attributeType="String"/>
+        <attribute name="firstName" optional="YES" attributeType="String"/>
+        <attribute name="gender" optional="YES" attributeType="String"/>
+        <attribute name="isActiveSubscription" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="isForcedRefreshToken" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="lastName" optional="YES" attributeType="String"/>
+        <attribute name="memberSince" optional="YES" attributeType="String"/>
+        <attribute name="nationality" optional="YES" attributeType="String"/>
+        <attribute name="onBoardingRequired" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="organDonation" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="otherInfo" optional="YES" attributeType="String"/>
+        <attribute name="phone" optional="YES" attributeType="String"/>
+        <attribute name="ssn" optional="YES" attributeType="String"/>
+        <relationship name="emergencyContact" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="EmergencyContact" inverseName="emergencyContact" inverseEntity="EmergencyContact"/>
+        <relationship name="insurance" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Insuarance" inverseName="insurance" inverseEntity="Insuarance"/>
+        <relationship name="postalAddress" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="PostalAddress" inverseName="postalAddress" inverseEntity="PostalAddress"/>
+    </entity>
+    <elements>
+        <element name="User" positionX="-63" positionY="-18" width="128" height="284"/>
+        <element name="PostalAddress" positionX="-54" positionY="117" width="128" height="104"/>
+        <element name="Insuarance" positionX="-36" positionY="126" width="128" height="104"/>
+        <element name="EmergencyContact" positionX="-18" positionY="135" width="128" height="89"/>
+    </elements>
+</model>

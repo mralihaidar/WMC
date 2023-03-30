@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>693992819935-uq0gfjpgf9q72nrdaa0jtphjbl39tf9n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.693992819935-uq0gfjpgf9q72nrdaa0jtphjbl39tf9n</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>693992819935-54aeg8tnpg0vmmlmtbci8ll7foqq8lc9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBt1EVYJXJ2utFehbk5Ac4CPQqqmrfdryU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>693992819935</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.wmc-card.dev</string>
+	<key>PROJECT_ID</key>
+	<string>world-medical-card-prod</string>
+	<key>STORAGE_BUCKET</key>
+	<string>world-medical-card-prod.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:693992819935:ios:27ed65f1f1763351742d6a</string>
+</dict>
+</plist>

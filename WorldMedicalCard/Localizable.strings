@@ -1,0 +1,17 @@
+"ApplicationTourViewController.Slide1.Title" = "Fill Your Info";
+"ApplicationTourViewController.Slide2.Title" = "Travel Worry Free";
+"ApplicationTourViewController.Slide3.Title" = "Share Your Info";
+"ApplicationTourViewController.Slide1.Description" = "Your medical information is coded according to World Health Organizations global standards (ICD-10, ATC) to ensure that your condition and requirement is understood by health professionals and pharmaceutical personnel all over the world.";
+"ApplicationTourViewController.Slide2.Description" = "You will have your own personal profile which can be accessed via app or browser. There is a built in translation function for 19 languages which will ease communication in relevant local terms.";
+"ApplicationTourViewController.Slide3.Description" = "You can chose to share your profile with relatives, travel partner or others you trust, so that they can be able to provide you with first line of support.";
+"SlideView.SkipButton.Title" = "Skip Tour";
+"SlideView.NextButton.Title" = "Next";
+"TermsAndConditionsViewController.Title.Label" = "Terms and Conditions";
+"TermsAndConditionsViewController.Button.Title" = "Accept Terms and Conditions";
+"AuthenticationOptionViewController.Title" = "World Medical Card®";
+"AuthenticationOptionViewController.Description" = "Your personal medical record.\n Always available.";
+"AuthenticationOptionViewController.Register.Button" = "Register";
+"AuthenticationOptionViewController.Login.Button" = "Login";
+"RegisterViewController.Create.Account" = "Create Account";
+"RegisterViewController.Title.Label" = "Register";
+"RegisterViewController.Description.Label" = "Please fill your personal information to create an account you can change them later";
